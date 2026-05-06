@@ -18,17 +18,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download amb.json
-        run: |
-          curl --fail \
-               -H "x-api-key: ${{ secrets.OMA_API_KEY }}" \
-               https://openmusic.academy/api/v1/amb/metadata \
-               -o docs/oma-amb.json
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Download amb.json (alle Seiten)
+        env:
+          OMA_API_KEY: ${{ secrets.OMA_API_KEY }}
+        run: python download-amb.py --output docs/oma-amb.json
 
       - name: Convert AMB → RSS
         run: python amb-to-rss.py --input docs/oma-amb.json --output docs/oma-feed.xml
