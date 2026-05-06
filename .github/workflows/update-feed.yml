@@ -1,0 +1,40 @@
+name: Update OMA Feed
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'  # jeden Montag 05:00 UTC
+  workflow_dispatch:       # manueller Start per Knopfdruck
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download amb.json
+        run: |
+          curl --fail \
+               -H "x-api-key: ${{ secrets.OMA_API_KEY }}" \
+               https://openmusic.academy/api/v1/amb/metadata \
+               -o docs/oma-amb.json
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Convert AMB → RSS
+        run: python amb-to-rss.py --input docs/oma-amb.json --output docs/oma-feed.xml
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/oma-amb.json docs/oma-feed.xml
+          git diff --staged --quiet \
+            || git commit -m "chore: feed update $(date -u +%Y-%m-%d)"
+          git push
