@@ -8,11 +8,13 @@ Automatisierter wöchentlicher Export der [Open Music Academy](https://openmusic
 |-------|--------------|
 | `docs/oma-amb.json` | Rohdaten im AMB-Format (JSON) |
 | `docs/oma-feed.xml` | RSS-Feed (XML) für MUNDO u.a. |
+| `docs/oma-marc21.xml` | MARCXML (MARC21) für Bibliothekssysteme |
 
 Nach Aktivierung von GitHub Pages erreichbar unter:
 ```
 https://<org>.github.io/<repo>/oma-amb.json
 https://<org>.github.io/<repo>/oma-feed.xml
+https://<org>.github.io/<repo>/oma-marc21.xml
 ```
 
 ## Setup (einmalig)
@@ -39,7 +41,8 @@ Der Workflow läuft **jeden Montag um 05:00 UTC** und:
 
 1. Lädt `oma-amb.json` von der OMA API herunter (Secret wird nie geloggt)
 2. Konvertiert mit `amb-to-rss.py` in `oma-feed.xml`
-3. Committed beide Dateien in `docs/` und pusht
+3. Konvertiert mit `amb-to-marcxml.py` in `oma-marc21.xml`
+4. Committed alle drei Dateien in `docs/` und pusht
 
 Falls sich nichts geändert hat, wird kein leerer Commit erzeugt.
 
@@ -49,6 +52,9 @@ Falls sich nichts geändert hat, wird kein leerer Commit erzeugt.
 # amb.json manuell laden
 curl -H "x-api-key: DEIN_KEY" https://openmusic.academy/api/v1/amb/metadata -o docs/oma-amb.json
 
-# Feed erzeugen
+# RSS-Feed erzeugen
 python amb-to-rss.py --input docs/oma-amb.json --output docs/oma-feed.xml
+
+# MARCXML erzeugen
+python amb-to-marcxml.py --input docs/oma-amb.json --output docs/oma-marc21.xml
 ```
