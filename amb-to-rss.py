@@ -25,7 +25,7 @@ with open(args.input, "r", encoding="utf-8") as f:
 amb_data.sort(key=lambda x: x.get("datePublished", ""), reverse=True)
 
 ET.register_namespace("media", "http://search.yahoo.com/mrss/")
-rss = ET.Element("rss", version="2.0", attrib={"xmlns:media": "http://search.yahoo.com/mrss/"})
+rss = ET.Element("rss", version="2.0")
 channel = ET.SubElement(rss, "channel")
 
 ET.SubElement(channel, "title").text = "Open Music Academy – AMB Export"
