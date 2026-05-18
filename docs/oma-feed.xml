@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Fri, 15 May 2026 23:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 08:49:04 GMT</lastBuildDate>
+    <item>
+      <title>Hilfe zum Diagramme-Plugin</title>
+      <link>https://openmusic.academy/docs/WuWMEnygANYhsW4sQGHWZb</link>
+      <guid>WuWMEnygANYhsW4sQGHWZb</guid>
+      <description>Hilfe zum Diagramme-Plugin (Charts) der Open Musik Academy. </description>
+      <pubDate>Mon, 11 May 2026 22:36:16 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Hilfe, Diagramme, Charts</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>Namensnennung-Share Alike 4.0 International, CC BY-SA 4.0</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung, Unterrichtsbaustein</sdx:learnResourceType>
+    </item>
     <item>
       <title>Hilfe zum Flipbook-Plugin</title>
       <link>https://openmusic.academy/docs/YixUbkqe6VqxqdgwQDZn3V</link>
@@ -16220,22 +16234,6 @@ Das Tutorial kann auch als Lerneinheit im Musikunterricht am Gymnasium, vor alle
       <sdx:learnResourceType>Anleitung, Unterrichtsbaustein</sdx:learnResourceType>
     </item>
     <item>
-      <title>Interaktives Tool zum Üben von Tonleitern</title>
-      <link>https://openmusic.academy/docs/n7ezStV46hD2BcmA8uXGQK</link>
-      <guid>n7ezStV46hD2BcmA8uXGQK</guid>
-      <description>Wenn du schon weißt, wie man Vorzeichen und Töne für eine bestimmte Tonleiter bestimmt, kannst du dein Wissen mit dem folgenden Tool testen. Achtung: Auch Kirchentonarten sind hier gefragt.
-
-Dieses Tool eignet sich besonders gut für die Nutzung im schulischen Kontext, besonders in der Unterstufe.</description>
-      <pubDate>Thu, 19 Nov 2020 13:05:51 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Schule, Lernen, Grundlagen, Tonleiter, Übung, Allgemeine, Musiklehre, Tonarten, Praxistool, Musikunterricht, Üben, Kirchentonarten, Dur, Moll, Vorzeichen, Unterstufe, 6., 5., 7., Klasse, Unterricht</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Theresa U, Ilka Mestemacher, Elisabeth Wagner</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>Namensnennung-Share Alike 4.0 International, CC BY-SA 4.0</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung, Unterrichtsbaustein</sdx:learnResourceType>
-    </item>
-    <item>
       <title>Wo ist die Note auf der Klaviatur?</title>
       <link>https://openmusic.academy/docs/hDGtooAFajQrjcUwTe5jQY</link>
       <guid>hDGtooAFajQrjcUwTe5jQY</guid>
@@ -16980,7 +16978,7 @@ Auch geeignet für Musikunterricht an Schulen.</description>
       <pubDate>Thu, 21 May 2020 09:05:26 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Blattsingen, vom, Blatt, singen, prima, vista, Solfege, Solfège, Übungen, Prüfungsvorbereitung, Beispiele, Solfeggio, Gehörbildung, Gesang, Playback, Laborbeispiele, vorsingen</itunes:keywords>
-      <itunes:author>s.mack, Ilka Mestemacher, Ko.Rupprecht, Verena Wied</itunes:author>
+      <itunes:author>s.mack, Ilka Mestemacher, Ko.Rupprecht, Verena Wied, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>Namensnennung-Share Alike 4.0 International, CC BY-SA 4.0</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18002,7 +18000,7 @@ Diese Unterrichtsstunde eignet sich für den Musikunterricht in der Oberstufe an
       <pubDate>Thu, 19 Mar 2020 09:35:48 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Barock, Choralsatz, Kadenzen, Bach, Klauseln, Choräle, Stilübung, Choral, Standardkadenz, Kadenz, Sopranklausel, Tenorklausel, Bassklausel, Altklausel, vierstimmig</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Benedikt Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Benedikt Wagner, Rebecca</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>Namensnennung-Share Alike 4.0 International, CC BY-SA 4.0</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
