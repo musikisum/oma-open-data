@@ -29,7 +29,7 @@ ABOUT_TO_SUBJECT = {
 
 LICENSE_MAP = {
     "https://creativecommons.org/licenses/by-sa/4.0/deed.de": {
-        "name": "Namensnennung-Share Alike 4.0 International, CC BY-SA 4.0",
+        "name": "CC BY-SA",
         "version": "4.0",
     },
 }
@@ -99,7 +99,7 @@ for entry in amb_data:
         ET.SubElement(item, f"{{{SDX_NS}}}licenseVersion").text = license_info["version"]
 
     if entry.get("learningResourceType"):
-        ET.SubElement(item, f"{{{SDX_NS}}}learnResourceType").text = "Anleitung, Unterrichtsbaustein"
+        ET.SubElement(item, f"{{{SDX_NS}}}learnResourceType").text = "Anleitung"
 
 tree = ET.ElementTree(rss)
 ET.indent(tree, space="  ", level=0)
