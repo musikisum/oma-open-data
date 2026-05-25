@@ -112190,6 +112190,10 @@
       {
         "type": "Person",
         "name": "Steffi R."
+      },
+      {
+        "type": "Person",
+        "name": "Arne Wachtmann"
       }
     ],
     "description": "Alle Unterrichtsmaterialien und Kurse aus der Reihe \"MUSIKVIDEOS IM UNTERRICHT\" aus dem Projekt DiDiPro.",
@@ -112737,6 +112741,420 @@
     },
     "dateCreated": "2026-05-11T22:36:16.439Z",
     "datePublished": "2026-05-11T22:36:16.439Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/VhWk3afMCkx3tPp8iSTGNL",
+    "name": "Kollektion: Generalbass, Partimenti und Satzmodelle üben mit Michael Haydn",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Kollektion findest du viele Übungen, mit denen du Generalbässe mit ohne und Signaturen (Ziffern) üben kannst. Darüber hinaus kannst du lernen, wie Generalbässe und Satzmodelle zusammenhängen bzw. hinter welchen Bassverläufen und Ziffern sich welche Satzmodelle verbergen.  Und wenn du über die Harmonieverläufe improvisierst, ist diese Praxis auch unter dem Namen Partimento-Spielen bekannt. Viel Spaß beim Üben!  ",
+    "keywords": [
+      "Satzmodelle",
+      "üben",
+      "mit",
+      "Johann",
+      "Michael",
+      "Haydn",
+      "Generabass",
+      "spielen",
+      "Kollektion",
+      "Partimento"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-18T14:52:02.367Z",
+    "datePublished": "2026-05-18T14:52:02.367Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/y9eroKoaR8ianRgZ8CpYTM",
+    "name": "Initialkadenz und eine Halbschlusswendung",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Unter den Abschnitt ›von der Secund‹ finden sich in den Übungen zum Generalbass von Michael Haydn Wendung, die heute als Satzmodell unter dem Namen Initialkadenz und phrygischer Halbschluss bekannt sind. ",
+    "keywords": [
+      "Generalbass",
+      "Initialkadenz",
+      "Halbschlusswendung",
+      "Miachel",
+      "Haydn",
+      "Johann",
+      "üben"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-18T15:17:42.018Z",
+    "datePublished": "2026-05-18T15:17:42.018Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/TVoFh27mdyzghBNk6TiE1o",
+    "name": "Zum Einstieg: Sequenz + Kadenz (ohne Dissonanzen)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Am Anfang der Anleitung von Michael Haydn finden sich Generalbässe ohne Ziffern. Mit diesen Generalbässen kannst du sehr bekannte Sequenzen und Kadenzen ohne Dissonanzen üben.",
+    "keywords": [
+      "Generalbass",
+      "Haydn",
+      "Johann",
+      "üben",
+      "Sequenzen",
+      "und",
+      "Kadenzen",
+      "Michael"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-19T07:43:07.465Z",
+    "datePublished": "2026-05-19T07:43:07.465Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/vobVEp8nQetQWo5ddomRCP",
+    "name": "Quintfallsequenzen (mit Sekundakkorden)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Unter den Abschnitt ›von der Secund‹ finden sich in den Übungen zum Generalbass von Michael Haydn Wendung, die sich heute als Quintfallsequenz verstehen lassen. ",
+    "keywords": [
+      "Generalbass",
+      "Miachel",
+      "Haydn",
+      "Johann",
+      "üben",
+      "Quintfallsequenz"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-19T23:43:26.218Z",
+    "datePublished": "2026-05-19T23:43:26.218Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/n9bV8zmcde7Rj9nPWgzoHs",
+    "name": "Chromatischer Bass, verminderter Septakkord und Quintfallsequenz",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Als 4. Übung lernst du in der Anleitung von Michael Haydn, wie sich ein chromatischer Bass, verminderte Septakkorde und Quintfälle zu einer Sequenz verbinden lassen.",
+    "keywords": [
+      "Generalbass",
+      "Haydn",
+      "Johann",
+      "üben",
+      "und",
+      "Michael",
+      "verminderten",
+      "Septakkord",
+      "passus",
+      "duriusculus",
+      "chromatischer",
+      "Lamentobass",
+      "verminderter",
+      "Quintfallsequenz"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-20T21:20:52.078Z",
+    "datePublished": "2026-05-20T21:20:52.078Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/EJoG9iSfLFcaVRfRuCTrNy",
+    "name": "I. Stufe + V. Stufe  + Kadenz",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In der 5. Übung der Anleitung von Michael Haydn lernst du, wie man die erste und fünfte Stufe durch eine I-V-I-Pendel markiert und dann mit einer Kadenz in der Ausgangstonart schließt. ",
+    "keywords": [
+      "Generalbass",
+      "Haydn",
+      "Johann",
+      "üben",
+      "und",
+      "Michael",
+      "Kadenz",
+      "Pendelharmonik",
+      "I-V-I-"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-21T15:23:24.867Z",
+    "datePublished": "2026-05-21T15:23:24.867Z",
     "inLanguage": [
       "de"
     ],
