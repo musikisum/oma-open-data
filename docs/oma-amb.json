@@ -46277,7 +46277,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/fVjNaxu3XKYXQcsy9GE4fA",
-    "name": "Kochs Kadenzgliederungen und die Formfunktionen der Formenlehre",
+    "name": "Kochs Kadenzgliederungen und die Formfunktionen der Sonatenhauptsatzform",
     "creator": [
       {
         "type": "Person",
@@ -72267,6 +72267,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Lust auf eine Tour durch München mit Anekdoten rund um Musik? Hier sammeln wir Informationen zu Orten, die eine wichtige Rolle im Musikleben der Stadt spielen oder gespielt haben. Mit Hörbeispielen.",
@@ -76024,6 +76028,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Freie Aufnahmen, Notenmaterial, Information zum Entstehungskontext und Raum für Analysen",
@@ -88648,7 +88656,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/1ZEyEueZYLD1dMMcY9QVpc",
-    "name": "L. v. Beethoven – Adagio con molt' espressione Op. 12, Nr. 3",
+    "name": "L. v. Beethoven – Adagio con molt' espressione Op. 12, Nr. 3, 2. Satz",
     "creator": [
       {
         "type": "Person",
@@ -88669,7 +88677,7 @@
         "name": "Mathias Kupczyk"
       }
     ],
-    "description": "Analyse des langsamen Satzes aus der Violinsonate Es-Dur Op. 12, Nr. 3 von Ludwig v. Beethoven",
+    "description": "Analyse des langsamen Satzes Adagio con molt' espressione aus der Violinsonate Es-Dur Op. 12, Nr. 3 von Ludwig v. Beethoven",
     "keywords": [
       "12-3-2",
       "Ludwig",
@@ -88685,18 +88693,17 @@
       "12",
       "Nr.",
       "3",
-      "2.",
-      "Satz",
-      "Adagio",
-      "con",
-      "molt’espressione",
       "Elene",
       "Meipariani",
       "Till",
       "Hoffmann",
       "van",
       "Geige",
-      "Analyse"
+      "Analyse",
+      "Adagio",
+      "con",
+      "molt'",
+      "espressione"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -94855,7 +94862,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/Ku7o5jdpqGc2BhheetfmZK",
-    "name": "L. v. Beethoven – Rondo. Allegro molto Op. 12, Nr. 3",
+    "name": "L. v. Beethoven – Rondo. Allegro molto Op. 12, Nr. 3, 3. Satz",
     "creator": [
       {
         "type": "Person",
@@ -103422,7 +103429,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/XqKJsFvmmeKESTNxDhJ8j1",
-    "name": "VJing - Kontexte, Setup, App",
+    "name": "VJing in der Schule mit der App \"GoVJ\"",
     "creator": [
       {
         "type": "Person",
@@ -103443,7 +103450,7 @@
         "name": "Frederik Durczok"
       }
     ],
-    "description": "",
+    "description": "In diesem Unterrichtsmodul setzen sich Schüler*innen mit VJing im Musikunterricht auseinander.  Neben einer kurzen Einführung in zentrale Begriffe – VJs, VJing und Visuals – geht es vor allem darum,  über ein schulpraktisch realisierbares Setup, bestehend aus iPad und einer App, eine eigene VJ-Performance zu entwickeln. ",
     "keywords": [
       "VJ",
       "VJing",
@@ -109119,93 +109126,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/xE52gn8jqaawn7AZVDhybY",
-    "name": "Notenlehre - Quiz",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "Jenny Kühl"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "Jenny Kühl"
-      },
-      {
-        "type": "Person",
-        "name": "Raphael Mayrhofer"
-      },
-      {
-        "type": "Person",
-        "name": "Ulrich Kaiser"
-      },
-      {
-        "type": "Person",
-        "name": "Benedikt Wagner"
-      },
-      {
-        "type": "Person",
-        "name": "Verena Wied"
-      }
-    ],
-    "description": "Eine Anleitung für Notenlehre innerhalb eines Quiz",
-    "keywords": [
-      "Schule",
-      "Lernen",
-      "Musik",
-      "Praxis",
-      "Musikunterricht",
-      "Unterrichtseinheit",
-      "notenlehre",
-      "Notenquiz",
-      "notenkärtchen",
-      "quiz",
-      "gamifikation"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2026-03-04T19:52:53.351Z",
-    "datePublished": "2026-03-04T19:52:53.351Z",
-    "inLanguage": [
-      "de"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/cgskQbFN7fMU2juAo9zFUN",
     "name": "Hilfe: Tonhöhen-Analyse-Plugin",
     "creator": [
@@ -113155,6 +113075,598 @@
     },
     "dateCreated": "2026-05-21T15:23:24.867Z",
     "datePublished": "2026-05-21T15:23:24.867Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/mddRFRnt3bRQSgJzcPdoDe",
+    "name": "Was haben Sonatendurchführungen mit Brücken, Bergen und Quellen zu tun?",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Tutorial kannst du lernen, was die Modelle Fonte, Monte und Ponte (Riepel) mit Sonaten-Durchführungen aus der zweiten Hälfte des 18. Jahrhunderts zu tun haben.",
+    "keywords": [
+      "Durchführung",
+      "Monte",
+      "Ponte",
+      "Fonte",
+      "Sonate",
+      "Sonatendurchführung",
+      "Quintanstiegsmodell",
+      "Wolfgang",
+      "Amadeus",
+      "Mozart",
+      "W.",
+      "A."
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-25T14:41:16.446Z",
+    "datePublished": "2026-05-25T14:41:16.446Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/aL75ZYMJaJANSyEaPPMTsY",
+    "name": "DJing in der Schule mit der App \"djay\"",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Josef Schaubruch"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Josef Schaubruch"
+      }
+    ],
+    "description": "In diesem Unterrichtsmodul setzen sich Schüler*innen mit DJing im Musikunterricht auseinander.  Neben einer kurzen Einführung in zentrale Begriffe – DJs, DJing und DJ-Sets – geht es vor allem darum,  über ein schulpraktisch realisierbares Setup, bestehend aus Tablet und einer App, eine eigene DJ-Performance zu entwickeln. ",
+    "keywords": [
+      "DJing",
+      "DJ"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-25T21:04:48.332Z",
+    "datePublished": "2026-05-25T21:04:48.332Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/7kwQPi5QJZEd8aF9uRNQii",
+    "name": "Der Wechselquartsextakkord in Sequenzen + Kadenz",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Übung der Anleitung von Michael Haydn lernst du, verschiedene Bassstufen eines stufenweise aufwärts sequenzierten Quintfalls mithilfe eines Wechselquartsextakkord zu gestalten. ",
+    "keywords": [
+      "Generalbass",
+      "Haydn",
+      "Johann",
+      "üben",
+      "und",
+      "Michael",
+      "Kadenz",
+      "Wechselquartsextakkord",
+      "I-IV-I",
+      "stufenweise",
+      "aufwärts",
+      "Quintfall",
+      "sequenzierter"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-27T10:24:25.539Z",
+    "datePublished": "2026-05-27T10:24:25.539Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/XwC6NgzdkPaQ8vAiMqfGpF",
+    "name": "Geburtstagszug (Happy Birthday auf der Schwäb'schen Eisenbahne)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Geburtstagszug | Happy Birthday To You und auf der Schwäb'schen Eisenbahne in einem kleinen Arrangement für Saxofon, Gitarre und Chor.",
+    "keywords": [
+      "Ulrich",
+      "Kaiser",
+      "Geburtstagszug",
+      "Geburtstagsständchen",
+      "über",
+      "ein",
+      "bekanntes",
+      "schwäbisches",
+      "Volkslied",
+      "für",
+      "Melodieinstrument",
+      "(Saxofon,",
+      "Klarinette",
+      "usw.),",
+      "Chor",
+      "und",
+      "eine",
+      "Rhythmusstimme",
+      "gbtz26",
+      "Eisenbahne",
+      "Eisebahne",
+      "schwäbschen"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-27T21:21:18.341Z",
+    "datePublished": "2026-05-27T21:21:18.341Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/1bohGneWyBSQkquDw2ncur",
+    "name": "Multimediale Performance im Musikunterricht (Unterrichtsprojekt)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Josef Schaubruch"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Josef Schaubruch"
+      }
+    ],
+    "description": "In diesem Unterrichtsprojekt setzen sich Schüler*innen produktiv und analytisch mit multimedialen Performances auseinander. Hierzu entwickeln sie in Teams aus DJs und VJs eine eigene Performance, die sie live darbieten und anschließend reflektieren. ",
+    "keywords": [
+      "Multimedia",
+      "performance",
+      "aufführung",
+      "multimedialeperformance",
+      "djing",
+      "vjing",
+      "liveact"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-27T22:13:31.677Z",
+    "datePublished": "2026-05-27T22:13:31.677Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/E1Z5mujvrybMhKY8xXPVLQ",
+    "name": "sound_stories",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "A workshop on music, sustainability and story-telling with two pathways - created by TEAM",
+    "keywords": [
+      "sustainability",
+      "TEAM",
+      "composition",
+      "Komposition",
+      "Klangflächenkomposition",
+      "Nachhaltigkeit",
+      "Storytelling",
+      "Story",
+      "Sound"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-29T13:12:59.932Z",
+    "datePublished": "2026-05-29T13:12:59.932Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/eJCrBQw6BgTiP9eCnGS4mc",
+    "name": "Kollektion: Violinsonate Es-Dur Op. 12, Nr. 3 von Ludwig van Beethoven",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Materialien zur Violinsonate Es-Dur Op. 12, Nr. 3: Analysen, Audiodateien und Videos mit Elene Meipariani (Violine) und Till Hoffmann (Klavier)",
+    "keywords": [
+      "Ludwig",
+      "v.",
+      "Beethoven",
+      "Sonate",
+      "für",
+      "Violine",
+      "und",
+      "Klavier",
+      "Es-Dur",
+      "Op.",
+      "Nr.",
+      "Elene",
+      "Meipariani",
+      "Till",
+      "Hoffmann",
+      "van",
+      "Geige",
+      "Analyse",
+      "Videos",
+      "Audiodateien",
+      "Kollektion",
+      "3",
+      "12,"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-30T22:19:54.864Z",
+    "datePublished": "2026-05-30T22:19:54.864Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/5hbHVpMRT6UoFBa7bMJ7Nm",
+    "name": "L. v. Beethoven – Allegro con spirito Op. 12, Nr. 3, 1. Satz",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Analyse des Kopfsatzes der Sonate Es-Dur Op. 12, Nr. 3 von Ludwig van Beethoven.",
+    "keywords": [
+      "12-3-2",
+      "Ludwig",
+      "v.",
+      "Beethoven",
+      "Sonate",
+      "für",
+      "Violine",
+      "und",
+      "Klavier",
+      "Es-Dur",
+      "Op.",
+      "12",
+      "Nr.",
+      "3",
+      "Satz",
+      "Elene",
+      "Meipariani",
+      "Till",
+      "Hoffmann",
+      "van",
+      "Geige",
+      "Analyse",
+      "1.",
+      "Kopfsatz"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-05-31T16:27:08.517Z",
+    "datePublished": "2026-05-31T16:27:08.517Z",
     "inLanguage": [
       "de"
     ],
