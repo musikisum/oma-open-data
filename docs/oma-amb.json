@@ -55589,6 +55589,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
       }
     ],
     "description": "In dieser Kollektion findest du Dokumente, mit denen du das Notenlesen üben kannst (vom Violinschlüssel über den Bassschlüssel bis hin zu großen Partituren).\n\nDiese Kollektion eignet sich auch für den Schulgebrauch im Musikunterricht, speziell für die Unterstufe. ",
@@ -104740,6 +104744,10 @@
       {
         "type": "Person",
         "name": "Sebastian Gröller"
+      },
+      {
+        "type": "Person",
+        "name": "Benedikt Brunner"
       }
     ],
     "description": "Bayerische und internationale Tänze. Erklärvideos mit Tänzer und Musiker, Audio Dateien der Musik, Tanzbeschreibung und Noten.\nEin Projekt des Landesvereins für Heimatpflege in Kooperation mit der OMA.",
@@ -113667,6 +113675,281 @@
     },
     "dateCreated": "2026-05-31T16:27:08.517Z",
     "datePublished": "2026-05-31T16:27:08.517Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/CKkCAMcaBecs8oJX8f9Ugr",
+    "name": "Musical Social Hours",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "A program for social activities as musical social hours by TEAM",
+    "keywords": [
+      "social",
+      "sustainability",
+      "project",
+      "TEAM",
+      "Nachhaltigkeit"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-02T15:28:30.356Z",
+    "datePublished": "2026-06-02T15:28:30.356Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/82vtvP4Bp17N8j6JjZ8WR8",
+    "name": "Johannes Brahms – Liebesliederwalzer Op. 52",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Dokument findest du Aufnahmen, Informationen und Materialien zu den Liebesliederwalzern Op. 52 von Johannes Brahms. ",
+    "keywords": [
+      "Johannes",
+      "Brahms",
+      "Liebesliederwalzer",
+      "Op.",
+      "52",
+      "Aufnahmen",
+      "Informationen",
+      "Materialien"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-02T20:57:42.951Z",
+    "datePublished": "2026-06-02T20:57:42.951Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/3UCN2Z5g8Frtcz7HB1yaKL",
+    "name": "Johannes Brahms – Chorlieder Op. 42, 93a und 104",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Dokument findest du Aufnahmen, Informationen und Materialien zu den Chorliedern Op. 42, Op. 93a und Op. 104 von Johannes Brahms. ",
+    "keywords": [
+      "Johannes",
+      "Brahms",
+      "Op.",
+      "Aufnahmen",
+      "Informationen",
+      "Materialien",
+      "42",
+      "93a",
+      "104",
+      "Chorlieder",
+      "Gesänge",
+      "drei",
+      "fünf",
+      "sechs"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-02T21:54:18.244Z",
+    "datePublished": "2026-06-02T21:54:18.244Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/S8erB7uB2kSKTs2pJ2KjB6",
+    "name": "Der Notenrap",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "Ein Rap, der die Hände als Merkhilfe für die Notennamen im System nutzt.",
+    "keywords": [
+      "Noten",
+      "Lesen",
+      "Notenlesen",
+      "Violinschlüssel",
+      "Basschlüssel",
+      "Gesamtschule",
+      "Grundschule",
+      "Unterstufe"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-08T07:44:07.141Z",
+    "datePublished": "2026-06-08T07:44:07.141Z",
     "inLanguage": [
       "de"
     ],
