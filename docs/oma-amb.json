@@ -86447,6 +86447,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Benedikt Wagner"
       }
     ],
     "description": "Das ist die Hilfe für das Lücken- und Fußnotentext-Plugin  der Open Music Academy (OMA).",
@@ -86454,9 +86458,9 @@
       "Hilfe",
       "Plugins",
       "OMA",
-      "Fußnoten",
       "Lückentext",
-      "und"
+      "und",
+      "Fußnoten-"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -113950,6 +113954,69 @@
     },
     "dateCreated": "2026-06-08T07:44:07.141Z",
     "datePublished": "2026-06-08T07:44:07.141Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/tpJ2ktDxni11njmb6f7aUu",
+    "name": "Hilfe zum Musik-Mapping-Plugin",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Benedikt Wagner"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Benedikt Wagner"
+      }
+    ],
+    "description": "Das ist die Hilfe für das Musik-Mapping-Plugin  der Open Music Academy (OMA).",
+    "keywords": [
+      "Hilfe",
+      "Plugins",
+      "OMA"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-14T20:57:36.870Z",
+    "datePublished": "2026-06-14T20:57:36.870Z",
     "inLanguage": [
       "de"
     ],

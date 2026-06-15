@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 09:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:57:36 GMT</lastBuildDate>
+    <item>
+      <title>Hilfe zum Musik-Mapping-Plugin</title>
+      <link>https://openmusic.academy/docs/tpJ2ktDxni11njmb6f7aUu</link>
+      <guid>tpJ2ktDxni11njmb6f7aUu</guid>
+      <description>Das ist die Hilfe für das Musik-Mapping-Plugin  der Open Music Academy (OMA).</description>
+      <pubDate>Sun, 14 Jun 2026 20:57:36 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Hilfe, Plugins, OMA</itunes:keywords>
+      <itunes:author>Benedikt Wagner</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Der Notenrap</title>
       <link>https://openmusic.academy/docs/S8erB7uB2kSKTs2pJ2KjB6</link>
@@ -5131,8 +5145,8 @@ Die Open Music Academy veranstaltete im November 2024 ein Symposium zu Tonaufnah
       <description>Das ist die Hilfe für das Lücken- und Fußnotentext-Plugin  der Open Music Academy (OMA).</description>
       <pubDate>Thu, 06 Mar 2025 23:34:09 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Hilfe, Plugins, OMA, Fußnoten, Lückentext, und</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:keywords>Hilfe, Plugins, OMA, Lückentext, und, Fußnoten-</itunes:keywords>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Benedikt Wagner</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
