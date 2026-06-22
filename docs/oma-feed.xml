@@ -5,7 +5,63 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:57:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:44:03 GMT</lastBuildDate>
+    <item>
+      <title>Kollektion: Operation Vivaldi – Die vier Jahreszeiten</title>
+      <link>https://openmusic.academy/docs/zfGZUojEJrmsdwJsi4SwB7</link>
+      <guid>zfGZUojEJrmsdwJsi4SwB7</guid>
+      <description>Antonio Vivaldi: Die Vier Jahreszeiten (op. 8/1-4). Ein Projekt der Open Music Academy (2025) mit der Hofkapelle München, Violine &amp; Leitung: Rüdiger Lotter.</description>
+      <pubDate>Tue, 16 Jun 2026 14:51:41 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Operation, Antonio, Vivaldi, Die, Vier, Jahreszeiten, Op., 8, Nr., 1, 2, 3, 4, Hofkapelle, München, Violine, Leitung, Rüdiger, Lotter, 2025, 4jhkm</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Linkin Park: Numb</title>
+      <link>https://openmusic.academy/docs/moY2xFWo3KsuXQqgFQHnuS</link>
+      <guid>moY2xFWo3KsuXQqgFQHnuS</guid>
+      <description>Analyse des Songs Numb von Linkin Park</description>
+      <pubDate>Tue, 16 Jun 2026 09:38:42 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>anavis, songanalyse, Numb, Linkin, Park</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Cro: Einmal um die Welt</title>
+      <link>https://openmusic.academy/docs/vLi97idKpd4XPoPuriPjwY</link>
+      <guid>vLi97idKpd4XPoPuriPjwY</guid>
+      <description>Analyse des Songs Einmal um die Welt von CRO.</description>
+      <pubDate>Tue, 16 Jun 2026 09:21:00 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>anavis, songanalyse, CRO, Einmal, um, die, Welt</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Peter Schilling: Major Tom</title>
+      <link>https://openmusic.academy/docs/tyNfhjaRFjk7k26sgw2Y8m</link>
+      <guid>tyNfhjaRFjk7k26sgw2Y8m</guid>
+      <description>Analyse des Songs Major Tom von Peter Schilling.</description>
+      <pubDate>Tue, 16 Jun 2026 08:47:27 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>anavis, Major, Tom, Peter, Schilling, songanalyse</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Hilfe zum Musik-Mapping-Plugin</title>
       <link>https://openmusic.academy/docs/tpJ2ktDxni11njmb6f7aUu</link>
@@ -378,7 +434,7 @@
       <pubDate>Tue, 21 Apr 2026 20:42:42 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikvideos, Musikvideo, DiDiPro, Collage-Videos, Literal-Videos, Genderstereotype, Politainment</itunes:keywords>
-      <itunes:author>Steffi R., Arne Wachtmann</itunes:author>
+      <itunes:author>Steffi Rocker, Arne Wachtmann</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -392,7 +448,7 @@
       <pubDate>Tue, 21 Apr 2026 19:50:41 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Literal-Videos, Musikvideos, DiDiPro, HipHop, Flow, Medienanalyse, Videoproduktion, Gangsta-Rap, Diskriminierungskritik</itunes:keywords>
-      <itunes:author>Steffi R.</itunes:author>
+      <itunes:author>Steffi Rocker</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -406,7 +462,7 @@
       <pubDate>Tue, 21 Apr 2026 16:23:18 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Collage-Videos, Musikvideos, Collagen, Nura, P!nk, Found-Footage, Stock-Footage, iMovie</itunes:keywords>
-      <itunes:author>Steffi R.</itunes:author>
+      <itunes:author>Steffi Rocker</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -420,7 +476,7 @@
       <pubDate>Mon, 20 Apr 2026 21:09:43 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikvideos, Genderstereotype, Gender, Geschlechterdarstellungen, Inszenierung, Selbstinszenierung, Popmusik, HipHop, Kameraperspektiven, Kamera, Kameraeinstellungen, Posen</itunes:keywords>
-      <itunes:author>Steffi R.</itunes:author>
+      <itunes:author>Steffi Rocker</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -434,7 +490,7 @@
       <pubDate>Mon, 20 Apr 2026 17:30:56 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Politainment, Politik, TikTok, SocialMedia, Algorithmus, Musikvideos</itunes:keywords>
-      <itunes:author>Steffi R.</itunes:author>
+      <itunes:author>Steffi Rocker</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -5757,7 +5813,7 @@ Diese Unterrichtsstunde eignet sich im schulischen Kontext besonders in der Unte
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Operation Mozart. Arien der Zauberflöte ohne Gesang</title>
+      <title>Kollektion: Operation Mozart. Arien der Zauberflöte ohne Gesang</title>
       <link>https://openmusic.academy/docs/47aADkaojek9pdf9KYc7kJ</link>
       <guid>47aADkaojek9pdf9KYc7kJ</guid>
       <description>Die Arien der Zauberflöte von W. A. Mozart ohne Gesang, professionell eingespielt und veröffentlicht unter der für kulturell freie Werke geeigneten Lizenz CC-BY (Namensnennung)! Das einzigartige Projekt der Open Music Academy in Kooperation mit der Hofkapelle München zum Üben, Lehren und Lernen, Mitspielen sowie für viele weitere kreative Ideen.</description>
@@ -20120,7 +20176,7 @@ Das Tutorial eignet sich auch für den Musikunterricht an Schulen, insbesondere 
       <pubDate>Wed, 26 Sep 2018 16:21:39 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikschule, Schule, Notenlesen, Noten, lesen, lernen, Bassschlüssel, F-Schlüssel, Notenschlüssel, zeichnen, für, Anfänger, Einführung, Notennamen, Oktavlage, Übergang, Violinschlüssel, Unterricht, Musikunterricht, schreiben</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Oliver Kellermeier, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Oliver Kellermeier, Elisabeth Wagner, Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -20152,7 +20208,7 @@ Der Artikel eignet sich gut für Musikunterricht an der Schule, im besonderen f�
       <pubDate>Tue, 25 Sep 2018 23:07:26 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Notennamen, im, Violinschlüssel, Noten, lesen, schreiben, Notenschlüssel, lernen, G-Schlüssel, Notensystem, Notation, zeichnen, Notenlinien, für, Anfänger, Kinder, Einführung, Grundlagen, Schule, Musikschule, Unterricht, Musikunterricht, 5., Klasse, Notenlesen, Stammton</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Elisabeth Wagner, Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
