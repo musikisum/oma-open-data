@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""AMB JSON  →  Dublin Core (intern)  →  MARCXML
+"""AMB JSON  →  Dublin Core (intern)  →  MARCXML und/oder MARC21 binär (ISO 2709)
 
 Konvertierungspipeline:
   1. AMB-Einträge (JSON-LD, Schema.org) aus oma-amb.json einlesen
   2. Felder auf Dublin Core Elements abbilden (intermediäre Struktur)
   3. Dublin Core auf MARC21-Felder abbilden und als MARCXML ausgeben
+  4. Optional: MARC21 binär (ISO 2709, .mrc) ausgeben
 
 Mapping-Übersicht: docs/AMB-zu-MARC21.md
 """
@@ -249,18 +250,96 @@ def dc_to_marc_record(dc: dict, seq: int) -> ET.Element:
 
 
 # ---------------------------------------------------------------------------
+# Stufe 3: MARCXML-Record → binäres MARC21 (ISO 2709)
+# ---------------------------------------------------------------------------
+
+_FT = b'\x1e'   # Field Terminator
+_RT = b'\x1d'   # Record Terminator
+_SD = b'\x1f'   # Subfield Delimiter
+
+
+def _marc_field_bytes(child: ET.Element) -> tuple[str, bytes]:
+    """Gibt (tag, rohe Feldbytes inkl. Feldterminator) zurück."""
+    local = child.tag.split('}')[-1] if '}' in child.tag else child.tag
+    tag = child.get('tag', '')
+
+    if local == 'controlfield':
+        content = (child.text or '').encode('utf-8') + _FT
+        return tag, content
+
+    if local == 'datafield':
+        ind1 = (child.get('ind1', ' ')).encode('utf-8')
+        ind2 = (child.get('ind2', ' ')).encode('utf-8')
+        sf_data = b''
+        for sf in child:
+            sf_local = sf.tag.split('}')[-1] if '}' in sf.tag else sf.tag
+            if sf_local == 'subfield':
+                code = sf.get('code', 'a').encode('utf-8')
+                text = (sf.text or '').encode('utf-8')
+                sf_data += _SD + code + text
+        return tag, ind1 + ind2 + sf_data + _FT
+
+    return '', b''
+
+
+def record_to_iso2709(record: ET.Element) -> bytes:
+    """Serialisiert einen MARCXML-Record als ISO-2709-Bytes."""
+    leader_text = "00000nam a2200000   4500"
+    raw_fields: list[tuple[str, bytes]] = []
+
+    for child in record:
+        local = child.tag.split('}')[-1] if '}' in child.tag else child.tag
+        if local == 'leader':
+            leader_text = (child.text or leader_text).ljust(24)
+        elif local in ('controlfield', 'datafield'):
+            tag, data = _marc_field_bytes(child)
+            if tag:
+                raw_fields.append((tag, data))
+
+    # Verzeichnis und Datenportion aufbauen
+    directory = b''
+    data_portion = b''
+    pos = 0
+    for tag, content in raw_fields:
+        length = len(content)
+        directory += tag.encode('utf-8') + f'{length:04d}{pos:05d}'.encode('utf-8')
+        data_portion += content
+        pos += length
+
+    directory += _FT
+    data_portion += _RT
+
+    base_addr = 24 + len(directory)
+    total_len = base_addr + len(data_portion)
+
+    # Leader aktualisieren: Länge (0-4), Basisadresse (12-16)
+    ldr = list(leader_text[:24])
+    for i, c in enumerate(f'{total_len:05d}'):
+        ldr[i] = c
+    ldr[9] = 'a'   # UTF-8
+    for i, c in enumerate(f'{base_addr:05d}'):
+        ldr[12 + i] = c
+    ldr[20:24] = list('4500')
+
+    return ''.join(ldr).encode('utf-8') + directory + data_portion
+
+
+# ---------------------------------------------------------------------------
 # Hauptprogramm
 # ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Konvertiert AMB JSON → Dublin Core → MARCXML"
+        description="Konvertiert AMB JSON → Dublin Core → MARCXML (und optional .mrc)"
     )
-    parser.add_argument("--input",  default="docs/oma-amb.json",
+    parser.add_argument("--input",      default="docs/oma-amb.json",
                         help="Pfad zur AMB-JSON-Datei")
-    parser.add_argument("--output", default="docs/oma-marc21.xml",
+    parser.add_argument("--output",     default="docs/oma-marc21.xml",
                         help="Pfad der MARCXML-Ausgabedatei")
-    parser.add_argument("--limit",  type=int, default=None,
+    parser.add_argument("--mrc-output", default="docs/oma-marc21.mrc",
+                        help="Pfad der binären MARC21-Ausgabedatei (ISO 2709); "
+                             "leer lassen um die MRC-Ausgabe zu überspringen")
+    parser.add_argument("--limit",      type=int, default=None,
                         help="Maximale Anzahl Einträge (Standard: alle)")
     args = parser.parse_args()
 
@@ -279,16 +358,24 @@ def main():
         },
     )
 
+    mrc_records: list[bytes] = []
     for i, entry in enumerate(amb_data, 1):
         dc = amb_to_dublin_core(entry)
         record = dc_to_marc_record(dc, i)
         collection.append(record)
+        if args.mrc_output:
+            mrc_records.append(record_to_iso2709(record))
 
     tree = ET.ElementTree(collection)
     ET.indent(tree, space="  ", level=0)
     tree.write(args.output, encoding="utf-8", xml_declaration=True)
-
     print(f"MARCXML erzeugt: {args.output} ({len(amb_data)} Datensätze)")
+
+    if args.mrc_output:
+        with open(args.mrc_output, 'wb') as f:
+            for rec in mrc_records:
+                f.write(rec)
+        print(f"MARC21 binär erzeugt: {args.mrc_output} ({len(mrc_records)} Datensätze)")
 
 
 if __name__ == "__main__":
