@@ -5,7 +5,35 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:52:55 GMT</lastBuildDate>
+    <item>
+      <title>Jean Baptiste Arban: Trompeten Duette zum Üben</title>
+      <link>https://openmusic.academy/docs/KrhjqAt9QLAmfVbJqv3FQ4</link>
+      <guid>KrhjqAt9QLAmfVbJqv3FQ4</guid>
+      <description>Trompeten Duette von Jean Baptiste Arban zum Üben </description>
+      <pubDate>Wed, 24 Jun 2026 10:13:28 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Jean, Baptiste, Arban, Trompeten, Duette, Notation, Musescore, Sacred, Russian, Hymn, Cradle, Song, Melody</itunes:keywords>
+      <itunes:author>Patrick Riedle, Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Kurzvideos: Musikvideos und Social Media</title>
+      <link>https://openmusic.academy/docs/mcJAMYQu5tqijUAAeBmBZ8</link>
+      <guid>mcJAMYQu5tqijUAAeBmBZ8</guid>
+      <description>Unterrichtsmaterialien zu Kurzvideos: Musikvideos auf Social Media. </description>
+      <pubDate>Mon, 22 Jun 2026 16:16:53 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>SocialMedia, Kurzvideos, Musikvideos, TikTok</itunes:keywords>
+      <itunes:author>Steffi Rocker</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Kollektion: Operation Vivaldi – Die vier Jahreszeiten</title>
       <link>https://openmusic.academy/docs/zfGZUojEJrmsdwJsi4SwB7</link>
@@ -18308,7 +18336,7 @@ Diese Unterrichtsstunde eignet sich für den Musikunterricht in der Oberstufe an
       <pubDate>Thu, 19 Mar 2020 09:35:48 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Barock, Choralsatz, Kadenzen, Bach, Klauseln, Choräle, Stilübung, Choral, Standardkadenz, Kadenz, Sopranklausel, Tenorklausel, Bassklausel, Altklausel, vierstimmig</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Benedikt Wagner, Rebecca</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Benedikt Wagner, Rebecca, klauskauker</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
