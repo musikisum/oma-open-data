@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:52:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:03:18 GMT</lastBuildDate>
+    <item>
+      <title>Felix Mendelssohn Bartholdy: Hebe deine Augen auf</title>
+      <link>https://openmusic.academy/docs/bha38XF98LHe3NHoF9YEjN</link>
+      <guid>bha38XF98LHe3NHoF9YEjN</guid>
+      <description>Terzett für drei Frauenstimmen inklusive Mehrspurplayer zum Mitsingen und Link zu den passenden Noten</description>
+      <pubDate>Mon, 29 Jun 2026 10:46:59 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Hebe, deine, Augen, auf, Mendelssohn, Bartholdy, Chorgesang, Terzett, Frauenstimmen, Sopran, Mezzosopran, Alt, Mitsingen, dreistimmig</itunes:keywords>
+      <itunes:author>Katja F, Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Jean Baptiste Arban: Trompeten Duette zum Üben</title>
       <link>https://openmusic.academy/docs/KrhjqAt9QLAmfVbJqv3FQ4</link>
@@ -1790,7 +1804,7 @@ Ein Projekt des Landesvereins für Heimatpflege in Kooperation mit der OMA.</des
       <pubDate>Fri, 13 Feb 2026 11:54:50 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Tanz, Tanzen, Tanzmusik, Paartanz, Volksmusik, Noten, Hörbeispiele, Audiodateien, Audiofiles, Audio, Landesverein, niedrigschwellig</itunes:keywords>
-      <itunes:author>Sebastian Gröller, Benedikt Brunner</itunes:author>
+      <itunes:author>Sebastian Gröller, Benedikt Brunner, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -4178,7 +4192,7 @@ This collection offers basic knowledge, targeted exercises for warm up, techniqu
       <pubDate>Fri, 25 Jul 2025 10:38:51 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugins, Liste, Listenplugin, Listen-Plugin, csv, Tabelle, Audiodateien</itunes:keywords>
-      <itunes:author>Ilka Mestemacher</itunes:author>
+      <itunes:author>Ilka Mestemacher, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -4515,20 +4529,6 @@ This collection offers basic knowledge, targeted exercises for warm up, techniqu
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>OMAsong, Open, Academy, Music, Comedian, Harmonists, Stilübung, Stilkopie, Oma, Song, Oma-Song</itunes:keywords>
       <itunes:author>Ulrich Kaiser</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>CC BY-SA</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
-    </item>
-    <item>
-      <title>"Rhythmus": richtige Schreibweise</title>
-      <link>https://openmusic.academy/docs/UnSywjvcY9swGDEE9KLHh4</link>
-      <guid>UnSywjvcY9swGDEE9KLHh4</guid>
-      <description>Hast du dich beim Wort "Rhythmus" vertippt? Das passiert oft. Versuch es doch noch einmal mit der richtigen Schreibweise – dann findest du mehr :-)</description>
-      <pubDate>Fri, 23 May 2025 12:31:40 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Rhytmus, Rythmus, Rhytmen, Rythmen, Rhytmik, Rythmik, Rytmik, Rhythmik, richtige, Schreibweise, Hilfe, Rythmusdiktat, Rhytmusdiktat, Rytmusdiktat, Rhythmus</itunes:keywords>
-      <itunes:author>Ilka Mestemacher</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -7305,7 +7305,7 @@ Diese Zusammenstellung von Aufgaben ist aus einer Unterrichsstunde für die gymn
       <pubDate>Thu, 18 Apr 2024 08:34:47 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Geigenstück, Violine, Leo, Portnoff, Concertino, a-Moll, op., 14</itunes:keywords>
-      <itunes:author>Esther Schöpf, Ilka Mestemacher, Mani Vieregg</itunes:author>
+      <itunes:author>Esther Schöpf, Ilka Mestemacher, Mani Vieregg, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -9704,7 +9704,7 @@ Ein Pärchen besteht jeweils aus einer diminutierten (originalen) Fassung und ih
       <pubDate>Tue, 08 Aug 2023 12:55:58 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugin, Medienslideshow, Medien-Slideshow</itunes:keywords>
-      <itunes:author>Ilka Mestemacher</itunes:author>
+      <itunes:author>Ilka Mestemacher, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -10012,7 +10012,7 @@ Ein Pärchen besteht jeweils aus einer diminutierten (originalen) Fassung und ih
       <pubDate>Thu, 27 Jul 2023 13:09:41 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Matching, Cards, Plugin, Memory, Spiel</itunes:keywords>
-      <itunes:author>Ilka Mestemacher</itunes:author>
+      <itunes:author>Ilka Mestemacher, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -10054,7 +10054,7 @@ Ein Pärchen besteht jeweils aus einer diminutierten (originalen) Fassung und ih
       <pubDate>Tue, 25 Jul 2023 15:35:37 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugins, Schnelltester, Wissenstest</itunes:keywords>
-      <itunes:author>Ilka Mestemacher</itunes:author>
+      <itunes:author>Ilka Mestemacher, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -10068,7 +10068,7 @@ Ein Pärchen besteht jeweils aus einer diminutierten (originalen) Fassung und ih
       <pubDate>Tue, 25 Jul 2023 14:21:44 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugin, iFrames</itunes:keywords>
-      <itunes:author>Ilka Mestemacher, Mani Vieregg</itunes:author>
+      <itunes:author>Ilka Mestemacher, Mani Vieregg, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -10924,7 +10924,7 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <description>Das vorliegende Skript soll Chorleitenden als Anregung für den Einstieg in die Chorprobe dienen, sowohl zum Aufwärmen der Stimme als auch für die stimmliche Vorbereitung auf ausgewählte Literatur der Chorprobe.</description>
       <pubDate>Wed, 19 Apr 2023 13:40:20 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Einsingen, Chor, Chorleitung, Warm, Up, Gesang, aufwärmen, Einsinghilfe, Übungen, für, Chorleiter*innen, Chorleiter:innen</itunes:keywords>
+      <itunes:keywords>Einsingen, Chor, Chorleitung, Warm, Up, Gesang, aufwärmen, Übungen, für, Chorleiter*innen, Chorleiter:innen</itunes:keywords>
       <itunes:author>Maria Loichinger, Ulrich Kaiser, Ilka Mestemacher</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -12187,7 +12187,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Tue, 22 Nov 2022 15:12:58 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugin, Interaktive, Medien, Fragen, Antworten, Test, Video, kommentieren, Interaktion, Medienplugin, H5P, YouTube</itunes:keywords>
-      <itunes:author>Ilka Mestemacher, Mani Vieregg</itunes:author>
+      <itunes:author>Ilka Mestemacher, Mani Vieregg, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12201,7 +12201,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Fri, 18 Nov 2022 14:26:24 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Plugins, Video, OMA, YouTube, Videos, Videoplugin</itunes:keywords>
-      <itunes:author>Ilka Mestemacher, Mani Vieregg</itunes:author>
+      <itunes:author>Ilka Mestemacher, Mani Vieregg, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12312,7 +12312,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <description>Der gemeinnützige Verein zur Unterstützung der OMA stellt sich vor.</description>
       <pubDate>Mon, 07 Nov 2022 12:46:01 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Open, Music, Academy, e.V., Verein, gemeinnützig, Förderung, OMA</itunes:keywords>
+      <itunes:keywords>Open, Music, Academy, e.V., Verein, gemeinnützig, Förderung, OMA, Education</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Wendelin Bitzan</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -12578,8 +12578,8 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <description>Erste Hilfe für Probleme , die in Schul- oder Amateurorchestern bei Streichinstrumenten und Blechblasinstrumenten häufig auftreten. (Video)</description>
       <pubDate>Thu, 08 Sep 2022 13:38:06 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Dirigent, Orchester, Soforttipps, Schulorchester, Streichinstrument, Blechinstrument, Tipps, Dirigentin, Dirigieren, erste, Hilfe, Schule, Schulmusik, Amateur, Geige, Violine, Trompete</itunes:keywords>
-      <itunes:author>Manuel Lodes, Ilka Mestemacher, Lukas-Eichenauer, Verena Wied</itunes:author>
+      <itunes:keywords>Dirigent, Orchester, Soforttipps, Schulorchester, Streichinstrument, Blechinstrument, Tipps, Dirigentin, Dirigieren, erste, Schule, Schulmusik, Amateur, Geige, Violine, Trompete</itunes:keywords>
+      <itunes:author>Manuel Lodes, Ilka Mestemacher, Lukas-Eichenauer, Verena Wied, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -19029,7 +19029,7 @@ Diese praktische Übung eignet sich auch zum Gebrauch im Musikunterricht an Schu
       <description>Eine Einführung in die Terminologie</description>
       <pubDate>Wed, 11 Dec 2019 10:20:52 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Musikhochschule, Multimedia, Webtechnologie, Einführung, Terminologie, Internet, Programmierung, Markup, language, CSS, HTML, Javascript, Hilfe</itunes:keywords>
+      <itunes:keywords>Musikhochschule, Multimedia, Webtechnologie, Einführung, Terminologie, Internet, Programmierung, Markup, language, CSS, HTML, Javascript</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>

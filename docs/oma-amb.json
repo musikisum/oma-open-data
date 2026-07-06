@@ -8199,8 +8199,7 @@
       "language",
       "CSS",
       "HTML",
-      "Javascript",
-      "Hilfe"
+      "Javascript"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -28182,6 +28181,10 @@
       {
         "type": "Person",
         "name": "Verena Wied"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Erste Hilfe für Probleme , die in Schul- oder Amateurorchestern bei Streichinstrumenten und Blechblasinstrumenten häufig auftreten. (Video)",
@@ -28196,7 +28199,6 @@
       "Dirigentin",
       "Dirigieren",
       "erste",
-      "Hilfe",
       "Schule",
       "Schulmusik",
       "Amateur",
@@ -49559,6 +49561,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Anleitung und Tipps zur Benutzung des Video-Plugins",
@@ -49785,6 +49791,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Das Plugin dient der interaktiven Auseinandersetzung mit einem Video oder einer Tonaufnahme. Füge an ausgewählten Stellen Kommentare oder Fragen und Antworten ein.  Wie's geht, erfährst du hier. ",
@@ -51474,7 +51484,8 @@
       "Verein",
       "gemeinnützig",
       "Förderung",
-      "OMA"
+      "OMA",
+      "Education"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -57716,6 +57727,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Hier wird erklärt, wie du eine externe Webseite in ein OMA-Dokument einbindest.",
@@ -57779,6 +57794,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Wie du einen kleinen Wissenstest zur Selbstüberprüfung auf der OMA anlegst, erfährst du hier.",
@@ -58332,6 +58351,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Mit dem Plugin Medien-Slideshow kannst du Bilder oder Texte zu mit Audiodateien oder Tonspuren von Videos (auch von YouTube) kombinieren. Hier erklären wir, wie's geht.",
@@ -60754,7 +60777,6 @@
       "Up",
       "Gesang",
       "aufwärmen",
-      "Einsinghilfe",
       "Übungen",
       "für",
       "Chorleiter*innen",
@@ -63336,6 +63358,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Wie du ein Spiel, ähnlich dem berühmten \"Memory\", mit Bildern, Tönen und Texten anlegst, erklären wir dir hier.",
@@ -75817,6 +75843,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Hörbeispiel, freie Noten, Techniktipps und Infos zu Portnoffs Concertino in a-Moll für die Geige. Anforderungen: 1. bis 3. Lage, Geläufigkeit der linken Hand, Vibrato, Doppelgriffe mit leeren Saiten",
@@ -90082,81 +90112,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/UnSywjvcY9swGDEE9KLHh4",
-    "name": "\"Rhythmus\": richtige Schreibweise",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "Ilka Mestemacher"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "Ilka Mestemacher"
-      }
-    ],
-    "description": "Hast du dich beim Wort \"Rhythmus\" vertippt? Das passiert oft. Versuch es doch noch einmal mit der richtigen Schreibweise – dann findest du mehr :-)",
-    "keywords": [
-      "Rhytmus",
-      "Rythmus",
-      "Rhytmen",
-      "Rythmen",
-      "Rhytmik",
-      "Rythmik",
-      "Rytmik",
-      "Rhythmik",
-      "richtige",
-      "Schreibweise",
-      "Hilfe",
-      "Rythmusdiktat",
-      "Rhytmusdiktat",
-      "Rytmusdiktat",
-      "Rhythmus"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2025-05-23T12:31:40.956Z",
-    "datePublished": "2025-05-23T12:31:40.956Z",
-    "inLanguage": [
-      "de"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/7d6JzASXrHZfeHDRDreb8N",
     "name": "OMA-Song (im Stil der Comedian Harmonists)",
     "creator": [
@@ -92026,6 +91981,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Anleitung und Tipps zur Benutzung des Plugins \"Liste\" der OMA",
@@ -104764,6 +104723,10 @@
       {
         "type": "Person",
         "name": "Benedikt Brunner"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Bayerische und internationale Tänze. Erklärvideos mit Tänzer und Musiker, Audio Dateien der Musik, Tanzbeschreibung und Noten.\nEin Projekt des Landesvereins für Heimatpflege in Kooperation mit der OMA.",
@@ -114449,6 +114412,84 @@
     },
     "dateCreated": "2026-06-24T10:13:28.978Z",
     "datePublished": "2026-06-24T10:13:28.978Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/bha38XF98LHe3NHoF9YEjN",
+    "name": "Felix Mendelssohn Bartholdy: Hebe deine Augen auf",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Katja F"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Katja F"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Terzett für drei Frauenstimmen inklusive Mehrspurplayer zum Mitsingen und Link zu den passenden Noten",
+    "keywords": [
+      "Hebe",
+      "deine",
+      "Augen",
+      "auf",
+      "Mendelssohn",
+      "Bartholdy",
+      "Chorgesang",
+      "Terzett",
+      "Frauenstimmen",
+      "Sopran",
+      "Mezzosopran",
+      "Alt",
+      "Mitsingen",
+      "dreistimmig"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-06-29T10:46:59.295Z",
+    "datePublished": "2026-06-29T10:46:59.295Z",
     "inLanguage": [
       "de"
     ],
