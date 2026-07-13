@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Jul 2026 09:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:20:06 GMT</lastBuildDate>
+    <item>
+      <title>Musik im Krieg am Beispiel von Debussy</title>
+      <link>https://openmusic.academy/docs/jym6mBREHz6qDDpPgzst3F</link>
+      <guid>jym6mBREHz6qDDpPgzst3F</guid>
+      <description />
+      <pubDate>Tue, 07 Jul 2026 19:21:03 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Hymnen, im, Sport, Debussy</itunes:keywords>
+      <itunes:author>Levin Althaus , Ulrich Kaiser, Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Felix Mendelssohn Bartholdy: Hebe deine Augen auf</title>
       <link>https://openmusic.academy/docs/bha38XF98LHe3NHoF9YEjN</link>
@@ -1359,7 +1373,7 @@ Chorsätze: Ulrich Kaiser (2026) und J. S. Bach</description>
       <title>Guns N' Roses - Live And Let Die</title>
       <link>https://openmusic.academy/docs/Q5YwkauxkdTBcd6gKNL8cs</link>
       <guid>Q5YwkauxkdTBcd6gKNL8cs</guid>
-      <description>Erstellt von Paul Reuder</description>
+      <description />
       <pubDate>Mon, 23 Feb 2026 10:47:40 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>songanalyse, paul, Guns, Roses, Live, And, Let, Die, n</itunes:keywords>
@@ -12313,7 +12327,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Mon, 07 Nov 2022 12:46:01 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Open, Music, Academy, e.V., Verein, gemeinnützig, Förderung, OMA, Education</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Wendelin Bitzan</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Wendelin Bitzan, Benedikt Wagner</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>

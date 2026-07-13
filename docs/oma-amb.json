@@ -51473,6 +51473,10 @@
       {
         "type": "Person",
         "name": "Wendelin Bitzan"
+      },
+      {
+        "type": "Person",
+        "name": "Benedikt Wagner"
       }
     ],
     "description": "Der gemeinnützige Verein zur Unterstützung der OMA stellt sich vor.",
@@ -107101,7 +107105,7 @@
         "name": "Ulrich Kaiser"
       }
     ],
-    "description": "Erstellt von Paul Reuder",
+    "description": "",
     "keywords": [
       "songanalyse",
       "paul",
@@ -114490,6 +114494,78 @@
     },
     "dateCreated": "2026-06-29T10:46:59.295Z",
     "datePublished": "2026-06-29T10:46:59.295Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/jym6mBREHz6qDDpPgzst3F",
+    "name": "Musik im Krieg am Beispiel von Debussy",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Levin Althaus "
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Levin Althaus "
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "",
+    "keywords": [
+      "Hymnen",
+      "im",
+      "Sport",
+      "Debussy"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-07T19:21:03.523Z",
+    "datePublished": "2026-07-07T19:21:03.523Z",
     "inLanguage": [
       "de"
     ],
