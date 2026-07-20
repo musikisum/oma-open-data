@@ -7965,7 +7965,8 @@
       "Lob",
       "der",
       "Tränen",
-      "Forelle"
+      "Forelle",
+      "Heideröslein"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -83066,76 +83067,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/vxKZ4goKt6oAKjdwwwd15a",
-    "name": "Archiviert: Chord Progressions - The Best Mistakes (The Divine Comedy) (Kopie)",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "FelixM"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "FelixM"
-      },
-      {
-        "type": "Person",
-        "name": "Ilka Mestemacher"
-      }
-    ],
-    "description": "",
-    "keywords": [
-      "Pop",
-      "chords",
-      "4-Chord-Folge",
-      "Britpop",
-      "divine",
-      "comedy"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2024-12-01T18:11:31.979Z",
-    "datePublished": "2024-12-01T18:11:31.979Z",
-    "inLanguage": [
-      "de"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/47aADkaojek9pdf9KYc7kJ",
     "name": "Kollektion: Operation Mozart. Arien der Zauberflöte ohne Gesang",
     "creator": [
@@ -85339,7 +85270,7 @@
         "name": "Ilka Mestemacher"
       }
     ],
-    "description": "Dieses Tutorial ist als Einstieg gedacht, wenn du Interesse an Analysemethoden hast, mit der bestimmte Aspekte von Musik in einer musikalischen Analyse beschreiben kannst.",
+    "description": "Dieses Tutorial ist als ein historisch-kritischer Einstieg gedacht, wenn du Interesse an Analysemethoden der Musiktheorie hast und nach einem passenden Werkzeug suchst, um bestimmte Aspekte von Musik im Rahmen einer musikalischen Analyse beschreiben zu können.",
     "keywords": [
       "Analyse",
       "Methoden",
@@ -85359,7 +85290,15 @@
       "Stufensymbole",
       "Einführung",
       "analysieren",
-      "Methodik"
+      "Methodik",
+      "Lendvai",
+      "Massiaen",
+      "symmetrische",
+      "Skalen",
+      "Modi",
+      "mit",
+      "begrenzten",
+      "Transpositionsmöglichkeiten"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -104746,7 +104685,9 @@
       "Audiofiles",
       "Audio",
       "Landesverein",
-      "niedrigschwellig"
+      "niedrigschwellig",
+      "mit",
+      "Schwung"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -114566,6 +114507,156 @@
     },
     "dateCreated": "2026-07-07T19:21:03.523Z",
     "datePublished": "2026-07-07T19:21:03.523Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Y5AZujriie77BB5d3A6HZQ",
+    "name": "Elise in Black (OpenBook Bandklasse)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Ein Klassenarrangement über eine bekannte Harmoniefolge (i-VII-i), einen beliebten Melodie-Abschnitt (»Für Elise«) und passend zu einem Hit (Lady in Black von Uriah Heep).",
+    "keywords": [
+      "Band",
+      "Impulse",
+      "Bandklasse",
+      "Musikklasse",
+      "All",
+      "Openbook",
+      "Ulrich",
+      "Kaiser",
+      "Musikschule",
+      "Musikunterricht",
+      "Uriah",
+      "Heep",
+      "Lady",
+      "in",
+      "Black",
+      "Für",
+      "Elise",
+      "Ludwig",
+      "van",
+      "Beethoven",
+      "L.",
+      "v."
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-14T17:01:49.324Z",
+    "datePublished": "2026-07-14T17:01:49.324Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/WgpNqoFKUzRf3Sfzniot89",
+    "name": "Satz und Periode – Welches Modell passt?",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Tutorial geht es um das Formmodell Satz. Darüber hinaus bekommst du eine Hilfe, um in einer musikalischen Analyse Satz und Periode unterscheiden zu können.",
+    "keywords": [
+      "Satz",
+      "und",
+      "Periode",
+      "Welches",
+      "Modell",
+      "passt",
+      "Formenlehre",
+      "Unterrichtseinheit"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-20T00:19:55.531Z",
+    "datePublished": "2026-07-20T00:19:55.531Z",
     "inLanguage": [
       "de"
     ],

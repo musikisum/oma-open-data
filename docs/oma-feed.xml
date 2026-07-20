@@ -5,7 +5,35 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:09:48 GMT</lastBuildDate>
+    <item>
+      <title>Satz und Periode – Welches Modell passt?</title>
+      <link>https://openmusic.academy/docs/WgpNqoFKUzRf3Sfzniot89</link>
+      <guid>WgpNqoFKUzRf3Sfzniot89</guid>
+      <description>In diesem Tutorial geht es um das Formmodell Satz. Darüber hinaus bekommst du eine Hilfe, um in einer musikalischen Analyse Satz und Periode unterscheiden zu können.</description>
+      <pubDate>Mon, 20 Jul 2026 00:19:55 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Satz, und, Periode, Welches, Modell, passt, Formenlehre, Unterrichtseinheit</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Elise in Black (OpenBook Bandklasse)</title>
+      <link>https://openmusic.academy/docs/Y5AZujriie77BB5d3A6HZQ</link>
+      <guid>Y5AZujriie77BB5d3A6HZQ</guid>
+      <description>Ein Klassenarrangement über eine bekannte Harmoniefolge (i-VII-i), einen beliebten Melodie-Abschnitt (»Für Elise«) und passend zu einem Hit (Lady in Black von Uriah Heep).</description>
+      <pubDate>Tue, 14 Jul 2026 17:01:49 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Band, Impulse, Bandklasse, Musikklasse, All, Openbook, Ulrich, Kaiser, Musikschule, Musikunterricht, Uriah, Heep, Lady, in, Black, Für, Elise, Ludwig, van, Beethoven, L., v.</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Musik im Krieg am Beispiel von Debussy</title>
       <link>https://openmusic.academy/docs/jym6mBREHz6qDDpPgzst3F</link>
@@ -1817,7 +1845,7 @@ Chorsatz: Ulrich Kaiser (2026)</description>
 Ein Projekt des Landesvereins für Heimatpflege in Kooperation mit der OMA.</description>
       <pubDate>Fri, 13 Feb 2026 11:54:50 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Tanz, Tanzen, Tanzmusik, Paartanz, Volksmusik, Noten, Hörbeispiele, Audiodateien, Audiofiles, Audio, Landesverein, niedrigschwellig</itunes:keywords>
+      <itunes:keywords>Tanz, Tanzen, Tanzmusik, Paartanz, Volksmusik, Noten, Hörbeispiele, Audiodateien, Audiofiles, Audio, Landesverein, niedrigschwellig, mit, Schwung</itunes:keywords>
       <itunes:author>Sebastian Gröller, Benedikt Brunner, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -5436,10 +5464,10 @@ Die Open Music Academy veranstaltete im November 2024 ein Symposium zu Tonaufnah
       <title>Analysemethoden – Eine Einführung</title>
       <link>https://openmusic.academy/docs/DEbQsbeXoXk2DiRXzC2jfK</link>
       <guid>DEbQsbeXoXk2DiRXzC2jfK</guid>
-      <description>Dieses Tutorial ist als Einstieg gedacht, wenn du Interesse an Analysemethoden hast, mit der bestimmte Aspekte von Musik in einer musikalischen Analyse beschreiben kannst.</description>
+      <description>Dieses Tutorial ist als ein historisch-kritischer Einstieg gedacht, wenn du Interesse an Analysemethoden der Musiktheorie hast und nach einem passenden Werkzeug suchst, um bestimmte Aspekte von Musik im Rahmen einer musikalischen Analyse beschreiben zu können.</description>
       <pubDate>Thu, 30 Jan 2025 19:47:28 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Analyse, Methoden, Analysemethoden, Musiktheorie, musikalische, Stufentheorie, Funktionstheorie, Satzmodelle, grafische, Quintenturm, scalar, shift, sinfonische, Welle, forensische, Stufensymbole, Einführung, analysieren, Methodik</itunes:keywords>
+      <itunes:keywords>Analyse, Methoden, Analysemethoden, Musiktheorie, musikalische, Stufentheorie, Funktionstheorie, Satzmodelle, grafische, Quintenturm, scalar, shift, sinfonische, Welle, forensische, Stufensymbole, Einführung, analysieren, Methodik, Lendvai, Massiaen, symmetrische, Skalen, Modi, mit, begrenzten, Transpositionsmöglichkeiten</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Shinta Walker, Ilka Mestemacher</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -5863,20 +5891,6 @@ Diese Unterrichtsstunde eignet sich im schulischen Kontext besonders in der Unte
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Operation, Mozart, Zauberflöte, KV620, Arien, ohne, Gesang, Hofkapelle, München, minus, one, playback, Karaoke, singalong, OpMozart</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Shinta Walker, Mathias Kupczyk, Elisabeth Wagner</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>CC BY-SA</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
-    </item>
-    <item>
-      <title>Archiviert: Chord Progressions - The Best Mistakes (The Divine Comedy) (Kopie)</title>
-      <link>https://openmusic.academy/docs/vxKZ4goKt6oAKjdwwwd15a</link>
-      <guid>vxKZ4goKt6oAKjdwwwd15a</guid>
-      <description />
-      <pubDate>Sun, 01 Dec 2024 18:11:31 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Pop, chords, 4-Chord-Folge, Britpop, divine, comedy</itunes:keywords>
-      <itunes:author>FelixM, Ilka Mestemacher</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -17596,7 +17610,7 @@ Auch geeignet für Musikunterricht an Schulen.</description>
       <description />
       <pubDate>Fri, 08 May 2020 17:30:40 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Musikhochschule, Musiktheorie, Kunstlied, Franz, Schubert, Liedanalyse, Übungen, Satzmodelle, Heidenröslein, Lob, der, Tränen, Forelle</itunes:keywords>
+      <itunes:keywords>Musikhochschule, Musiktheorie, Kunstlied, Franz, Schubert, Liedanalyse, Übungen, Satzmodelle, Heidenröslein, Lob, der, Tränen, Forelle, Heideröslein</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
