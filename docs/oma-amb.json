@@ -4644,7 +4644,7 @@
       },
       {
         "type": "Person",
-        "name": "Ramiro Schenkel"
+        "name": "digitalersuizid"
       }
     ],
     "description": "Theoretische Beschreibung einer musikalischen Schlusswendung: die Kadenz als  Abfolge von Akkorden. Dabei werden auch die Hauptstufen einer Tonart erklärt: Tonika, Subdominante und Dominante.",
@@ -93783,7 +93783,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/bVarwt6zvqG3XiYeECKZpQ",
-    "name": "Die Periode (AB|AB)",
+    "name": "Formen im Kleinen: Die Periode (AB|AB)",
     "creator": [
       {
         "type": "Person",
@@ -93863,7 +93863,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/3B3r348EEryP9wdDC7uWDd",
-    "name": "Das Zusammenspiel von Ganzschluss und Halbschluss",
+    "name": "Formen im Kleinen: Das Zusammenspiel von Ganzschluss und Halbschluss",
     "creator": [
       {
         "type": "Person",
@@ -103155,6 +103155,72 @@
     "datePublished": "2025-12-23T13:39:21.458Z",
     "inLanguage": [
       "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/9uHfP1iGGUmE8h2YG3L2tZ",
+    "name": "Landing Page \"Songwriting with AI\"",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Malina Geiselmann"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Malina Geiselmann"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Welcome to the teaching modules of the education course \"Songwriting with AI\" developed in KuMuS and TEAM. ",
+    "keywords": [
+      "ai",
+      "ki"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2025-12-27T15:36:54.470Z",
+    "datePublished": "2025-12-27T15:36:54.470Z",
+    "inLanguage": [
+      "en"
     ],
     "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
     "about": [
@@ -113725,7 +113791,11 @@
       "52",
       "Aufnahmen",
       "Informationen",
-      "Materialien"
+      "Materialien",
+      "Ensemberlino",
+      "Vocale",
+      "Ulrich",
+      "Kaiser"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -113799,7 +113869,11 @@
       "Gesänge",
       "drei",
       "fünf",
-      "sechs"
+      "sechs",
+      "Ensemberlino",
+      "Vocale",
+      "Ulrich",
+      "Kaiser"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -114628,7 +114702,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/WgpNqoFKUzRf3Sfzniot89",
-    "name": "Satz und Periode – Welches Modell passt?",
+    "name": "Formen im Kleinen: Der Satz (AAB)",
     "creator": [
       {
         "type": "Person",
@@ -114646,17 +114720,655 @@
       "Satz",
       "und",
       "Periode",
-      "Welches",
-      "Modell",
-      "passt",
       "Formenlehre",
-      "Unterrichtseinheit"
+      "Unterrichtseinheit",
+      "Unterschied",
+      "zwischen"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
     },
     "dateCreated": "2026-07-20T00:19:55.531Z",
     "datePublished": "2026-07-20T00:19:55.531Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/9NhVk1mZAa4JYpyeERVbV3",
+    "name": "Formen im Kleinen: Satz und Periode – Welches Modell passt?",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Tutorial geht es darum, die Formmodelle Satz und Periode anhand von drei Beispielen richtig anwenden zu können .",
+    "keywords": [
+      "Satz",
+      "und",
+      "Periode",
+      "Welches",
+      "Modell",
+      "passt",
+      "Formenlehre",
+      "Unterrichtseinheit",
+      "Beethoven",
+      "Haydn"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-20T15:44:20.639Z",
+    "datePublished": "2026-07-20T15:44:20.639Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/BNkgVuDPdwssyRWKEHwC1T",
+    "name": "Gleichgewichtsformen: Die dreiteilige Form im Lied (ABA)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Tutorial lernst du das Modell der dreiteiligen Liedform anhand des Liedes ›Morgengruß‹ von Franz Schubert kennen.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "Schubert",
+      "Morgengruß",
+      "Passus",
+      "duriuscuslus",
+      "Lamentobass",
+      "Franz",
+      "ABA",
+      "dreiteilige",
+      "Liedform"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-20T21:25:27.247Z",
+    "datePublished": "2026-07-20T21:25:27.247Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/SW2bCkP7qH2NHtos7jVWGc",
+    "name": "Exkurs: Andere Liedformen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Wenn du die ABA-Form als Modell für Lieder schon kennst: In diesem Tutorial kannst du weitere Liedformen anhand von Volksliedern kennenlernen.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "Schubert",
+      "Franz",
+      "Liedform",
+      "zweiteilige",
+      "AB",
+      "Bar-Form",
+      "Volkslieder"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-20T22:21:55.058Z",
+    "datePublished": "2026-07-20T22:21:55.058Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/uaKrbfdA3dZX8tN6Hcqi5i",
+    "name": "Gleichgewichtsformen: Das Menuett (ABA)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Die ABA-Form als Modell für Lieder hast du schon kennengelernt. In diesem Tutorial kannst du die ABA-Form in der Gattung eines Menuetts wiedererkennen.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "ABA-Form",
+      "Sonate",
+      "Menuett",
+      "oder",
+      "Sinfonie",
+      "Arie",
+      "Riepel"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-21T14:35:39.444Z",
+    "datePublished": "2026-07-21T14:35:39.444Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Sc79abDEA4eMUNDsXR1inj",
+    "name": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 1 Necklied",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 1 Necklied",
+    "keywords": [
+      "Béla",
+      "Bartók",
+      "44",
+      "Duos",
+      "für",
+      "2",
+      "Violinen",
+      "Sz.",
+      "98,",
+      "BB",
+      "104",
+      "Nr.",
+      "1",
+      "Necklied"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-23T15:31:46.831Z",
+    "datePublished": "2026-07-23T15:31:46.831Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/LZWhnZKcCfS1mJf8ztEzvH",
+    "name": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 2 Reigen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      }
+    ],
+    "description": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 2 Reigen",
+    "keywords": [
+      "Bela",
+      "Bartok",
+      "44",
+      "Duos",
+      "für",
+      "zwei",
+      "Violinen",
+      "Sz.",
+      "98",
+      "BB",
+      "104",
+      "Nr.",
+      "1",
+      "Reigen"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-24T11:18:29.650Z",
+    "datePublished": "2026-07-24T11:18:29.650Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/RnpKiMfYJYD8DHQAg4FjPX",
+    "name": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 3 Menuetto",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ralitsa"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Béla Bartók 44 Duos für 2 Violinen Sz. 98, BB 104 Nr. 3 Menuetto",
+    "keywords": [
+      "Béla",
+      "Bartók",
+      "44",
+      "Duos",
+      "für",
+      "2",
+      "Violinen",
+      "Sz.",
+      "98,",
+      "BB",
+      "104",
+      "Nr.",
+      "3",
+      "Menuetto"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-24T11:27:20.127Z",
+    "datePublished": "2026-07-24T11:27:20.127Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/hu9BPwzvAZBjP3pveird2r",
+    "name": "Gleichgewichtsformen: Menuette komponieren",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Einheit kannst du Menuett komponieren. Viel Spaß dabei!",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "ABA-Form",
+      "Menuette",
+      "komponieren"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-26T13:59:12.619Z",
+    "datePublished": "2026-07-26T13:59:12.619Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/1MxRCxKSRcoEWuSrAm9VPU",
+    "name": "Gleichgewichtsformen: Menuett und Trio",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Menuett und Trio treten oft zusammen auf. In dieser Anleitung erfährst du, mehr darüber.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "ABA-Form",
+      "Menuette",
+      "Trio"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-07-26T21:32:00.014Z",
+    "datePublished": "2026-07-26T21:32:00.014Z",
     "inLanguage": [
       "de"
     ],
