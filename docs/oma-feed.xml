@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Jul 2026 08:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:33:08 GMT</lastBuildDate>
+    <item>
+      <title>Lexikon für Klasseninstrumente</title>
+      <link>https://openmusic.academy/docs/YGGpXZPjs6FaGBN5cxXBzm</link>
+      <guid>YGGpXZPjs6FaGBN5cxXBzm</guid>
+      <description>Eine Zusammenstellung grundlegender Informationen und kurzer Erklärvideos zu den gängigen Klasseninstrumenten</description>
+      <pubDate>Sat, 01 Aug 2026 22:13:29 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Klasseninstrumente, Klassenmusik, Klassenmusizieren, Lexikon, Boomwhacker, Handglocken, Djembe, Congas, Bongos, Claves, Shaker, Sleigh, Bells, Sleighbells, Schlittenglocken, Ukulele, Kazoo, Xylophon, Erklärvideo, Schulunterricht, Musikunterricht, Tutorial, Schule, Schulgroove</itunes:keywords>
+      <itunes:author>MaxiStoll</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Gleichgewichtsformen: Menuett und Trio</title>
       <link>https://openmusic.academy/docs/1MxRCxKSRcoEWuSrAm9VPU</link>
@@ -17115,7 +17129,7 @@ Besonders geeignet für den Einsatz im Musikunterricht zur Erklärung von Tonlei
       <pubDate>Fri, 31 Jul 2020 08:11:38 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Lexikon, Terminologie, Geschichte, Methoden, Methodik, Kritik, Literatur, Bibliographie, Einführung, Fach, Gehörbildung, Musiktheorie, Konservatorium, Grundlagen, Gehörschulung, Definition, MGG, Disziplin</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Andreas Helmberger, Benedikt Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Andreas Helmberger, Benedikt Wagner, Matthias Vogelsang-Weber</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>

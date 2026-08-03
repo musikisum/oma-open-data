@@ -15235,6 +15235,10 @@
       {
         "type": "Person",
         "name": "Benedikt Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Matthias Vogelsang-Weber"
       }
     ],
     "description": "Wiki-Artikel zu Definition, Geschichte und Methoden der Gehörbildung sowie Kritik am Fach. Mitarbeiten erwünscht!",
@@ -115369,6 +115373,90 @@
     },
     "dateCreated": "2026-07-26T21:32:00.014Z",
     "datePublished": "2026-07-26T21:32:00.014Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/YGGpXZPjs6FaGBN5cxXBzm",
+    "name": "Lexikon für Klasseninstrumente",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "MaxiStoll"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "MaxiStoll"
+      }
+    ],
+    "description": "Eine Zusammenstellung grundlegender Informationen und kurzer Erklärvideos zu den gängigen Klasseninstrumenten",
+    "keywords": [
+      "Klasseninstrumente",
+      "Klassenmusik",
+      "Klassenmusizieren",
+      "Lexikon",
+      "Boomwhacker",
+      "Handglocken",
+      "Djembe",
+      "Congas",
+      "Bongos",
+      "Claves",
+      "Shaker",
+      "Sleigh",
+      "Bells",
+      "Sleighbells",
+      "Schlittenglocken",
+      "Ukulele",
+      "Kazoo",
+      "Xylophon",
+      "Erklärvideo",
+      "Schulunterricht",
+      "Musikunterricht",
+      "Tutorial",
+      "Schule",
+      "Schulgroove"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-01T22:13:29.188Z",
+    "datePublished": "2026-08-01T22:13:29.188Z",
     "inLanguage": [
       "de"
     ],
