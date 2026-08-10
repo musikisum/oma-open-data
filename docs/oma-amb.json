@@ -85253,7 +85253,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/DEbQsbeXoXk2DiRXzC2jfK",
-    "name": "Analysemethoden – Eine Einführung",
+    "name": "Öffentliches Seminar: Musikalischen Analyse und ihre Methoden (Analysemethoden – Eine Einführung)",
     "creator": [
       {
         "type": "Person",
@@ -85274,7 +85274,7 @@
         "name": "Ilka Mestemacher"
       }
     ],
-    "description": "Dieses Tutorial ist als ein historisch-kritischer Einstieg gedacht, wenn du Interesse an Analysemethoden der Musiktheorie hast und nach einem passenden Werkzeug suchst, um bestimmte Aspekte von Musik im Rahmen einer musikalischen Analyse beschreiben zu können.",
+    "description": "Dieses öffentliche Seminar ist ein historisch-kritischer Einstieg in das Thema Methoden der musikalischen Analyse. Es kann dir helfen, wenn du nach einem passenden Werkzeug suchst, um bestimmte Aspekte von Musik im Rahmen einer Musikanalyse angemessen beschreiben zu können.",
     "keywords": [
       "Analyse",
       "Methoden",
@@ -85302,7 +85302,8 @@
       "Modi",
       "mit",
       "begrenzten",
-      "Transpositionsmöglichkeiten"
+      "Transpositionsmöglichkeiten",
+      "Seminar"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -103371,6 +103372,10 @@
       {
         "type": "Person",
         "name": "Benedikt Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Wendelin Bitzan"
       }
     ],
     "description": "Aktuelle Arbeiten von Redakteurinnen und Redakteuren an OMA-Dokumenten",
@@ -115457,6 +115462,1359 @@
     },
     "dateCreated": "2026-08-01T22:13:29.188Z",
     "datePublished": "2026-08-01T22:13:29.188Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/mWi6kGC6LFaFz7fw8ZVA4K",
+    "name": "Hilfe: MEI-Studio",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "Hier erhältst du Hilfe zum MEI-Studio, mit dem du MEI-Dateien laden und die Stimmen mit variablen Lautstärken abspielen kannst. ",
+    "keywords": [
+      "Hilfe",
+      "MEI-Studio",
+      "Anzeige",
+      "Dateien"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-03T12:54:55.670Z",
+    "datePublished": "2026-08-03T12:54:55.670Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/2wsXUV9yMiCMnbvi2McEF5",
+    "name": "Help: MEI-Studio",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "The MEI Studio plugin makes it possible to embed music notation from MEI files",
+    "keywords": [
+      "MEI-Studio",
+      "Help",
+      "Display",
+      "Data"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-03T14:03:59.898Z",
+    "datePublished": "2026-08-03T14:03:59.898Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/mKSYe8LqBPfMqU1gZiNSQD",
+    "name": "Seminarsitzung: Generalbass & Oktavregel",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in die Themen Generalbass und Oktavregel ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Generalbass",
+      "Oktavregel",
+      "Sitzung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T09:10:19.192Z",
+    "datePublished": "2026-08-04T09:10:19.192Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/4JqFV7j4s2bvHnzAPQy1pj",
+    "name": "Seminarsitzung: Stufentheorie",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Stufentheorie ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Stufentheorie",
+      "Sitzung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T09:21:11.515Z",
+    "datePublished": "2026-08-04T09:21:11.515Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/egVS3rhNGuhzmmDQwjeJpR",
+    "name": "Seminarsitzung: Funktionstheorie",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Funktionstheorie ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Funktionstheorie",
+      "Sitzung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T09:31:34.997Z",
+    "datePublished": "2026-08-04T09:31:34.997Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/xPc2tm3JTL5yagu3Wwk4Ft",
+    "name": "Seminarsitzung: Satzmodelle",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Satzmodelle ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Satzmodelle",
+      "Sitzung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:23:00.494Z",
+    "datePublished": "2026-08-04T12:23:00.494Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Gn6sCrXZvQfZc7MNmmSKaT",
+    "name": "Seminarsitzung: Grafische Analyse (Schenker)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema grafische Analyse (Schenker) ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "grafische",
+      "Analyse"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:27:49.831Z",
+    "datePublished": "2026-08-04T12:27:49.831Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/bShH8ABJdRpBRvodPyFX5W",
+    "name": "Seminarsitzung: Sinfonische Welle (Kurth)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Sinfonische Welle (Energetik) nach Ernst Kurth ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Sinfonische",
+      "Welle"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:34:09.268Z",
+    "datePublished": "2026-08-04T12:34:09.268Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/jveMKCcqC4nZ3RxjZWZnMS",
+    "name": "Seminarsitzung: Quintenturm und Terzensäule",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in die Themen Quintenturm und  Terzensäule ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Quintenturm",
+      "und",
+      "Terzensäule"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:41:51.358Z",
+    "datePublished": "2026-08-04T12:41:51.358Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/VmUJXy6MrVHbJcePy6REUE",
+    "name": "Seminarsitzung: Symmetrische Skalen (Messiaen)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema symmetrische Skalen ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Symmetrische",
+      "Skalen"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:47:24.355Z",
+    "datePublished": "2026-08-04T12:47:24.355Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/58eT1Krmpy6Ng1DSGCwww8",
+    "name": "Seminarsitzung: Achsensystem (Lendvai)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Achsensystem (Lendvai) ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Achsensystem",
+      "Lendvai"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T12:52:16.167Z",
+    "datePublished": "2026-08-04T12:52:16.167Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/LUSZuvp5Yzo6JuGd3bHaGR",
+    "name": "Seminarsitzung: PC-Set-Theory (Forte)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema PC-Set-Theory (Forte) ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "PC-Set-Tehory",
+      "Forte"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T13:07:32.790Z",
+    "datePublished": "2026-08-04T13:07:32.790Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/5Y4qBt6qGP7CSSojacysYF",
+    "name": "Seminarsitzung: Forensische Analyse und das Urheberrecht",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Forensische Analyse und das Urheberrecht ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Forensische",
+      "Analyse",
+      "Urheberrecht"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T13:16:39.421Z",
+    "datePublished": "2026-08-04T13:16:39.421Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Nerm3f2ugLBoicHB1pGbYj",
+    "name": "Seminarsitzung: Reduktion von Komplexität",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Komplexitätsreduktion ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Reduktion",
+      "von",
+      "Komplexität",
+      "Komplexitätsreduktion"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-04T21:56:43.481Z",
+    "datePublished": "2026-08-04T21:56:43.481Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/6j75P9qztfUioUNnqZ74fn",
+    "name": "Seminarsitzung: Kontrapunkt und Harmonielehre",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Kontrapunkt und Harmonielehre ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Kontrapunkt",
+      "und",
+      "Harmonielehre"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-05T21:39:23.304Z",
+    "datePublished": "2026-08-05T21:39:23.304Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/aqx2vHZCLaZFmCsFdLJpe1",
+    "name": "Seminarsitzung: Incision, Interpunktion & Form",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Incision, Interpunktion und Form ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Incision",
+      "Interpunktion",
+      "Mattheson",
+      "Koch",
+      "Heinrich",
+      "H.",
+      "Chr.",
+      "Christoph",
+      "Form",
+      "Kadenzlehre"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-06T15:13:27.616Z",
+    "datePublished": "2026-08-06T15:13:27.616Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/RrTdoLBSSmFH7cQPonffqj",
+    "name": "Seminarsitzung: Theorie und Praxis",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Einführung in das Thema Theorie und Praxis ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "Sitzung",
+      "Theorie",
+      "und",
+      "Praxis"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-06T23:16:15.744Z",
+    "datePublished": "2026-08-06T23:16:15.744Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/huitXeu54JWFBwYLvXqbit",
+    "name": "Gleichgewichtsformen: Die zusammengesetzt Liedform (ABA-CDC-ABA)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Fasst man die Folge Menuett, Trio und Menuett als eine Form auf, wird diese Form auch als zusammengesetzt Liedform bezeichnet (ABA-CDC-ABA). Diese Form findet sich gelegentlich in sinfonischer Musik des 19. Jahrhunderts, z.B. bei Johannes Brahms. Hier kannst du mehr darüber erfahren.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "Menuette",
+      "Trio",
+      "zusammengesetzte",
+      "Liedform"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-07T20:35:26.504Z",
+    "datePublished": "2026-08-07T20:35:26.504Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/orZhPnqquAM38U6uhM37y2",
+    "name": "Gleichgewichtsformen: Sonatenhauptsatzform (ABA)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Einheit erfährst du mehr über das Modell der Sonatenhauptsatzform. Aber vielleicht auf eine neue Art, wenn du nicht auf ›Themen‹, sondern auf ›Licht und Schatten‹ in der Musik achtest.  ",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "die",
+      "Sonatenhauptsatzform",
+      "Licht",
+      "und",
+      "Schatten",
+      "laut",
+      "leise",
+      "Expositionen"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-08T21:50:53.123Z",
+    "datePublished": "2026-08-08T21:50:53.123Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/r7jr2Jixu1kCi2DpdKfSD6",
+    "name": "Gleichgewichtsformen: Die Reprise",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Hier erfährst du, was eine Reprise ist und welche Strategien es gibt, die Wiederkehr von Musik zu inszenieren, die man am Anfang des Stücks schon einmal gehört hat.  ",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "die",
+      "Reprise"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-09T21:03:01.283Z",
+    "datePublished": "2026-08-09T21:03:01.283Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/rWJWBwgHjLhGubvocrqq4M",
+    "name": "Gleichgewichtsformen: Das Sonatenrondo (ABACABA)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Dokument lernst du die Sonatenrondoform kennen. Auch diese Form gehört zu den Gleichgewichtsformen und hat große Ähnlichkeiten mit der Sonatenhauptsatzform.",
+    "keywords": [
+      "Unterrichtseinheit",
+      "Formenlehre",
+      "DAs",
+      "Sonatenrondo",
+      "Sonatenrondoform"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-09T22:03:15.202Z",
+    "datePublished": "2026-08-09T22:03:15.202Z",
     "inLanguage": [
       "de"
     ],
