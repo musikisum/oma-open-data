@@ -1663,6 +1663,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Hier findest Du für die Formanalyse von Pop-/Rocksongs alle Informationen über die Verse-Bridge-Form sowie passende Dateien für eine Unterrichtseinheit.\nTeil der Reihe \"Formen in der Pop-/Rockmusik\" für den Musikunterricht an allgemeinbildenden Schulen",
@@ -1934,6 +1938,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Hier findest Du im Sinne der Formanalyse von Pop-/Rocksongs alle Informationen über die sogenannte Verse-Chorus-Bridge-Form sowie passende Dateien für eine Unterrichtseinheit.\nTeil der Reihe \"Formen in der Pop-/Rockmusik\" für den Musikunterricht an allgemeinbildenden Schulen",
@@ -5963,6 +5971,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Einführung in den technischen Prozess mit einer Digital Audio Workstation & Soundlibraries oder mit einem Filmschnittprogramm (mit Aufgaben für Schüler:innen)",
@@ -9347,6 +9359,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Links zu kostenfreier Musik, Software und Sounds",
@@ -10269,89 +10285,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/9cMFBDCuGiGxiUvr2CyEfM",
-    "name": "Pop- und Rockmusik: Verse-Bridge-Form",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "Ulrich Kaiser"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "Ulrich Kaiser"
-      },
-      {
-        "type": "Person",
-        "name": "Ilka Mestemacher"
-      },
-      {
-        "type": "Person",
-        "name": "Theresa U"
-      },
-      {
-        "type": "Person",
-        "name": "Fuchs-Stefan"
-      }
-    ],
-    "description": "Formenlehre mit Blick auf Pop- und Rockmusik (für Studierende)",
-    "keywords": [
-      "Musikhochschule",
-      "Formenlehre",
-      "Pop",
-      "Rock",
-      "Verse",
-      "Bridge",
-      "Beatles",
-      "Form",
-      "Verse-Bridge-Form",
-      "Analyse",
-      "Aufbau"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2020-01-12T14:36:50.126Z",
-    "datePublished": "2020-01-12T14:36:50.126Z",
-    "inLanguage": [
-      "de"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/iCb5BbNvN9o2sUWseJxHf6",
     "name": "Freitonales Blattsingen: Beispiele aus Béla Bartóks \"Mikrokosmos\"",
     "creator": [
@@ -11142,6 +11075,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Anregungen zum Komponieren einer eigenen Musik zu den drei Kurzfilmen über ein Lama (aus dem OpenBook \"Filmmusik\" für Schüler:innen)",
@@ -14987,6 +14924,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Aufgaben zum Kennenlernen von Musik und Sounds im Kurzfilm \"Big Buck Bunny\" (Teil des OpenBooks \"Filmmusik\" für Schüler:innen)",
@@ -37433,6 +37374,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Aufgaben zum Soundtrack des Kurzfilms \"Sintel\" (Teil des OpenBooks \"Filmmusik\" für Schüler:innen)",
@@ -37518,6 +37463,10 @@
       {
         "type": "Person",
         "name": "Fuchs-Stefan"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Tutorial über das Ausarbeiten eines Choralsatzes mit Hilfe der Funktionstheorie und der Regola dell'Ottava",
@@ -41656,6 +41605,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Hier findest Du im Sinne der Formanalyse von Pop-/Rocksongs alle Informationen über die sogenannte Verse-Chorus-Form sowie passende Dateien für eine Unterrichtseinheit.\nTeil der Reihe \"Formen in der Pop-/Rockmusik\" für den Musikunterricht an allgemeinbildenden Schulen",
@@ -44465,6 +44418,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Einige Lieder des Zyklus \"Die Winterreise\" Op. 89 von Franz Schubert ermöglichen es, den Zyklus als die Vertonung einer unglücklichen Liebe und das letzte Lied (Der Leiermann) als Begegnung mit dem Tod zu interpretieren. Der Artikel sammelt Interpretationen von prominenten Musikwissenschaftlern und Philosophen, die über diese Deutung als unglückliche Liebe hinausgehen.",
@@ -54652,7 +54609,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/RG1ZrsFHUXF83ehFBHsQbb",
-    "name": "Welcher Ton liegt oben? Eine Übung zum vertikalen Hören",
+    "name": "Welcher Ton liegt oben? (advanced)",
     "creator": [
       {
         "type": "Person",
@@ -54673,7 +54630,7 @@
         "name": "Ko.Rupprecht"
       }
     ],
-    "description": "In dieser Übung geht es um eine scheinbar ganz banale, aber oft entscheidende Frage: Welche Rolle spielt der Ton, der in einem Klang ganz oben liegt? Und wie heißt er? Davon ausgehend erschließt sich ein mehrstimmiger Satz manchmal viel leichter. Diese Strategie soll hier in einer Trockenübung trainiert werden. ",
+    "description": "Der oberste Ton ist oft der Einstieg in den Klang. Hier geht es nicht nur um Dreiklänge sondern zum Teil um anspruchsvolle Akkorde.",
     "keywords": [
       "Akkord",
       "Akkorde",
@@ -74551,6 +74508,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Fernando Scarabino"
       }
     ],
     "description": "In diesem Tutorial lernst du sehen und auch hören, was in der Musik als Bläserwand bezeichnet wird, wie die von Komponisten in Orchesterkompositionen eingesetzt wird und was sich im Vorder- Mittel- und Hintergrund einer Sinfonie abspielt. ",
@@ -103350,6 +103311,10 @@
       {
         "type": "Person",
         "name": "Jakob Eglmeier"
+      },
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
       }
     ],
     "description": "Eine kurze Anleitung zur Redaktion von OMA-Dokumenten",
@@ -117724,7 +117689,7 @@
         "name": "Ulrich Kaiser"
       }
     ],
-    "description": "Dieses öffentliche Seminar ist ein Proseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsame entwickelt und aktualisiert werden können.",
+    "description": "Dieses öffentliche Seminar ist ein Proseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsam entwickelt und aktualisiert werden können.",
     "keywords": [
       "Analyse",
       "Musiktheorie",
@@ -117793,6 +117758,10 @@
       {
         "type": "Person",
         "name": "Vincent Penschke"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "Schupra und Pop-Klavierspiel ist für manche scheinbar ganz leicht, aber wer aus der Klassik-Welt kommt, tut sich oft damit schwer. \n\nDieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übungen zu verbessern.",
@@ -117807,6 +117776,221 @@
     },
     "dateCreated": "2026-08-16T13:39:18.670Z",
     "datePublished": "2026-08-16T13:39:18.670Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/X5mUciUdtEz95ehdyQTGAy",
+    "name": "Welcher Ton liegt oben? (leicht)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Andreas Puhani"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Andreas Puhani"
+      }
+    ],
+    "description": "In dieser Übung geht es um eine scheinbar ganz banale, aber oft entscheidende Frage: Welche Rolle spielt der Ton, der in einem Klang ganz oben liegt? Und wie heißt er? Davon ausgehend erschließt sich ein mehrstimmiger Satz manchmal viel leichter. Diese Strategie soll hier in einer Trockenübung trainiert werden. ",
+    "keywords": [
+      "vertikal",
+      "welcher",
+      "Ton",
+      "liegt",
+      "oben",
+      "vertikales",
+      "Hören",
+      "Oberstimme",
+      "Akkordübung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-17T07:58:20.991Z",
+    "datePublished": "2026-08-17T07:58:20.991Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/ambQEw13uQexvWtscNiWBP",
+    "name": "Solfege Tool",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "Ein Tool zur Darstellung einfacher Melodien mit Solfège-Händen, -Silben, - Zahlen, Tonnamen und Boomwhaker-Farben.",
+    "keywords": [
+      "solfege",
+      "solmisation",
+      "solmisationssilben",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti",
+      "boomwhaker",
+      "Tonname",
+      "Zahlen",
+      "Gehörbildung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-20T09:14:41.461Z",
+    "datePublished": "2026-08-20T09:14:41.461Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/kDui68ybRFNbM5ChELAjyR",
+    "name": "Blechbläser-Navigator",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "Ein Plugin zur Darstellung der Ventil- und Zugkombinationen für Blechblas-Instrumente.",
+    "keywords": [
+      "Grifftabelle",
+      "Zugtabelle",
+      "Blechbläser",
+      "Tuba",
+      "Trompete",
+      "Kornett",
+      "Horn",
+      "Flügelhorn",
+      "Bariton",
+      "Tenorhorn",
+      "Euphonium",
+      "Posaune",
+      "navigator"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-21T09:30:59.487Z",
+    "datePublished": "2026-08-21T09:30:59.487Z",
     "inLanguage": [
       "de"
     ],

@@ -5,7 +5,49 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:41:43 GMT</lastBuildDate>
+    <item>
+      <title>Blechbläser-Navigator</title>
+      <link>https://openmusic.academy/docs/kDui68ybRFNbM5ChELAjyR</link>
+      <guid>kDui68ybRFNbM5ChELAjyR</guid>
+      <description>Ein Plugin zur Darstellung der Ventil- und Zugkombinationen für Blechblas-Instrumente.</description>
+      <pubDate>Fri, 21 Aug 2026 09:30:59 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Grifftabelle, Zugtabelle, Blechbläser, Tuba, Trompete, Kornett, Horn, Flügelhorn, Bariton, Tenorhorn, Euphonium, Posaune, navigator</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Solfege Tool</title>
+      <link>https://openmusic.academy/docs/ambQEw13uQexvWtscNiWBP</link>
+      <guid>ambQEw13uQexvWtscNiWBP</guid>
+      <description>Ein Tool zur Darstellung einfacher Melodien mit Solfège-Händen, -Silben, - Zahlen, Tonnamen und Boomwhaker-Farben.</description>
+      <pubDate>Thu, 20 Aug 2026 09:14:41 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>solfege, solmisation, solmisationssilben, re, mi, fa, sol, la, ti, boomwhaker, Tonname, Zahlen, Gehörbildung</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Welcher Ton liegt oben? (leicht)</title>
+      <link>https://openmusic.academy/docs/X5mUciUdtEz95ehdyQTGAy</link>
+      <guid>X5mUciUdtEz95ehdyQTGAy</guid>
+      <description>In dieser Übung geht es um eine scheinbar ganz banale, aber oft entscheidende Frage: Welche Rolle spielt der Ton, der in einem Klang ganz oben liegt? Und wie heißt er? Davon ausgehend erschließt sich ein mehrstimmiger Satz manchmal viel leichter. Diese Strategie soll hier in einer Trockenübung trainiert werden. </description>
+      <pubDate>Mon, 17 Aug 2026 07:58:20 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>vertikal, welcher, Ton, liegt, oben, vertikales, Hören, Oberstimme, Akkordübung</itunes:keywords>
+      <itunes:author>Andreas Puhani</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Schupra und Pop-Klavier Praxiskurs</title>
       <link>https://openmusic.academy/docs/BkB4Z8Veqwocivw9PPGaS2</link>
@@ -16,7 +58,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Sun, 16 Aug 2026 13:39:18 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schupra, Pop-Klavier, Klavierbegleitung, Klavier</itunes:keywords>
-      <itunes:author>Vincent Penschke</itunes:author>
+      <itunes:author>Vincent Penschke, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -26,7 +68,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <title>Öffentliches Seminar: Musik und Form (Formenlehre)</title>
       <link>https://openmusic.academy/docs/7jKhNxQRV6SEwbeEbznzek</link>
       <guid>7jKhNxQRV6SEwbeEbznzek</guid>
-      <description>Dieses öffentliche Seminar ist ein Proseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsame entwickelt und aktualisiert werden können.</description>
+      <description>Dieses öffentliche Seminar ist ein Proseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsam entwickelt und aktualisiert werden können.</description>
       <pubDate>Sun, 16 Aug 2026 11:24:01 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Analyse, Musiktheorie, Musik, und, Form, Formenlehre, Seminar, öffentliches, Modelle, der, OpenBook</itunes:keywords>
@@ -2790,7 +2832,7 @@ Neben einer mediengeschichtlichen Betrachtung, liefert die Beschäftigung mit Mu
       <pubDate>Sun, 28 Dec 2025 12:27:59 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hilfe, Redaktion, Redakteur, Maintainer, Mitmachen, Rolle</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Verena Wied, Wolfram Winkel, Wendelin Bitzan, Benedikt Wagner, Joachim Junker, Jakob Eglmeier</itunes:author>
+      <itunes:author>Ulrich Kaiser, Verena Wied, Wolfram Winkel, Wendelin Bitzan, Benedikt Wagner, Joachim Junker, Jakob Eglmeier, Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -8227,7 +8269,7 @@ von Ulrich Kaiser</description>
       <pubDate>Thu, 28 Mar 2024 16:45:48 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Bläserwand, Hintergrund, Orchester, Instrumentation, Operation, Beethoven, Hofkapelle, München, Vordergrund, Mittelgrund, räumliche, Vorstellungen</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Elisabeth Wagner, Fernando Scarabino</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12000,10 +12042,10 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Welcher Ton liegt oben? Eine Übung zum vertikalen Hören</title>
+      <title>Welcher Ton liegt oben? (advanced)</title>
       <link>https://openmusic.academy/docs/RG1ZrsFHUXF83ehFBHsQbb</link>
       <guid>RG1ZrsFHUXF83ehFBHsQbb</guid>
-      <description>In dieser Übung geht es um eine scheinbar ganz banale, aber oft entscheidende Frage: Welche Rolle spielt der Ton, der in einem Klang ganz oben liegt? Und wie heißt er? Davon ausgehend erschließt sich ein mehrstimmiger Satz manchmal viel leichter. Diese Strategie soll hier in einer Trockenübung trainiert werden. </description>
+      <description>Der oberste Ton ist oft der Einstieg in den Klang. Hier geht es nicht nur um Dreiklänge sondern zum Teil um anspruchsvolle Akkorde.</description>
       <pubDate>Sun, 02 Apr 2023 06:34:38 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Akkord, Akkorde, harmonisch, Oberstimme, oben, welcher, Ton, vertikales, Gehörbildung, Hören, Übung, Musikhochschule</itunes:keywords>
@@ -15674,7 +15716,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Tue, 23 Nov 2021 21:39:24 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Lernen, Analyse, Filmmusik, Film, Tipps, Tricks, freie, Quellen, Links, Sounds</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15744,7 +15786,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Sun, 21 Nov 2021 14:07:20 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Lernen, Filmmusik, Film, Blender, Kurzfilm, Caminandes, Musik, komponieren, Musikunterricht, Lama</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15842,7 +15884,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Thu, 18 Nov 2021 22:36:57 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Film, Filmmusik, Open, Source, Blender, Foundation, Big, Buck, Bunny, Musik, Komponieren, Musikunterricht, Unterrichtseinheit</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15898,7 +15940,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Thu, 18 Nov 2021 14:01:14 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Film, Filmmusik, Open, Source, Blender, Foundation, Sintel, Musik, komponieren, Cakewalk, Shotcut, sound, design, soundtrack, daw, digital, audio, workstation, library, mischen, Midi</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15912,7 +15954,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Thu, 18 Nov 2021 11:44:31 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Film, Filmmusik, Open, Source, Blender, Foundation, Sintel, Musik, Jan, Morgenstern, SFX, Tonspur</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18517,7 +18559,7 @@ Teil der Reihe "Formen in der Pop-/Rockmusik" für den Musikunterricht an allgem
       <pubDate>Sat, 11 Apr 2020 13:42:42 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Strophe, Refrain, Verse-Chorus-Bridge-Form, Bridge, Rock, Pop, Musikunterricht, Formenlehre, Verse, Chorus</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18574,7 +18616,7 @@ Teil der Reihe "Formen in der Pop-/Rockmusik" für den Musikunterricht an allgem
       <pubDate>Sat, 11 Apr 2020 09:37:08 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Verse, Bridge, Verse-Bridge-Form, Formenlehre, Pop, Rock, Musikunterricht</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18970,7 +19012,7 @@ Diese Unterrichtsstunde eignet sich für den Musikunterricht in der Oberstufe an
       <pubDate>Fri, 20 Mar 2020 18:32:27 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Analyse, Schubert, Franz, Winterreise, Interpretationen, Kunstlied, Nebensonnen, Wilhelm, Müller, 19., Jahrhundert, historische, Musikwissenschaft, Liebe, Tod, Lyra, Leier, Politik</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -19012,7 +19054,7 @@ Diese Unterrichtsstunde eignet sich für den Musikunterricht in der Oberstufe an
       <pubDate>Thu, 19 Mar 2020 09:30:45 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Barock, Choralsatz, Bach, Funktionstheorie, Harmonien, Musiktheorie, Mehrstimmigkeit, Stilübung, Choral, Choräle, Bachchoräle, Harmonielehre, Kontrapunkt, Regeln</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -19471,20 +19513,6 @@ Dieser Beitrag eignet sich gut für die Nutzung im Musikunterricht an Schulen, b
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Pop- und Rockmusik: Verse-Bridge-Form</title>
-      <link>https://openmusic.academy/docs/9cMFBDCuGiGxiUvr2CyEfM</link>
-      <guid>9cMFBDCuGiGxiUvr2CyEfM</guid>
-      <description>Formenlehre mit Blick auf Pop- und Rockmusik (für Studierende)</description>
-      <pubDate>Sun, 12 Jan 2020 14:36:50 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Musikhochschule, Formenlehre, Pop, Rock, Verse, Bridge, Beatles, Form, Verse-Bridge-Form, Analyse, Aufbau</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>CC BY-SA</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
-    </item>
-    <item>
       <title>Formen in der Pop-/Rockmusik: Die Verse-Chorus-Form (ABABABB...)</title>
       <link>https://openmusic.academy/docs/bfdKG8k5ZZTqp57C2NukQE</link>
       <guid>bfdKG8k5ZZTqp57C2NukQE</guid>
@@ -19493,7 +19521,7 @@ Teil der Reihe "Formen in der Pop-/Rockmusik" für den Musikunterricht an allgem
       <pubDate>Sun, 12 Jan 2020 12:17:02 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Verse-Chorus-Form, Verse, Chorus, Strophe, Refrain, Pop, Rock, Musikunterricht, Formenlehre</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Elisabeth Wagner, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
