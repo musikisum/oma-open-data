@@ -5,7 +5,77 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Musik der Romantik | Kunstlied (Noten)</title>
+      <link>https://openmusic.academy/docs/K3PyyYxqgfRWXsousCkjMh</link>
+      <guid>K3PyyYxqgfRWXsousCkjMh</guid>
+      <description>Dieses Dokument enthält Noten und Aufnahmen zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.</description>
+      <pubDate>Thu, 03 Sep 2026 08:07:46 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukhsromantik</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>II-V-I-Übung</title>
+      <link>https://openmusic.academy/docs/71Q5s4HdC8dnKRbLx4XAKR</link>
+      <guid>71Q5s4HdC8dnKRbLx4XAKR</guid>
+      <description>Die II-V-I Kadenz ist wohl der wichtigste Baustein der Jazzharmonik. Hier findet man dazu Übungen in aufsteigendem Schwierigkeitsgrad. </description>
+      <pubDate>Tue, 01 Sep 2026 12:18:58 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Jazzakkorde, II-V-I, Jazzkadenz, Jazzübung</itunes:keywords>
+      <itunes:author>Andreas Puhani</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Musik der Romantik | Kunstlied</title>
+      <link>https://openmusic.academy/docs/F2GAvmQKczjqVS5N2BKGPq</link>
+      <guid>F2GAvmQKczjqVS5N2BKGPq</guid>
+      <description>Dieses Dokument enthält Analyseaufgaben zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.</description>
+      <pubDate>Tue, 01 Sep 2026 11:20:31 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukhsromantik</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>HS Musik der Romantik | Übungsaufgaben Kunstlied: Morgengruss</title>
+      <link>https://openmusic.academy/docs/XrVYgPT8K2uRJ3XDQ5bmnk</link>
+      <guid>XrVYgPT8K2uRJ3XDQ5bmnk</guid>
+      <description>Dieses Dokument enthält eine Analyseaufgabe und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.</description>
+      <pubDate>Tue, 01 Sep 2026 10:58:28 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukhsromantik</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Öffentliches Seminar: Musik der Romantik</title>
+      <link>https://openmusic.academy/docs/eBSWceMNVvH4XnH7hoAxZf</link>
+      <guid>eBSWceMNVvH4XnH7hoAxZf</guid>
+      <description>Dieses öffentliche Seminar ist ein Hauptseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsam entwickelt und aktualisiert werden können.</description>
+      <pubDate>Mon, 31 Aug 2026 14:28:08 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Analyse, Musiktheorie, Musik, Seminar, öffentliches, der, Romantik, romantisches, Kunstlied, Schubert, Schumann, romantische, Sinfonik, Chormusik, Klaviermusik</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Blechbläser-Navigator</title>
       <link>https://openmusic.academy/docs/kDui68ybRFNbM5ChELAjyR</link>
@@ -1727,7 +1797,7 @@ Melodie: Friedrich Silcher 1842</description>
       <description>Hilfe zum Tonhöhen-Analyse-Plugin der Open Music Academy.</description>
       <pubDate>Wed, 04 Mar 2026 21:49:58 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Hilfe, zum, Tonhöhen-Analyse-Plugin, PC-Set-Calculator, pc, set, theory, tonhöhenanalyseplugin</itunes:keywords>
+      <itunes:keywords>Hilfe, zum, Tonhöhen-Analyse-Plugin, PC-Set-Calculator, pc, set, theory, tonhöhenanalyseplugin, Hilfe:</itunes:keywords>
       <itunes:author>Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -6143,7 +6213,7 @@ Die Open Music Academy veranstaltete im November 2024 ein Symposium zu Tonaufnah
       <description>Dieses öffentliche Seminar ist ein historisch-kritischer Einstieg in das Thema Methoden der musikalischen Analyse. Es kann dir helfen, wenn du nach einem passenden Werkzeug suchst, um bestimmte Aspekte von Musik im Rahmen einer Musikanalyse angemessen beschreiben zu können.</description>
       <pubDate>Thu, 30 Jan 2025 19:47:28 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Analyse, Methoden, Analysemethoden, Musiktheorie, musikalische, Stufentheorie, Funktionstheorie, Satzmodelle, grafische, Quintenturm, scalar, shift, sinfonische, Welle, forensische, Stufensymbole, Einführung, analysieren, Methodik, Lendvai, Massiaen, symmetrische, Skalen, Modi, mit, begrenzten, Transpositionsmöglichkeiten, Seminar</itunes:keywords>
+      <itunes:keywords>Analyse, Methoden, Analysemethoden, Musiktheorie, musikalische, Stufentheorie, Funktionstheorie, Satzmodelle, grafische, Quintenturm, scalar, shift, sinfonische, Welle, forensische, Stufensymbole, Einführung, analysieren, Methodik, Lendvai, Massiaen, symmetrische, Skalen, Modi, mit, begrenzten, Transpositionsmöglichkeiten, Seminar, (Analysemethoden, –, Eine, Einführung)</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Shinta Walker, Ilka Mestemacher</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -6242,7 +6312,7 @@ Die Open Music Academy veranstaltete im November 2024 ein Symposium zu Tonaufnah
       <pubDate>Thu, 16 Jan 2025 14:27:55 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Oberquintmodulation, Oberquinte, Oktavregel, Musikhochschule, Musikwissenschaft, Musiktheorie</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -8381,7 +8451,7 @@ von Ulrich Kaiser</description>
       <pubDate>Wed, 13 Mar 2024 08:08:19 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Oper, Bajazzo, Ruggiero, Leoncavallo, Zusammenfassung, Inhalt, Pagliacci, Der, Video, Einführung, Opernführer, tipp23, Tipp, 23</itunes:keywords>
-      <itunes:author>Mani Vieregg, Ilka Mestemacher, Ulrich Kaiser</itunes:author>
+      <itunes:author>Mani Vieregg, Ilka Mestemacher, Ulrich Kaiser, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -8868,7 +8938,7 @@ Diese sich daraus ergebende Unterrichtssequenz eignet sich für den Musikunterri
       <pubDate>Tue, 26 Dec 2023 16:05:57 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Renaissance, Palestrina, Motette, Schein, Vaet, Madrigal, Alte, Tonarten, Musikunterricht, Unterricht, Sequenz, Unterrichtssequenz, Lehrmaterialien, 9., Klasse, Kadenzen, manieristischer, Kontrapunkt, Schule</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Marco Müller, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Marco Müller, Elisabeth Wagner, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -9636,7 +9706,7 @@ Der Artikel kann auch im Musikunterricht an Schulen verwendet werden, besonders 
       <pubDate>Sat, 21 Oct 2023 12:18:23 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Bergische, Universität, Wuppertal</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Martha Steinhoff</itunes:author>
+      <itunes:author>Ulrich Kaiser, Martha Steinhoff, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -11937,7 +12007,7 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <pubDate>Fri, 14 Apr 2023 14:51:17 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>anavis, Raye, feat., 070, Shake, Escapism.</itunes:keywords>
-      <itunes:author>Peter Hamburger, Ilka Mestemacher</itunes:author>
+      <itunes:author>Peter Hamburger, Ilka Mestemacher, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12373,7 +12443,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Sat, 11 Feb 2023 12:48:04 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Tech, House, Techhouse</itunes:keywords>
-      <itunes:author>MariusWuensch, Mani Vieregg, Ilka Mestemacher, Ulrich Kaiser, Shinta Walker</itunes:author>
+      <itunes:author>MariusWuensch, Mani Vieregg, Ilka Mestemacher, Ulrich Kaiser, Shinta Walker, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -13143,7 +13213,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Sat, 22 Oct 2022 09:25:40 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Kontrapunkt, Zweistimmig, Stilübung, Stilkopie, zweistimmiger, Übung, ergänzen, 16., Jahrhundert, Übungen, Oberstimme</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15870,7 +15940,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Sat, 20 Nov 2021 16:25:13 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Tresillo, Baiao, Schupra, Patterns, Grooves, Akkorde, Basics, Rhythmus, Rhythmen, Klavierbegleitung, schulpraktisches, Klavierspiel, Afro, Reggaeton, Dancehall, Jazz, Cinquillo, Charleston, afro-amerikanisch, Liedbegleitung, Songs, begleiten, Playalongs, Musikunterricht, Adele, Ed, Sheeran, Malfuf</itunes:keywords>
-      <itunes:author>Philipp Weiß, Maruan Sakas, Ilka Mestemacher, Theresa U, Mani Vieregg, Ulrich Kaiser</itunes:author>
+      <itunes:author>Philipp Weiß, Maruan Sakas, Ilka Mestemacher, Theresa U, Mani Vieregg, Ulrich Kaiser, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15996,7 +16066,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Thu, 18 Nov 2021 10:15:19 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Film, Filmmusik, Open, Source, Blender, Foundation, CC-Lizenzen, Creative, Commons, Licence</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -16549,7 +16619,7 @@ Beispiel: Amazing Grace</description>
       <pubDate>Sun, 23 May 2021 12:48:44 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Lehren, Urheberrecht, Materialien, Geschichte, Musikunterricht, Unterrichtseinheit, Jean, Frankfurter, Helene, Fischer, zeitgenössische, Musik, Schlager</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -17197,7 +17267,7 @@ Das Tutorial kann auch als Lerneinheit im Musikunterricht am Gymnasium, vor alle
       <pubDate>Thu, 03 Dec 2020 00:19:02 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Lernen, Musik, Grundlagen, Instrumente, Orchester, erkennen, Klänge, Spiel, junge, Klassik, Musikunterricht, Grundschule, Kinder</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -19280,7 +19350,7 @@ Der Artikel eignet sich auch für die Nutzung im Musikunterricht an Schulen, ins
       <pubDate>Fri, 28 Feb 2020 07:09:52 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Basale, Vernetzung, D-Dur, Solmisation, Tonvorstellung, Gehörbildung, Musikhochschule, Übung</itunes:keywords>
-      <itunes:author>Andreas Puhani, Ilka Mestemacher, Theresa U, Ko.Rupprecht</itunes:author>
+      <itunes:author>Andreas Puhani, Ilka Mestemacher, Theresa U, Ko.Rupprecht, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>

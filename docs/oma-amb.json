@@ -3691,6 +3691,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Mit einem Online-Spiel kannst du üben, Orchesterinstrumente nur über das Hören zu erkennen. Ein Angebot von junge-klassik.de.",
@@ -4486,6 +4490,10 @@
       {
         "type": "Person",
         "name": "Mani Vieregg"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Einführung in den Begriff Open Source im Zusammenhang mit Film (Teil des OpenBooks \"Filmmusik\" für Schüler:innen)",
@@ -28816,6 +28824,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Üben Sie in einem Kontrapunkstil des 16. Jahrhunderts das Erstellen einer Oberstimme zu einer gegebenen Unterstimme. Schwierigkeitsgrad: für Studierende der Musikausbildungsstätten",
@@ -29166,6 +29178,10 @@
       {
         "type": "Person",
         "name": "Ko.Rupprecht"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Eine Anleitung für Studierende, wie zwei Arten von Tonvorstellung trainiert und gleichzeitig vernetzt werden können. Mit Video und Übetipps.",
@@ -34789,6 +34805,10 @@
       {
         "type": "Person",
         "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Der Tresillo ist das rhythmische Pattern, das in Pop-, Jazz- und lateinamerikanischer Musik mit am häufigsten auftritt. Das Tutorial zeigt, wie man mit dem Tresillo Lieder am Klavier begleiten kann. Mit Playalongs und Songbeispielen.",
@@ -37019,6 +37039,10 @@
       {
         "type": "Person",
         "name": "Theresa U"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Weiterführende Informationen und Materialien zur Unterrichtseinheit \"Urheberrecht - Fischer ./. Frankfurter\". (Enthält auch Teillösungen zu den Aufgaben aus der Unterrichtseinheit.)",
@@ -53387,6 +53411,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Definition, musikalische Merkmale, Musikbeispiele, Downloads und interaktive Medien zum Thema Tech House",
@@ -55809,6 +55837,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Analytische Notizen zu Form, Harmonik, Rhythmus und Stilistik",
@@ -66813,6 +66845,10 @@
       {
         "type": "Person",
         "name": "Martha Steinhoff"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Hier werden Projekte der  Bergischen Universität Wuppertal sichtbar gemacht, die du auf der OMA finden kannst.",
@@ -71292,6 +71328,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "In diesem Dokument finden sich Lehrmaterialien (keine ausgearbeiteten Unterrichtseinheiten), um Musik der Renaissance im Unterricht zu besprechen. Ziel ist es, einen Zugang zu schaffen, der über das Klassenmusizieren (Kanon, Mitsingpartituren) zu einem historisch angemessenen Verständnis dieser Musik führt. Inhalte sich Grundlagen wie Kadenzen, alte Tonarten, Motette und Madrigal sowie fortgeschrittene Themen wie der manieristische Kontrapunkt. \n\nDiese sich daraus ergebende Unterrichtssequenz eignet sich für den Musikunterricht in Jahrgangsstufe 9.  ",
@@ -73924,6 +73964,10 @@
       {
         "type": "Person",
         "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Hier findest du ein Einführungsvideo und Informationen zur Oper Pagliacci (Der Bajazzo) des italienischen Komponisten Ruggero Leoncavallo.",
@@ -84809,6 +84853,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Eine in der Literatur sehr häufig anzutreffende Modulation führt von einer Ausgangstonart in die Tonart der Oberquinte. In fast alle größeren Kompositionen in Dur (und auch einigen in Moll) lässt sich eine solche Modulation beobachten. In diesem Tutorial lernst du die historischen Wurzeln für diese Modulation kennen und viele Beispiele, welche Formen sie annehmen und wie sie klingen kann.",
@@ -85356,7 +85404,11 @@
       "mit",
       "begrenzten",
       "Transpositionsmöglichkeiten",
-      "Seminar"
+      "Seminar",
+      "(Analysemethoden",
+      "–",
+      "Eine",
+      "Einführung)"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -109221,7 +109273,8 @@
       "pc",
       "set",
       "theory",
-      "tonhöhenanalyseplugin"
+      "tonhöhenanalyseplugin",
+      "Hilfe:"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -118039,6 +118092,328 @@
     },
     "dateCreated": "2026-08-21T09:30:59.487Z",
     "datePublished": "2026-08-21T09:30:59.487Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/eBSWceMNVvH4XnH7hoAxZf",
+    "name": "Öffentliches Seminar: Musik der Romantik",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Dieses öffentliche Seminar ist ein Hauptseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsam entwickelt und aktualisiert werden können.",
+    "keywords": [
+      "Analyse",
+      "Musiktheorie",
+      "Musik",
+      "Seminar",
+      "öffentliches",
+      "der",
+      "Romantik",
+      "romantisches",
+      "Kunstlied",
+      "Schubert",
+      "Schumann",
+      "romantische",
+      "Sinfonik",
+      "Chormusik",
+      "Klaviermusik"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-08-31T14:28:08.313Z",
+    "datePublished": "2026-08-31T14:28:08.313Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/XrVYgPT8K2uRJ3XDQ5bmnk",
+    "name": "HS Musik der Romantik | Übungsaufgaben Kunstlied: Morgengruss",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Dieses Dokument enthält eine Analyseaufgabe und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
+    "keywords": [
+      "ukhsromantik"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-01T10:58:28.718Z",
+    "datePublished": "2026-09-01T10:58:28.718Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/F2GAvmQKczjqVS5N2BKGPq",
+    "name": "Musik der Romantik | Kunstlied",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Dieses Dokument enthält Analyseaufgaben zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
+    "keywords": [
+      "ukhsromantik"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-01T11:20:31.087Z",
+    "datePublished": "2026-09-01T11:20:31.087Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/71Q5s4HdC8dnKRbLx4XAKR",
+    "name": "II-V-I-Übung",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Andreas Puhani"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Andreas Puhani"
+      }
+    ],
+    "description": "Die II-V-I Kadenz ist wohl der wichtigste Baustein der Jazzharmonik. Hier findet man dazu Übungen in aufsteigendem Schwierigkeitsgrad. ",
+    "keywords": [
+      "Jazzakkorde",
+      "II-V-I",
+      "Jazzkadenz",
+      "Jazzübung"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-01T12:18:58.099Z",
+    "datePublished": "2026-09-01T12:18:58.099Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/K3PyyYxqgfRWXsousCkjMh",
+    "name": "Musik der Romantik | Kunstlied (Noten)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Dieses Dokument enthält Noten und Aufnahmen zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
+    "keywords": [
+      "ukhsromantik"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-03T08:07:46.341Z",
+    "datePublished": "2026-09-03T08:07:46.341Z",
     "inLanguage": [
       "de"
     ],
