@@ -5,7 +5,21 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:33:22 GMT</lastBuildDate>
+    <item>
+      <title>Veränderungen hören mit Mahler</title>
+      <link>https://openmusic.academy/docs/gxfRwGuMDN6PByu7qpbYDc</link>
+      <guid>gxfRwGuMDN6PByu7qpbYDc</guid>
+      <description>Welche Trompete spielt falsch? Finden Sie den Fehler!</description>
+      <pubDate>Fri, 18 Sep 2026 17:12:57 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Veränderungen, hören, Veränderungenhören, Mahler</itunes:keywords>
+      <itunes:author>Andreas Puhani</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Musik der Romantik | Materialien für den Präsenzunterricht</title>
       <link>https://openmusic.academy/docs/atB55q3bZcAG7RB1KWBgMq</link>
@@ -8486,14 +8500,14 @@ von Ulrich Kaiser</description>
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Das Kunstlied</title>
+      <title>Das deutschsprachige Kunstlied</title>
       <link>https://openmusic.academy/docs/WKGVtvmZBjWmhWQgeHba1N</link>
       <guid>WKGVtvmZBjWmhWQgeHba1N</guid>
-      <description>Ein Informationsblatt über das wichtigste zum Thema Kunstlied in der Romantik.</description>
+      <description>Informationen zum deutschsprachigen Kunstlied der Romantik.</description>
       <pubDate>Fri, 29 Mar 2024 19:33:18 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Kunstlied, Franz, Schubert, Romantik</itunes:keywords>
-      <itunes:author>Jannis Melle</itunes:author>
+      <itunes:keywords>Kunstlied, Franz, Schubert, Romantik, deutschsprachige, 19., Jahrhundert, Überblick</itunes:keywords>
+      <itunes:author>Jannis Melle, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -10534,7 +10548,7 @@ Ein Pärchen besteht jeweils aus einer diminutierten (originalen) Fassung und ih
       <pubDate>Sat, 12 Aug 2023 10:35:37 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Üben, Oktavregel, reloaded, Harmonielehre, Modulation, Wechsel, der, Tonleiter</itunes:keywords>
-      <itunes:author>Ulrich Kaiser</itunes:author>
+      <itunes:author>Ulrich Kaiser, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -11584,7 +11598,7 @@ Variation 1 – Hoquetus</description>
       <pubDate>Thu, 08 Jun 2023 11:18:22 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Hackbrett, Instrumentenkunde, Volksmusik</itunes:keywords>
-      <itunes:author>Paula Berlinghof, Ilka Mestemacher, Ulrich Kaiser</itunes:author>
+      <itunes:author>Paula Berlinghof, Ilka Mestemacher, Ulrich Kaiser, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -13381,7 +13395,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Tue, 25 Oct 2022 09:49:13 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Kollektion, Arrangieren, und, Instrumentieren, Bärenreiter, Kaiser, Gerlitz, Bearbeiten, Herstellen, Lehrgang, von, Klassik, bis, Pop, Buch, Open, Book, Arrangement, Instrumentation</itunes:keywords>
-      <itunes:author>Mani Vieregg, Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Mani Vieregg, Ulrich Kaiser, Ilka Mestemacher, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -20252,7 +20266,7 @@ Diese praktische Übung eignet sich auch zum Gebrauch im Musikunterricht an Schu
       <pubDate>Fri, 27 Sep 2019 06:37:05 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Hochschule, für, Musik, und, Theater, München, Gehörbildung, Notendiktat, Choralsatz, Bach, Johann, Sebastian, Staatsexamen, schriftliche, Prüfung, Choral, Hördiktat, Melodiediktat, Lehramt, Schulmusik, Bachchoral, Bachchoraldiktat, vierstimmig, Bachchoräle, vierstimmiges, Satz, Sätze, Übung, mehrstimmig, mehrstimmige, mehrstimmiges</itunes:keywords>
-      <itunes:author>Andreas Puhani, Ulrich Kaiser, Theresa U, Ilka Mestemacher</itunes:author>
+      <itunes:author>Andreas Puhani, Ulrich Kaiser, Theresa U, Ilka Mestemacher, Benedikt Brunner</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
