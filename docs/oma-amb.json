@@ -49345,6 +49345,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Verena Wied"
       }
     ],
     "description": "Definition, musikalische Merkmale, Musikbeispiele, Downloads und interaktive Medien",
@@ -52454,6 +52458,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Definition, musikalische Merkmale, Musikbeispiele, Downloads und interaktive Medien",
@@ -53638,6 +53646,136 @@
         "name": "Open Music Academy"
       }
     ],
+    "id": "https://openmusic.academy/docs/XcyJXQHPs7FHKh6qQMeUHd",
+    "name": "Aspekte der Form anhand von I Want To Hold Your Hand von The Beatles",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des öffentlichen Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-16T15:13:30.419Z",
+    "datePublished": "2023-03-16T15:13:30.419Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/pyMfQx5t5MMv2AuqNJ3pNY",
+    "name": "Aspekte der Form anhand von The Show Must Go On von Leo Sayer",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-16T16:09:12.436Z",
+    "datePublished": "2023-03-16T16:09:12.436Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
     "id": "https://openmusic.academy/docs/ovRqXHt4many1ecJ8aUJ6s",
     "name": "Portal: Musik machen",
     "creator": [
@@ -54244,6 +54382,136 @@
         "name": "Open Music Academy"
       }
     ],
+    "id": "https://openmusic.academy/docs/JJCXCSKafwgQSt5kkArq3b",
+    "name": "Der Chorus und die formale Funktion des Textes",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\". In dieser Sitzung wird der Fachbegriff Chorus eingeführt und die formale Funktion des Textes besprochen. Auch für die Begriffe Strophe und Refrain wird eine Definition vorgeschlagen. ",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-19T16:25:56.015Z",
+    "datePublished": "2023-03-19T16:25:56.015Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/VfYV2GoJngJKmko9He6cmK",
+    "name": "Verse-Chorus-Bridge-Formen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-22T22:22:00.035Z",
+    "datePublished": "2023-03-22T22:22:00.035Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
     "id": "https://openmusic.academy/docs/stzNbeQWgV75ucECQjReXK",
     "name": "Songanalyse: Herbert Grönemeyer – Der Weg",
     "creator": [
@@ -54275,6 +54543,266 @@
     },
     "dateCreated": "2023-03-24T15:55:33.167Z",
     "datePublished": "2023-03-24T15:55:33.167Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/1dDcvVTm71q9NZ7uggoLUX",
+    "name": "Instrumental Verse, Chorus und Bridge",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-27T16:09:19.155Z",
+    "datePublished": "2023-03-27T16:09:19.155Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/DzEBjdgDwTMX2rKaXMBAFo",
+    "name": "Probleme I – Prechorus und transitional Bridge",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-04-01T10:29:42.367Z",
+    "datePublished": "2023-04-01T10:29:42.367Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/eCky1CDj6dFXLHEtMWyAML",
+    "name": "Probleme II – Additive und freie Songformen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-04-02T15:12:09.857Z",
+    "datePublished": "2023-04-02T15:12:09.857Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/5XUvrnJGmWNtLXz6RdkvAw",
+    "name": "Perspektiven, Zusammenfassung und Ausblick",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-04-03T12:17:46.004Z",
+    "datePublished": "2023-04-03T12:17:46.004Z",
     "inLanguage": [
       "de"
     ],
@@ -54547,6 +55075,71 @@
         "name": "Open Music Academy"
       }
     ],
+    "id": "https://openmusic.academy/docs/xMgx1a2c1YwWVdAWBXBUrs",
+    "name": "Strukturmodelle der Formanalyse und der Verse-Formteil",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\". In dieser Sitzung werden die Modelle SRDC, Satz und Periode besprochen und einander gegenüber gestellt. Du lernst, wie du den Verlauf eines Formteils mithilfe dieser Modelle beschreiben und als Einheit verstehen kannst. Abschließend wird der Fachbegriff Verse definiert. ",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-18T21:11:08.324Z",
+    "datePublished": "2023-03-18T21:11:08.324Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
     "id": "https://openmusic.academy/docs/VLxYDyoF8af3gVkBhtgFN9",
     "name": "Arrangieren und Instrumentieren: Die ›neue Beule‹ – der Bossa Nova",
     "creator": [
@@ -54583,6 +55176,71 @@
     },
     "dateCreated": "2023-02-11T10:52:58.466Z",
     "datePublished": "2023-02-11T10:52:58.466Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/EwYDiQYx7sLC4rREiXV4rj",
+    "name": "Verse-Bridge-Formen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-21T19:38:54.974Z",
+    "datePublished": "2023-03-21T19:38:54.974Z",
     "inLanguage": [
       "de"
     ],
@@ -54788,6 +55446,71 @@
         "name": "Open Music Academy"
       }
     ],
+    "id": "https://openmusic.academy/docs/6gdoGaif9TDjqnQ226wCm4",
+    "name": "Zur Geschichte der Bridge",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\". In dieser Sitzung wird der Begriff der Bridge besprochen und ein historischer Zusammenhang zwischen der Bridge  in der Popularmusik des Tin-Pin-Alley-Repertoires vor und der Beatmusik nach dem Zweiten Weltkrieg aufgezeigt.",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-20T17:54:20.711Z",
+    "datePublished": "2023-03-20T17:54:20.711Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
     "id": "https://openmusic.academy/docs/GrtrQUhXAgiAospKUYGXmn",
     "name": "Kollektion: Songanalysen",
     "creator": [
@@ -54875,6 +55598,136 @@
         "name": "Open Music Academy"
       }
     ],
+    "id": "https://openmusic.academy/docs/dGCcnYShJSu2bW1YUrQ1cx",
+    "name": "Das Instrumental Solo",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-26T15:07:34.521Z",
+    "datePublished": "2023-03-26T15:07:34.521Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/zTMrbinpHRUYjdRtbTXCvL",
+    "name": "Abschnitt oder Formteil? Intro, Interlude und Outro",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-03-27T21:04:51.548Z",
+    "datePublished": "2023-03-27T21:04:51.548Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
     "id": "https://openmusic.academy/docs/RG1ZrsFHUXF83ehFBHsQbb",
     "name": "Welcher Ton liegt oben? (advanced)",
     "creator": [
@@ -54917,6 +55770,71 @@
     },
     "dateCreated": "2023-04-02T06:34:38.137Z",
     "datePublished": "2023-04-02T06:34:38.137Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/ZACXfhkra9v6VPrfunc1Dj",
+    "name": "Probleme III – Terminologie und Stil",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Ilka Mestemacher"
+      }
+    ],
+    "description": "Teil des Seminars \"Popformeln – Formen und Begriffe der Popularmusik\"",
+    "keywords": [
+      "ukpspopformeln"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2023-04-03T11:36:22.692Z",
+    "datePublished": "2023-04-03T11:36:22.692Z",
     "inLanguage": [
       "de"
     ],
@@ -80536,6 +81454,10 @@
       {
         "type": "Person",
         "name": "Marvin Balzer"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
       }
     ],
     "description": "",
@@ -84264,6 +85186,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Gaerchle"
       }
     ],
     "description": "In diesem Dokument findest du Informationen zu der Sinfoniekantate Lobgesang für Soli, Chor, Orchester Op. 52 (MWV A 18) von Felix Mendelssohn Bartholdy (Sinfonie Nr. 2) sowie einen professionellen Audiomitschnitt des Hochschulsinfonieorchesters München unter der Leitung von Marcus Bosch.   ",
@@ -85422,7 +86348,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/DEbQsbeXoXk2DiRXzC2jfK",
-    "name": "Öffentliches Seminar: Musikalischen Analyse und ihre Methoden (Analysemethoden – Eine Einführung)",
+    "name": "Öffentliches Seminar: Musikalische Analyse und ihre Methoden (Analysemethoden – Eine Einführung)",
     "creator": [
       {
         "type": "Person",
@@ -103417,72 +104343,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/9uHfP1iGGUmE8h2YG3L2tZ",
-    "name": "Landing Page \"Songwriting with AI\"",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "Malina Geiselmann"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "Malina Geiselmann"
-      },
-      {
-        "type": "Person",
-        "name": "Philip Stade"
-      }
-    ],
-    "description": "Welcome to the teaching modules of the education course \"Songwriting with AI\" developed in KuMuS and TEAM. ",
-    "keywords": [
-      "ai",
-      "ki"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2025-12-27T15:36:54.470Z",
-    "datePublished": "2025-12-27T15:36:54.470Z",
-    "inLanguage": [
-      "en"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/WK43oesdddcVb6nAbR5rpZ",
     "name": "Redaktion der OMA",
     "creator": [
@@ -116713,6 +117573,10 @@
       {
         "type": "Person",
         "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Konstantin Bodamer"
       }
     ],
     "description": "Diese Einführung in das Thema Incision, Interpunktion und Form ist Teil des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
@@ -118333,7 +119197,7 @@
     ],
     "description": "Dieses Dokument enthält eine Analyseaufgabe und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -118394,7 +119258,7 @@
     ],
     "description": "Dieses Dokument enthält Analyseaufgaben zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -118519,7 +119383,7 @@
     ],
     "description": "Dieses Dokument enthält Noten und Aufnahmen zum Thema Kunstlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119055,7 +119919,7 @@
     ],
     "description": "Dieses Dokument enthält Analyseaufgaben zum Thema Chorlied und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119116,7 +119980,7 @@
     ],
     "description": "Dieses Dokument enthält Analyseaufgaben zum Thema Sinfonik und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119177,7 +120041,7 @@
     ],
     "description": "Dieses Dokument enthält Analyseaufgaben zum Thema ›Komposition für Klavier (solo)‹ und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119302,7 +120166,7 @@
     ],
     "description": "Dieses Dokument enthält Noten und Materialien für den Präsenzunterricht und ist Teil des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119363,7 +120227,7 @@
     ],
     "description": "Dieses Dokument erläutert die Kompetenzziele des Hauptseminars ›Musik der Romantik‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.",
     "keywords": [
-      "ukhsromantik"
+      "ukhsrom"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -119436,6 +120300,1006 @@
     "datePublished": "2026-09-18T17:12:57.049Z",
     "inLanguage": [
       "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/2Esbancn6dRuT1h3Apk1Uy",
+    "name": "PS Musiktheorie und ihre Methoden | Kompetenzziele",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Kompetenzziele des Proseminars \"Musiktheorie und ihre Methoden\" an der Hochschule für Musik und Theater München. ",
+    "keywords": [
+      "ukpsmethoden"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-21T12:51:23.399Z",
+    "datePublished": "2026-09-21T12:51:23.399Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/m179oT421jCaHj1NuckYTa",
+    "name": "Öffentliches Seminar: Wissenschaftliches Arbeiten",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Das öffentliche Hauptseminar Wissenschaftliches Arbeiten ist ein Angebot von Prof. Dr. Ulrich Kaiser jeweils im Wintersemester an der Hochschule für Musik und Theater München.",
+    "keywords": [
+      "Analyse",
+      "Methoden",
+      "Analysemethoden",
+      "Musiktheorie",
+      "Seminar",
+      "Wissenschaft",
+      "wissenschaftliches",
+      "Arbeiten",
+      "Hauptseminar"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T10:06:21.488Z",
+    "datePublished": "2026-09-23T10:06:21.488Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/AaYC5DyUJF85CpKVNsgYvm",
+    "name": "Songwriting with AI - Music Didactics",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Welcome to the self-learning course for the didactics of songwriting with AI.",
+    "keywords": [
+      "Songwriting",
+      "Song",
+      "TEAM",
+      "Digitalisierung",
+      "digital",
+      "AI",
+      "KI"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T12:49:13.797Z",
+    "datePublished": "2026-09-23T12:49:13.797Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/t4x8AM4bnhULQiGvD5Gtdc",
+    "name": "AI music playground",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Explore different AI music playgrounds ",
+    "keywords": [
+      "ai",
+      "ki"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T13:26:57.724Z",
+    "datePublished": "2026-09-23T13:26:57.724Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/MeZKBjwMrHBGhGiFrh6Y7o",
+    "name": "Training Program Concept - Songwriting with AI",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Training Program Concept - Songwriting with AI",
+    "keywords": [
+      "songwriting"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T14:13:08.657Z",
+    "datePublished": "2026-09-23T14:13:08.657Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/vK9n8ZDRbhVnjGSf18epLh",
+    "name": "Learning Modules - Songwriting with AI",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Learning Modules with concrete tasks and lessons on songwriting with AI",
+    "keywords": [
+      "Songwriting",
+      "ai",
+      "ki"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T14:18:05.359Z",
+    "datePublished": "2026-09-23T14:18:05.359Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/AVjQkCWAc2htzkpYWwxNFw",
+    "name": "Wissenschaftliches Arbeiten: Einführung",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Die erste Sitzung des Seminars dient dem Kennenlernen, der Besprechung organisatorischer Fragen sowie die Vorstellung des Proseminars ›Musikalische Analyse und ihre Methoden‹ von Ulrich Kaiser. Obgleich Teil eines Seminars ist dieses Dokument nicht geschützt und für die kollegiale Zusammenarbeit freigegeben.",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T14:29:20.703Z",
+    "datePublished": "2026-09-23T14:29:20.703Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/PCZisLerLrBMYrVudpqQa6",
+    "name": "Wissenschaftliches Arbeiten: KI-Kompetenz",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Die erste Sitzung des Seminars dient der Klärung von Fragen rund um das Thema KI.",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T22:04:42.166Z",
+    "datePublished": "2026-09-23T22:04:42.166Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/DkefxeYkWXFAmSJ8bPnLWA",
+    "name": "Wissenschaftliches Arbeiten: Ideen mit KI besprechen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Sitzung werden Ideen mithilfe von KI besprochen.",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T22:48:31.780Z",
+    "datePublished": "2026-09-23T22:48:31.780Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/N1nkvzBgNtUAM4BsgYzcVj",
+    "name": "Wissenschaftliches Arbeiten: Recherche mit KI",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Die erste Sitzung des Seminars dient der Klärung von Fragen rund um das Thema Recherche.",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-23T23:23:34.442Z",
+    "datePublished": "2026-09-23T23:23:34.442Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/YrjF3DVam6r4AddtF1KNqo",
+    "name": "Wissenschaftliches Arbeiten: Konstruktivistische Systemtheorie (Luhmann)",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Sitzung geht es um die Grundbegriffe der konstruktivistischen Systemtheorie nach Niklas Luhmann. Ein Verständnis dieser Begriffe wird dir das Lesen originaler Texte von Luhmann erleichtern.   ",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-24T08:59:17.917Z",
+    "datePublished": "2026-09-24T08:59:17.917Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/UAVy2EekPHvWXFF6xUHBQD",
+    "name": "Wissenschaftliches Arbeiten: Analysieren ohne KI",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Diese Sitzung prüft die Fähigkeiten aktueller KI-Systeme zum Analysieren von Musik.",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-24T09:10:57.684Z",
+    "datePublished": "2026-09-24T09:10:57.684Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/CYteE8zff4SxdzFzfXehNS",
+    "name": "Wissenschaftliches Arbeiten: Argumentieren und Zweifeln",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In dieser Sitzung geht es um das Argumentieren und Zweifeln. Insbesondere das Zweifeln ist ein überaus wichtiger Bestandteil einer guten wissenschaftlichen Praxis und Teil einer Haltung, die nicht alltäglich ist und die man sich im Normalfall erarbeiten muss.    ",
+    "keywords": [
+      "ukhswissenschaft"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-25T21:36:57.547Z",
+    "datePublished": "2026-09-25T21:36:57.547Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/DiqXUfgh6HqP8mriKRLdQo",
+    "name": "William Rimmer: The North Wind",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Christian Traute"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Christian Traute"
+      }
+    ],
+    "description": "The North Wind by William Rimmer (1862–1936) is an original work for trombone quartet. In addition to a recording, this page provides a score (PDF & MusicXML) and parts (PDF) in various clefs.",
+    "keywords": [
+      "Noten",
+      "Soundbeispiele",
+      "Posaune",
+      "Blechbläser",
+      "Quartett",
+      "Ensemble",
+      "Bläserquartett",
+      "Bläsermusik",
+      "Blechbläserensemble",
+      "Partitur",
+      "Stimmen",
+      "Musiknoten",
+      "kostenlos",
+      "PDF",
+      "MusicXML",
+      "Klassische",
+      "Kammermusik",
+      "Brass",
+      "Music",
+      "classical",
+      "music",
+      "brass",
+      "sheet",
+      "trumpet",
+      "ensemble",
+      "score",
+      "trombone",
+      "quartet",
+      "parts",
+      "William",
+      "Rimmer",
+      "The",
+      "North",
+      "Wind",
+      "Posaunenquartett"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-27T14:54:55.676Z",
+    "datePublished": "2026-09-27T14:54:55.676Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/pSwqb6oHcsCJyNn2sXEtAR",
+    "name": "Percy E. Fletcher: In Solemn Strains",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Christian Traute"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Christian Traute"
+      }
+    ],
+    "description": "In Solemn Strains by Percy E. Fletcher (1879-1932) is an original work for trombone quartet. In addition to a recording, this page provides a score (PDF & MusicXML) and parts (PDF) in various clefs.",
+    "keywords": [
+      "Noten",
+      "Soundbeispiele",
+      "Posaune",
+      "Blechbläser",
+      "Quartett",
+      "Ensemble",
+      "Bläserquartett",
+      "Bläsermusik",
+      "Blechbläserensemble",
+      "Partitur",
+      "Stimmen",
+      "Musiknoten",
+      "kostenlos",
+      "PDF",
+      "MusicXML",
+      "Klassische",
+      "Kammermusik",
+      "Brass",
+      "Music",
+      "classical",
+      "music",
+      "brass",
+      "sheet",
+      "trumpet",
+      "ensemble",
+      "score",
+      "trombone",
+      "quartet",
+      "parts",
+      "Posaunenquartett",
+      "Percy",
+      "Fletcher",
+      "In",
+      "Solemn",
+      "Strains"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-09-27T15:40:53.747Z",
+    "datePublished": "2026-09-27T15:40:53.747Z",
+    "inLanguage": [
+      "en"
     ],
     "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
     "about": [
