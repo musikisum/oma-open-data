@@ -5,7 +5,35 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:08:52 GMT</lastBuildDate>
+    <item>
+      <title>Stilübung: romantischer Chorsatz (Aufgaben I)</title>
+      <link>https://openmusic.academy/docs/iB3UeHFgYMNVMmwr2Uik4Q</link>
+      <guid>iB3UeHFgYMNVMmwr2Uik4Q</guid>
+      <description>Lerne anhand von Vorgaben, einen Chorsatz im romantischen Stil auszuarbeiten.</description>
+      <pubDate>Tue, 29 Sep 2026 15:54:45 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Lied, Aufgaben, erste, Formteil, Stilübung, Chorsatz, Romantik, romantischer</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Seminarsitzungen: Einführung und Kompetenzziele</title>
+      <link>https://openmusic.academy/docs/RoqZiQ9G3THZGRk18WoMaR</link>
+      <guid>RoqZiQ9G3THZGRk18WoMaR</guid>
+      <description />
+      <pubDate>Mon, 28 Sep 2026 22:03:08 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukpsfl</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Percy E. Fletcher: In Solemn Strains</title>
       <link>https://openmusic.academy/docs/pSwqb6oHcsCJyNn2sXEtAR</link>
@@ -541,7 +569,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Öffentliches Seminar: Musik und Form (Formenlehre)</title>
+      <title>Öffentliches Seminar: Form und Formenlehre</title>
       <link>https://openmusic.academy/docs/7jKhNxQRV6SEwbeEbznzek</link>
       <guid>7jKhNxQRV6SEwbeEbznzek</guid>
       <description>Dieses öffentliche Seminar ist ein Proseminar der Hochschule für Musik und Theater München, dass auf Dokumenten der Open Music Academy aufbaut, die gemeinsam entwickelt und aktualisiert werden können.</description>
@@ -928,7 +956,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Tue, 04 Aug 2026 12:23:00 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Satzmodelle, Sitzung</itunes:keywords>
-      <itunes:author>Ulrich Kaiser</itunes:author>
+      <itunes:author>Ulrich Kaiser, Levin Althaus </itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -8359,7 +8387,7 @@ Diese Zusammenstellung von Aufgaben ist aus einer Unterrichsstunde für die gymn
       <pubDate>Tue, 23 Apr 2024 06:34:58 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Analyse, Mozart, Stufentheorie, Funktionstheorie, Generalbass, Regola</itunes:keywords>
-      <itunes:author>Florian Grzeschik, Ulrich Kaiser</itunes:author>
+      <itunes:author>Florian Grzeschik, Ulrich Kaiser, Levin Althaus </itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -11829,10 +11857,10 @@ Variation 1 – Hoquetus</description>
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Stilübung: Lied mit Klavierbegleitung (Aufgaben I)</title>
+      <title>Stilübung: Lied mit Klavierbegleitung</title>
       <link>https://openmusic.academy/docs/uaQmdyNJtsWipXZ4jczCKh</link>
       <guid>uaQmdyNJtsWipXZ4jczCKh</guid>
-      <description>Lerne anhand von Vorgaben berühmter Liederkomponisten wie Franz Schubert oder Robert Schumann, eine Stilübung im romantischen Stil auszuarbeiten. Die ersten Aufgaben sind dem ersten Formteil eines dreiteiligen Liedes (ABA) gewidmet.</description>
+      <description>Lerne anhand von Vorgaben berühmter Liederkomponisten wie Franz Schubert oder Robert Schumann, eine Stilübung im romantischen Stil auszuarbeiten.</description>
       <pubDate>Sun, 28 May 2023 14:00:03 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Lied, mit, Klavierbegleitung, Aufgaben, erste, Formteil, franz, schubert, Gioacchino, Rossini, Stilübung</itunes:keywords>
@@ -12567,7 +12595,7 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <pubDate>Sat, 01 Apr 2023 10:29:42 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>ukpspopformeln</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, MaxiStoll</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12581,7 +12609,7 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <pubDate>Mon, 27 Mar 2023 21:04:51 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>ukpspopformeln</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, MaxiStoll</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -13157,7 +13185,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Thu, 12 Jan 2023 13:48:52 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Neue, Deutsche, Härte, Metal, Rock, industrial</itunes:keywords>
-      <itunes:author>DSchwachhofer, Mani Vieregg, Ilka Mestemacher, Philip Stade</itunes:author>
+      <itunes:author>DSchwachhofer, Mani Vieregg, Ilka Mestemacher, Philip Stade, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15727,7 +15755,7 @@ Der Artikel eignet sich auch zur Nutzung im Musikunterricht als Einführung der 
       <pubDate>Sat, 08 Jan 2022 22:59:03 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Analyse, Franz, Schubert, Vertonung, 19., Jahrhundert, Kunstlied, Lied, Wilhelm, Müller, Winterreise, Gute, Nacht, Aufgabe, Übung</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, linda.oppermann, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, linda.oppermann, Ilka Mestemacher, Theresa U, Mani Vieregg, Arcomelo</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -16430,7 +16458,7 @@ Inklusive fertigem Arbeitsblatt zum downloaden. </description>
       <pubDate>Sun, 21 Nov 2021 23:30:04 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Schule, Lernen, Analyse, Filmmusik, Film, Musik, klassische, Musikunterricht, Unterrichtseinheit</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Mani Vieregg, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18683,20 +18711,6 @@ Auch geeignet für Musikunterricht an Schulen.</description>
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Stilübung: Romantisches Klavierlied – der erste Formteil als Periode (Dur)</title>
-      <link>https://openmusic.academy/docs/8sE56D7ndNGzfvC6Nm6TKn</link>
-      <guid>8sE56D7ndNGzfvC6Nm6TKn</guid>
-      <description>Stilübung für Musikstudierende</description>
-      <pubDate>Mon, 18 May 2020 22:29:15 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Musikhochschule, Stilübung, Romantik, romantisches, Klavierlied, Formenlehre, Formteil, Periode, Dur, Aufgabe, Ganzschluss, Schubert, Frühling</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>CC BY-SA</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
-    </item>
-    <item>
       <title>Karl Amadeus Hartmann: Sonate 27. April 1945</title>
       <link>https://openmusic.academy/docs/usPDgg24pRwndFypxNXRM8</link>
       <guid>usPDgg24pRwndFypxNXRM8</guid>
@@ -18903,7 +18917,7 @@ Auch geeignet für Musikunterricht an Schulen.</description>
       <pubDate>Mon, 11 May 2020 08:34:43 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Stilübung, Popmusik, Beatles, komponieren, Popsong, Arranging, Arrangement, Arrangieren, Songwriting, Marti, Fischer, Alle, Vögel, Drums, Gitarren, Gesang, Stop, Time, Technik, Stop-Time-Technik</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Fuchs-Stefan, Ilka Mestemacher, Theresa U, Mani Vieregg</itunes:author>
+      <itunes:author>Ulrich Kaiser, Fuchs-Stefan, Ilka Mestemacher, Theresa U, Mani Vieregg, MaxiStoll</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
