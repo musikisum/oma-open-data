@@ -5,7 +5,63 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:55:57 GMT</lastBuildDate>
+    <item>
+      <title>Form und Formenlehre | Materialien zum Selbststudium</title>
+      <link>https://openmusic.academy/docs/KiA14nJEAt7kpupjiMSqnU</link>
+      <guid>KiA14nJEAt7kpupjiMSqnU</guid>
+      <description>Dieses Dokument enthält Noten und Materialien für das Selbststudium und ist Teil des Proseminars ›Form und Formenlehre‹ von Ulrich Kaiser an der Hochschule für Musik und Theater München.</description>
+      <pubDate>Sun, 11 Oct 2026 23:25:32 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukpsform</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Kollektion: Christmas Carols für gleiche und gemischte Stimmen</title>
+      <link>https://openmusic.academy/docs/mXbPyd9m9nZgfbwyyuREpY</link>
+      <guid>mXbPyd9m9nZgfbwyyuREpY</guid>
+      <description>Ulrich Kaiser, Christmas Carols für gleiche und gemischte Stimmen, Karlsfeld 2026 (OMA-OpenBook). Eine Kollektion internationaler Weihnachtslieder unter der Creative-Commons-Lizenz CC-BY.</description>
+      <pubDate>Sat, 10 Oct 2026 20:28:56 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>wob, Weihnachtslieder, für, gleiche, und, gemischte, Stimmen, eine, Zugabe, Chorsätzen, variable, Besetzungen, vierstimmig, dreistimmig, zweistimmig, Weihnachtschorsätze, Deck, the, Hall, El, noi, de, la, mare, Gdy, się, Chrystus, rodzi, Go, tell, it, on, mountain, Hajej,, nynej,, Ježíšku, Il, est, né, le, divin, enfant, It, Came, Upon, Midnight, Clear, Jingle, Bells, Joulupuu, rakennettus, Kalanta, /, Kalin, esperan, archontes, Les, anges, dans, nos, campagnes, Little, Town, of, Bethlehem, (American, Tune), (English, Mennyből, az, angyal, Mitt, hjerte, alltid, vanker, Noch', tikha, nad, Palestinoj, Půjdem, spolu, do, Betléma, Siyahamba, Tu, scendi, dalle, stelle, We, wish, you, a, merry, Christmas, May, we, all, stay, close, this</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Jazz Gitarre - Comping in der Bigband</title>
+      <link>https://openmusic.academy/docs/tRcx55Tux5JZgXSqAXuVfR</link>
+      <guid>tRcx55Tux5JZgXSqAXuVfR</guid>
+      <description>In diesem Artikel wird gezeigt, wie komplexe Jazz-Akkorde mit einfachen und gut klingenden Voicings auf der Gitarre gespielt werden können.</description>
+      <pubDate>Sat, 10 Oct 2026 19:39:45 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Bigband, Gitarre, Comping, Jazz, Voicings</itunes:keywords>
+      <itunes:author>Michael Kussinger, Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>LEGO Rhythmen</title>
+      <link>https://openmusic.academy/docs/rjUyFGpdmziXso5mio7JjJ</link>
+      <guid>rjUyFGpdmziXso5mio7JjJ</guid>
+      <description>Ein Tool um einfache Rhythmen mit Legosteinen nachzubauen und abzuspielen.</description>
+      <pubDate>Tue, 06 Oct 2026 07:17:00 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>LEGO, Rhythmus, Rhythmen, Takt, Tonlänge, Tondauer</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Stilübung: romantischer Chorsatz (Aufgaben I)</title>
       <link>https://openmusic.academy/docs/iB3UeHFgYMNVMmwr2Uik4Q</link>
@@ -3322,7 +3378,7 @@ Neben einer mediengeschichtlichen Betrachtung, liefert die Beschäftigung mit Mu
       <pubDate>Sun, 28 Dec 2025 17:06:24 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Redaktion</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Verena Wied, Benedikt Wagner, Wendelin Bitzan</itunes:author>
+      <itunes:author>Ulrich Kaiser, Verena Wied, Benedikt Wagner, Wendelin Bitzan, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
