@@ -5,7 +5,77 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:16:37 GMT</lastBuildDate>
+    <item>
+      <title>Weihnachtslieder: Noten und Bearbeitungen</title>
+      <link>https://openmusic.academy/docs/BuGSaEheD59arSZg7cNtbe</link>
+      <guid>BuGSaEheD59arSZg7cNtbe</guid>
+      <description>In diesem Dokument werden die Notationsdateien der Kollektionen "Weihnachtslieder für gleiche und gemischte Stimmen" sowie "Christmas Carols für gleiche und gemischte Stimmen" bereitgestellt. Gleichzeitig können hier Adaptionen bzw. Bearbeitungen individuelle Besetzungen zur Verfügung gestellt werden.   </description>
+      <pubDate>Sun, 01 Nov 2026 01:09:39 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ccob, wob</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>"Materialien" für Musikpädagogik</title>
+      <link>https://openmusic.academy/docs/zEEMK2pVJfeVy32BLiKD5e</link>
+      <guid>zEEMK2pVJfeVy32BLiKD5e</guid>
+      <description>Was gibt es für Unterrichtsmaterialien für Musik?</description>
+      <pubDate>Wed, 28 Oct 2026 12:57:35 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Arbeitsmaterialien, Lehrmaterialien, Lernmaterial, Unterrichtsbücher, Musikunterricht, Musikpädagogik</itunes:keywords>
+      <itunes:author>Philip Stade</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Liedeinstudierung mit Kleinkindern</title>
+      <link>https://openmusic.academy/docs/Nrfhv31RDFKvkZFVz29mEA</link>
+      <guid>Nrfhv31RDFKvkZFVz29mEA</guid>
+      <description>Das Begleitmaterial für eine Fortbildung am 27.10.26 im Kindergarten St. Vinzenz, Markt Indersdorf.</description>
+      <pubDate>Tue, 27 Oct 2026 20:37:02 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>KiTa, Kindergarten, Lieder, Einstudierung, Stimmumfang, Kinderstimme</itunes:keywords>
+      <itunes:author>Raphael Mayrhofer</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>We Wish You a Merry Christmas</title>
+      <link>https://openmusic.academy/docs/Pi4gxa1Bh7zAfnL9BkcXnt</link>
+      <guid>Pi4gxa1Bh7zAfnL9BkcXnt</guid>
+      <description>Weihnachtslied ›We Wish You a Merry Christmas‹ für vierstimmig gemischten Chor und für drei gleiche Simmen.</description>
+      <pubDate>Mon, 26 Oct 2026 19:54:35 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>We, Wish, You, a, Merry, Christmas, Ulrich, Kaiser, Carols, für, gleiche, und, gemischte, Stimmen, Karlsfeld, 2026, oocc, wwyamc</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Tu scendi dalle stelle</title>
+      <link>https://openmusic.academy/docs/YsoyQPE7oQpYQcMsDzDhf9</link>
+      <guid>YsoyQPE7oQpYQcMsDzDhf9</guid>
+      <description>Weihnachtslied ›Tu scendi dalle stelle‹ für vier- und dreistimmigen gemischten Chor.</description>
+      <pubDate>Mon, 26 Oct 2026 15:22:01 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Ulrich, Kaiser, für, gleiche, und, gemischte, Stimmen, Weihnachten, Advent, Christmas, Carols, ccob, Tu, scendi, dalle, stelle, tsds</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Siyahamba</title>
       <link>https://openmusic.academy/docs/6FezHkpeJWDgvhhQp5KAbN</link>
@@ -391,7 +461,7 @@
       <description>Ein Tool um einfache Rhythmen mit Bausteinen nachzubauen und abzuspielen.</description>
       <pubDate>Tue, 06 Oct 2026 07:17:00 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Rhythmus, Rhythmen, Takt, Tonlänge, Tondauer, Grundschule, Unterstufe, Bausteine, klick, tool</itunes:keywords>
+      <itunes:keywords>Rhythmus, Rhythmen, Takt, Tonlänge, Tondauer, Grundschule, Unterstufe, Bausteine, klick, tool, takt-klick-tool</itunes:keywords>
       <itunes:author>Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -532,7 +602,7 @@
       <pubDate>Wed, 23 Sep 2026 22:04:42 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>ukhswissenschaft</itunes:keywords>
-      <itunes:author>Ulrich Kaiser</itunes:author>
+      <itunes:author>Ulrich Kaiser, Benedikt Hillringhaus, Sophie, Lorenz Kaineder</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15390,7 +15460,7 @@ Enthalten sind Noten für ein- sowie mehrstimmen Gesang, ein Klavierpattern als 
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Intervalle (Namen, Größe und Bestimmung)</title>
+      <title>Intervalle (Namen, Größe und Bestimmung) von wolfgang amadeus mozart</title>
       <link>https://openmusic.academy/docs/pcgL954xmcp3nH3iMXmQ6D</link>
       <guid>pcgL954xmcp3nH3iMXmQ6D</guid>
       <description>Ein Lernvideo zum Thema Intervalle mit Materialien zur Erklärung, Absicherung und zum Üben der Lerninhalte.
@@ -15398,8 +15468,8 @@ Enthalten sind Noten für ein- sowie mehrstimmen Gesang, ein Klavierpattern als 
 Besonders geeignet für Musikunterricht in Jahrgangsstufe 5 und 6 am Gymnasium. </description>
       <pubDate>Mon, 04 Apr 2022 12:46:45 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Schule, Musikschule, Intervalle, Prime, Sekunde, Terz, Quarte, Quinte, Sexte, Septime, Oktave, Intervall-Käfer, Namen, große, kleine, reine, verminderte, Komplementärintervalle, Bestimmung, Akkorde, Intervallkäfer, Video, Grundlagen, bestimmen, Größe, khp-1, Erklärvideo, übermäßige, Benennen, Abstand, zwischen, zwei, Tönen, 5., Klasse, 6., Gymnasium, Musikunterricht, (Namen,, und, Bestimmung)</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Lukas-Eichenauer, Ilka Mestemacher, Mani Vieregg, Elisabeth Wagner, Benedikt Wagner</itunes:author>
+      <itunes:keywords>Schule, Musikschule, Intervalle, Prime, Sekunde, Terz, Quarte, Quinte, Sexte, Septime, Oktave, Intervall-Käfer, Namen, große, kleine, reine, verminderte, Komplementärintervalle, Akkorde, Intervallkäfer, Video, Grundlagen, bestimmen, Größe, khp-1, Erklärvideo, übermäßige, Benennen, zwischen, zwei, Tönen, 5., Klasse, Gymnasium, Musikunterricht, (Namen,, und, Bestimmung)</itunes:keywords>
+      <itunes:author>Ulrich Kaiser, Lukas-Eichenauer, Ilka Mestemacher, Mani Vieregg, Elisabeth Wagner, Benedikt Wagner, Jomo cool</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18743,7 +18813,7 @@ Besonders geeignet für den Einsatz im Musikunterricht zur Erklärung von Tonlei
       <pubDate>Tue, 28 Jul 2020 13:02:48 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Songwriting, Bass, Pop, Rock, Arranging, Stilübung, Popsong, schreiben, Rhythmus, Arrangement</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -21632,7 +21702,7 @@ Inhalt sind unter anderem ein Podcast sowie ein vorgefertigtes Arbeitsblatt zum 
       <pubDate>Wed, 29 May 2019 12:42:30 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikschule, Percussion, Band, Schule, Instrumentenkunde, Drums, Drumset, Notation, Einführung, Anfänger, Schlagzeug</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Theresa U, Ilka Mestemacher, Peter Vogt, Shinta Walker</itunes:author>
+      <itunes:author>Ulrich Kaiser, Theresa U, Ilka Mestemacher, Peter Vogt, Shinta Walker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>

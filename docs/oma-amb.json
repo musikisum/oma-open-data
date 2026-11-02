@@ -14957,6 +14957,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Einführung in die Bestandteile eines Drumsets und in die Notation von Schlagzeugparts",
@@ -18455,6 +18459,10 @@
       {
         "type": "Person",
         "name": "Fuchs-Stefan"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Eine Anleitung zum Songwriting für Musikstudierende, Bands und alle, die mit dem Schreiben weiter kommen wollen.",
@@ -38426,7 +38434,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/pcgL954xmcp3nH3iMXmQ6D",
-    "name": "Intervalle (Namen, Größe und Bestimmung)",
+    "name": "Intervalle (Namen, Größe und Bestimmung) von wolfgang amadeus mozart",
     "creator": [
       {
         "type": "Person",
@@ -38457,6 +38465,10 @@
       {
         "type": "Person",
         "name": "Benedikt Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Jomo cool"
       }
     ],
     "description": "Ein Lernvideo zum Thema Intervalle mit Materialien zur Erklärung, Absicherung und zum Üben der Lerninhalte.\n\nBesonders geeignet für Musikunterricht in Jahrgangsstufe 5 und 6 am Gymnasium. ",
@@ -38479,7 +38491,6 @@
       "reine",
       "verminderte",
       "Komplementärintervalle",
-      "Bestimmung",
       "Akkorde",
       "Intervallkäfer",
       "Video",
@@ -38490,13 +38501,11 @@
       "Erklärvideo",
       "übermäßige",
       "Benennen",
-      "Abstand",
       "zwischen",
       "zwei",
       "Tönen",
       "5.",
       "Klasse",
-      "6.",
       "Gymnasium",
       "Musikunterricht",
       "(Namen,",
@@ -120763,6 +120772,18 @@
       {
         "type": "Person",
         "name": "Ulrich Kaiser"
+      },
+      {
+        "type": "Person",
+        "name": "Benedikt Hillringhaus"
+      },
+      {
+        "type": "Person",
+        "name": "Sophie"
+      },
+      {
+        "type": "Person",
+        "name": "Lorenz Kaineder"
       }
     ],
     "description": "Die erste Sitzung des Seminars dient der Klärung von Fragen rund um das Thema KI.",
@@ -121461,7 +121482,8 @@
       "Unterstufe",
       "Bausteine",
       "klick",
-      "tool"
+      "tool",
+      "takt-klick-tool"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -123593,6 +123615,355 @@
     "datePublished": "2026-10-26T01:08:11.584Z",
     "inLanguage": [
       "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/YsoyQPE7oQpYQcMsDzDhf9",
+    "name": "Tu scendi dalle stelle",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Weihnachtslied ›Tu scendi dalle stelle‹ für vier- und dreistimmigen gemischten Chor.",
+    "keywords": [
+      "Ulrich",
+      "Kaiser",
+      "für",
+      "gleiche",
+      "und",
+      "gemischte",
+      "Stimmen",
+      "Weihnachten",
+      "Advent",
+      "Christmas",
+      "Carols",
+      "ccob",
+      "Tu",
+      "scendi",
+      "dalle",
+      "stelle",
+      "tsds"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-10-26T15:22:01.829Z",
+    "datePublished": "2026-10-26T15:22:01.829Z",
+    "inLanguage": [
+      "it"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Pi4gxa1Bh7zAfnL9BkcXnt",
+    "name": "We Wish You a Merry Christmas",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Weihnachtslied ›We Wish You a Merry Christmas‹ für vierstimmig gemischten Chor und für drei gleiche Simmen.",
+    "keywords": [
+      "We",
+      "Wish",
+      "You",
+      "a",
+      "Merry",
+      "Christmas",
+      "Ulrich",
+      "Kaiser",
+      "Carols",
+      "für",
+      "gleiche",
+      "und",
+      "gemischte",
+      "Stimmen",
+      "Karlsfeld",
+      "2026",
+      "oocc",
+      "wwyamc"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-10-26T19:54:35.388Z",
+    "datePublished": "2026-10-26T19:54:35.388Z",
+    "inLanguage": [
+      "en"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/Nrfhv31RDFKvkZFVz29mEA",
+    "name": "Liedeinstudierung mit Kleinkindern",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Raphael Mayrhofer"
+      }
+    ],
+    "description": "Das Begleitmaterial für eine Fortbildung am 27.10.26 im Kindergarten St. Vinzenz, Markt Indersdorf.",
+    "keywords": [
+      "KiTa",
+      "Kindergarten",
+      "Lieder",
+      "Einstudierung",
+      "Stimmumfang",
+      "Kinderstimme"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-10-27T20:37:02.030Z",
+    "datePublished": "2026-10-27T20:37:02.030Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/zEEMK2pVJfeVy32BLiKD5e",
+    "name": "\"Materialien\" für Musikpädagogik",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "description": "Was gibt es für Unterrichtsmaterialien für Musik?",
+    "keywords": [
+      "Arbeitsmaterialien",
+      "Lehrmaterialien",
+      "Lernmaterial",
+      "Unterrichtsbücher",
+      "Musikunterricht",
+      "Musikpädagogik"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-10-28T12:57:35.145Z",
+    "datePublished": "2026-10-28T12:57:35.145Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/BuGSaEheD59arSZg7cNtbe",
+    "name": "Weihnachtslieder: Noten und Bearbeitungen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Dokument werden die Notationsdateien der Kollektionen \"Weihnachtslieder für gleiche und gemischte Stimmen\" sowie \"Christmas Carols für gleiche und gemischte Stimmen\" bereitgestellt. Gleichzeitig können hier Adaptionen bzw. Bearbeitungen individuelle Besetzungen zur Verfügung gestellt werden.   ",
+    "keywords": [
+      "ccob",
+      "wob"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-01T01:09:39.345Z",
+    "datePublished": "2026-11-01T01:09:39.345Z",
+    "inLanguage": [
+      "de"
     ],
     "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
     "about": [
