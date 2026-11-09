@@ -5,7 +5,35 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:42:37 GMT</lastBuildDate>
+    <item>
+      <title>Improvisieren lernen - Tonmaterial</title>
+      <link>https://openmusic.academy/docs/ytZitw1VadDK9QuuYDorq8</link>
+      <guid>ytZitw1VadDK9QuuYDorq8</guid>
+      <description>Möglichkeiten und Ideen für Tonsprachen, die man beim Improvisieren üben ausprobieren kann</description>
+      <pubDate>Sat, 07 Nov 2026 10:46:06 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Impro, Improvisation, Improvisieren, Klavier, Schupra, Harmonie, Harmonik, Harmonielehre, Harmonisation, Tonsprache, Tonalität, Tonraum, Üben, Übung, Übungen, Tonmaterial</itunes:keywords>
+      <itunes:author>David Klüglich</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Werke zur Analyse für den Präsenzunterricht</title>
+      <link>https://openmusic.academy/docs/1oDTBT6bNS5k6buQMVP7Am</link>
+      <guid>1oDTBT6bNS5k6buQMVP7Am</guid>
+      <description>Werke zur Analyse zum Thema Renaissance und Barock für das Proseminar Form und Formenlehre von Prof. Dr. Ulrich Kaiser. </description>
+      <pubDate>Wed, 04 Nov 2026 22:13:00 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>ukpsform</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Weihnachtslieder: Noten und Bearbeitungen</title>
       <link>https://openmusic.academy/docs/BuGSaEheD59arSZg7cNtbe</link>
@@ -1936,7 +1964,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Mon, 25 May 2026 21:04:48 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>DJing, DJ</itunes:keywords>
-      <itunes:author>Josef Schaubruch</itunes:author>
+      <itunes:author>Josef Schaubruch, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -2419,7 +2447,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Klaviertexturen zum Improvisieren</title>
+      <title>Improvisieren lernen - Klaviertexturen</title>
       <link>https://openmusic.academy/docs/fPXoALtZ5maobXJY2S4WmD</link>
       <guid>fPXoALtZ5maobXJY2S4WmD</guid>
       <description>Möglichkeiten und Ideen für Klaviertexturen, die man beim Improvisieren üben ausprobieren kann</description>
@@ -3797,7 +3825,7 @@ Neben einer mediengeschichtlichen Betrachtung, liefert die Beschäftigung mit Mu
       <description>Eine kurze Anleitung zur Redaktion von OMA-Dokumenten</description>
       <pubDate>Sun, 28 Dec 2025 12:27:59 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Hilfe, Redaktion, Redakteur, Maintainer, Mitmachen, Rolle</itunes:keywords>
+      <itunes:keywords>Hilfe, Redaktion, Redakteur, Maintainer, Mitmachen, Rolle, Admin, Administrator, Redakteurin</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Verena Wied, Wolfram Winkel, Wendelin Bitzan, Benedikt Wagner, Joachim Junker, Jakob Eglmeier, Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -9242,7 +9270,7 @@ von Ulrich Kaiser</description>
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Improvisation über Reihen</title>
+      <title>Improvisieren über Tonreihen</title>
       <link>https://openmusic.academy/docs/Z8UdaL4DCj5JJLrF6WPYNB</link>
       <guid>Z8UdaL4DCj5JJLrF6WPYNB</guid>
       <description>Beispiele für Reihenimprovisationen und Reihensammlung zum Üben</description>
@@ -12959,7 +12987,7 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <pubDate>Mon, 10 Apr 2023 16:01:47 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Pop, Rock, Arranging, Anleitung, Kollektion, Arrangieren, Arrangement, Musikhochschule, Popmusik, Popsongs, Rockmusik, Rocksongs, Band</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Peter Vogt, Ilka Mestemacher, Shinta Walker</itunes:author>
+      <itunes:author>Ulrich Kaiser, Peter Vogt, Ilka Mestemacher, Shinta Walker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18771,7 +18799,7 @@ Besonders geeignet für den Einsatz im Musikunterricht zur Erklärung von Tonlei
       <pubDate>Sun, 02 Aug 2020 22:13:08 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Songwriting, Gitarre, Riffs, Rock, Pop, Arranging, Stilübung, single, note, Quarten, powerchords, Band, Song, schreiben, Arrangement</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U, Fuchs-Stefan, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>

@@ -15539,6 +15539,10 @@
       {
         "type": "Person",
         "name": "Fuchs-Stefan"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Eine Anleitung zum Songwriting für Musikstudierende, Bands und alle, die mit dem Schreiben weiter kommen wollen.",
@@ -55853,6 +55857,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Anleitungen zum Arrangement von Pop- und Rocksongs mit Instrumenten wie Gitarre, Bass, Drums, Keyboard für Songteile wie Verse, Refrain und Bridge",
@@ -75314,7 +75322,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/Z8UdaL4DCj5JJLrF6WPYNB",
-    "name": "Improvisation über Reihen",
+    "name": "Improvisieren über Tonreihen",
     "creator": [
       {
         "type": "Person",
@@ -104356,7 +104364,10 @@
       "Redakteur",
       "Maintainer",
       "Mitmachen",
-      "Rolle"
+      "Rolle",
+      "Admin",
+      "Administrator",
+      "Redakteurin"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -111636,7 +111647,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/fPXoALtZ5maobXJY2S4WmD",
-    "name": "Klaviertexturen zum Improvisieren",
+    "name": "Improvisieren lernen - Klaviertexturen",
     "creator": [
       {
         "type": "Person",
@@ -114274,6 +114285,10 @@
       {
         "type": "Person",
         "name": "Josef Schaubruch"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "In diesem Unterrichtsmodul setzen sich Schüler*innen mit DJing im Musikunterricht auseinander.  Neben einer kurzen Einführung in zentrale Begriffe – DJs, DJing und DJ-Sets – geht es vor allem darum,  über ein schulpraktisch realisierbares Setup, bestehend aus Tablet und einer App, eine eigene DJ-Performance zu entwickeln. ",
@@ -123962,6 +123977,143 @@
     },
     "dateCreated": "2026-11-01T01:09:39.345Z",
     "datePublished": "2026-11-01T01:09:39.345Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/1oDTBT6bNS5k6buQMVP7Am",
+    "name": "Werke zur Analyse für den Präsenzunterricht",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Werke zur Analyse zum Thema Renaissance und Barock für das Proseminar Form und Formenlehre von Prof. Dr. Ulrich Kaiser. ",
+    "keywords": [
+      "ukpsform"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-04T22:13:00.685Z",
+    "datePublished": "2026-11-04T22:13:00.685Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/ytZitw1VadDK9QuuYDorq8",
+    "name": "Improvisieren lernen - Tonmaterial",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "David Klüglich"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "David Klüglich"
+      }
+    ],
+    "description": "Möglichkeiten und Ideen für Tonsprachen, die man beim Improvisieren üben ausprobieren kann",
+    "keywords": [
+      "Impro",
+      "Improvisation",
+      "Improvisieren",
+      "Klavier",
+      "Schupra",
+      "Harmonie",
+      "Harmonik",
+      "Harmonielehre",
+      "Harmonisation",
+      "Tonsprache",
+      "Tonalität",
+      "Tonraum",
+      "Üben",
+      "Übung",
+      "Übungen",
+      "Tonmaterial"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-07T10:46:06.617Z",
+    "datePublished": "2026-11-07T10:46:06.617Z",
     "inLanguage": [
       "de"
     ],
