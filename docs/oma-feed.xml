@@ -5,7 +5,35 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:27:14 GMT</lastBuildDate>
+    <item>
+      <title>Jazzharmonik - Einführung am Klavier</title>
+      <link>https://openmusic.academy/docs/DDMxjVbYAgtfkwGdp6scHf</link>
+      <guid>DDMxjVbYAgtfkwGdp6scHf</guid>
+      <description>Eine kurze Einführung in die Jazzharmonik und ihre Umsetzung am Klavier</description>
+      <pubDate>Tue, 10 Nov 2026 14:34:00 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Jazz, Jazzakkorde, Klavier, Harmonie, Harmonik, Jazzharmonie, Jazzharmonielehre, Schupraunterricht, Schupra, Kadenz, Jazzkadenz, Üben, Jazzakkordübungen, Übungen</itunes:keywords>
+      <itunes:author>David Klüglich</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Weihnachtslieder Werkstatt</title>
+      <link>https://openmusic.academy/docs/yUqZJwoTpSaoLHirmud3mb</link>
+      <guid>yUqZJwoTpSaoLHirmud3mb</guid>
+      <description>In diesem Dokument findest du Videos zum Verstehen der Struktur einer Weihnachtslieder-Arrangements sowie Tipps und Tricks zum Übern der Sätze in einem Ensemble.</description>
+      <pubDate>Mon, 09 Nov 2026 15:41:20 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Weihnachtslieder, Videos, zum, Verständnis, und, Üben, Christmas, Carols, Werkstatt, ww26</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Improvisieren lernen - Tonmaterial</title>
       <link>https://openmusic.academy/docs/ytZitw1VadDK9QuuYDorq8</link>
@@ -461,7 +489,7 @@
       <description>Ulrich Kaiser, Christmas Carols für gleiche und gemischte Stimmen, Karlsfeld 2026 (OMA-OpenBook). Eine Kollektion internationaler Weihnachtslieder unter der Creative-Commons-Lizenz CC-BY.</description>
       <pubDate>Sat, 10 Oct 2026 20:28:56 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>für, gleiche, und, gemischte, Stimmen, eine, Zugabe, Chorsätzen, variable, Besetzungen, vierstimmig, dreistimmig, zweistimmig, Weihnachtschorsätze, Deck, the, Hall, El, noi, de, la, mare, Gdy, się, Chrystus, rodzi, Go, tell, it, on, mountain, Hajej,, nynej,, Ježíšku, Il, est, né, le, divin, enfant, It, Came, Upon, Midnight, Clear, Jingle, Bells, Joulupuu, rakennettus, Kalanta, /, Kalin, esperan, archontes, Les, anges, dans, nos, campagnes, Little, Town, of, Bethlehem, (American, Tune), (English, Mennyből, az, angyal, Mitt, hjerte, alltid, vanker, Noch', tikha, nad, Palestinoj, Půjdem, spolu, do, Betléma, Siyahamba, Tu, scendi, dalle, stelle, We, wish, you, a, merry, Christmas, May, we, all, stay, close, this, ccob, Carols, Kollektion</itunes:keywords>
+      <itunes:keywords>für, gleiche, und, gemischte, Stimmen, eine, Zugabe, Chorsätzen, variable, Besetzungen, vierstimmig, dreistimmig, zweistimmig, Weihnachtschorsätze, Deck, the, Hall, El, noi, de, la, mare, Gdy, się, Chrystus, rodzi, Go, tell, it, on, mountain, Hajej,, nynej,, Ježíšku, Il, est, né, le, divin, enfant, It, Came, Upon, Midnight, Clear, Jingle, Bells, Joulupuu, rakennettus, Kalanta, /, Kalin, esperan, archontes, Les, anges, dans, nos, campagnes, Little, Town, of, Bethlehem, (American, Tune), (English, Mennyből, az, angyal, Mitt, hjerte, alltid, vanker, Noch', tikha, nad, Palestinoj, Půjdem, spolu, do, Betléma, Siyahamba, Tu, scendi, dalle, stelle, We, wish, you, a, merry, Christmas, May, we, all, stay, close, this, ccob, Carols, Kollektion, Weihnachtslieder</itunes:keywords>
       <itunes:author>Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -489,7 +517,7 @@
       <description>Ein Tool um einfache Rhythmen mit Bausteinen nachzubauen und abzuspielen.</description>
       <pubDate>Tue, 06 Oct 2026 07:17:00 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Rhythmus, Rhythmen, Takt, Tonlänge, Tondauer, Grundschule, Unterstufe, Bausteine, klick, tool, takt-klick-tool</itunes:keywords>
+      <itunes:keywords>Rhythmus, Rhythmen, Takt, Tonlänge, Tondauer, Grundschule, Unterstufe, Bausteine, klick, tool, takt-klick-tool, Pizza, Grundwissen</itunes:keywords>
       <itunes:author>Raphael Mayrhofer</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -1208,7 +1236,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Thu, 13 Aug 2026 12:30:26 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Wolfgang, Amadeus, W., A., Mozart, 12, Duos, KV, 487, (496a), Kegelduette, arrangiert, für, Saxophon</itunes:keywords>
-      <itunes:author>Noah Josiger</itunes:author>
+      <itunes:author>Noah Josiger, Ulrich Kaiser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -13367,7 +13395,7 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <pubDate>Fri, 24 Feb 2023 09:48:49 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Icons, Grafiken, Graphiken, Illustrationen, Musikzeichen, Symbole, symbols, illustrations</itunes:keywords>
-      <itunes:author>Ilka Mestemacher, Mani Vieregg, Shinta Walker, Ulrich Kaiser</itunes:author>
+      <itunes:author>Ilka Mestemacher, Mani Vieregg, Shinta Walker, Ulrich Kaiser, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -15488,7 +15516,7 @@ Enthalten sind Noten für ein- sowie mehrstimmen Gesang, ein Klavierpattern als 
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Intervalle (Namen, Größe und Bestimmung) von wolfgang amadeus mozart</title>
+      <title>Intervalle (Namen, Größe und Bestimmung)</title>
       <link>https://openmusic.academy/docs/pcgL954xmcp3nH3iMXmQ6D</link>
       <guid>pcgL954xmcp3nH3iMXmQ6D</guid>
       <description>Ein Lernvideo zum Thema Intervalle mit Materialien zur Erklärung, Absicherung und zum Üben der Lerninhalte.
@@ -15496,7 +15524,7 @@ Enthalten sind Noten für ein- sowie mehrstimmen Gesang, ein Klavierpattern als 
 Besonders geeignet für Musikunterricht in Jahrgangsstufe 5 und 6 am Gymnasium. </description>
       <pubDate>Mon, 04 Apr 2022 12:46:45 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Schule, Musikschule, Intervalle, Prime, Sekunde, Terz, Quarte, Quinte, Sexte, Septime, Oktave, Intervall-Käfer, Namen, große, kleine, reine, verminderte, Komplementärintervalle, Akkorde, Intervallkäfer, Video, Grundlagen, bestimmen, Größe, khp-1, Erklärvideo, übermäßige, Benennen, zwischen, zwei, Tönen, 5., Klasse, Gymnasium, Musikunterricht, (Namen,, und, Bestimmung)</itunes:keywords>
+      <itunes:keywords>Schule, Musikschule, Intervalle, Prime, Sekunde, Terz, Quarte, Quinte, Sexte, Septime, Oktave, Intervall-Käfer, Namen, große, kleine, reine, verminderte, Komplementärintervalle, Bestimmung, Akkorde, Intervallkäfer, Video, Grundlagen, bestimmen, Größe, khp-1, Erklärvideo, übermäßige, Benennen, Abstand, zwischen, zwei, Tönen, 5., Klasse, 6., Gymnasium, Musikunterricht, (Namen,, und, Bestimmung)</itunes:keywords>
       <itunes:author>Ulrich Kaiser, Lukas-Eichenauer, Ilka Mestemacher, Mani Vieregg, Elisabeth Wagner, Benedikt Wagner, Jomo cool</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
@@ -15779,7 +15807,7 @@ Besonders geeignet zur Nutzung im Musikunterricht am Gymnasium für Jahrgangsstu
       <pubDate>Sat, 05 Mar 2022 08:00:07 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Nutzen, willkommen, was, ist, OMA, suchen, verwenden, Nutzung, öffentlicher, Bereich, Hilfe, über, Dokumente, Suche, Schlagworte, Verschlagwortung, bei, der, auf, Portale, Aufbau, Einführung, Plattform</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Mani Vieregg, Ilka Mestemacher, Theresa U, Shinta Walker, Wendelin Bitzan, Romy.boo</itunes:author>
+      <itunes:author>Ulrich Kaiser, Mani Vieregg, Ilka Mestemacher, Theresa U, Shinta Walker, Wendelin Bitzan, Romy.boo, MarieF</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -17951,7 +17979,7 @@ Dieses praktische Musizieren lässt sich vor allem als Unterrichtseinheit in der
       <pubDate>Thu, 11 Mar 2021 00:42:04 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Aria, Fiorenza, Satzmodell, Generalbass, Modell, Ballo, Gran, Duca, 17., Jahrhundert, Italien, basso, ostinato, Musiktheorie, Musikhochschule</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Theresa U, Ilka Mestemacher</itunes:author>
+      <itunes:author>Ulrich Kaiser, Theresa U, Ilka Mestemacher, Verena Wied</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18988,7 +19016,7 @@ Besonders geeignet für den Einsatz im Musikunterricht zur Erklärung von Tonlei
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Komponieren mit SongMaker - Level 3: über 4-Chord Harmoniken (Aufgaben)</title>
+      <title>Komponieren mit SongMaker - Level 2: über 4-Chord Harmoniken (Aufgaben)</title>
       <link>https://openmusic.academy/docs/9GqxFMLuPNzpjLb46jBuxH</link>
       <guid>9GqxFMLuPNzpjLb46jBuxH</guid>
       <description>Einfache Kompositionsaufgaben zum Umsetzen im Song Maker. Die Aufgaben liefern Vorgaben zu Akkordfolgen, Melodieerzeugung und komplexerer Verwendung von Durchgangstönen. 
