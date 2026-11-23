@@ -24939,7 +24939,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/isDyG7iPLGQKRHed962726",
-    "name": "Portal: Stil-Navigator",
+    "name": "Portal: Genres und Stil-Navigator Populäre Musik",
     "creator": [
       {
         "type": "Person",
@@ -24962,9 +24962,13 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
-    "description": "In diesem Portal findest Du eine Beschreibung musikalischer Stile vom 17./18. Jahrundert bis in die Gegenwart. Viele dieser Stile kannst Du mithilfe des Mehrspur-Medien-Plugins hörend kennenlernen und erforschen.   ",
+    "description": "In diesem Portal findest Du eine Beschreibung verschiedener Genres und musikalischer Stile populärer Musik. Viele dieser Stile kannst Du mithilfe des Mehrspur-Medien-Plugins hörend kennenlernen und erforschen.   ",
     "keywords": [
       "Portal",
       "Stil-Navigator",
@@ -43456,88 +43460,6 @@
         "name": "Open Music Academy"
       }
     ],
-    "id": "https://openmusic.academy/docs/qXkhMVdEjoGMh9VoN7uL2p",
-    "name": "Kadenzdispositionen in den Suitensätzen von J. S. Bach",
-    "creator": [
-      {
-        "type": "Person",
-        "name": "Ulrich Kaiser"
-      }
-    ],
-    "contributor": [
-      {
-        "type": "Person",
-        "name": "Ulrich Kaiser"
-      },
-      {
-        "type": "Person",
-        "name": "Ilka Mestemacher"
-      },
-      {
-        "type": "Person",
-        "name": "Theresa U"
-      }
-    ],
-    "description": "Anhand dieser Aufgaben können Sie das Erkennen von Kadenzen in den Suitensätzen der Französischen und Englischen Suiten von J. S. Bach üben.",
-    "keywords": [
-      "Musikhochschule",
-      "Analyse",
-      "Kadenzdispositionen",
-      "Suitensätzen",
-      "englische",
-      "französische",
-      "Suiten",
-      "Johann",
-      "Sebastian",
-      "Bach",
-      "Kadenzen",
-      "Übungen",
-      "Aufgaben",
-      "Musiktheorie"
-    ],
-    "license": {
-      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
-    },
-    "dateCreated": "2020-12-16T12:51:50.722Z",
-    "datePublished": "2020-12-16T12:51:50.722Z",
-    "inLanguage": [
-      "de"
-    ],
-    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
-    "about": [
-      {
-        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
-      }
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/kim/amb/context.jsonld",
-      {
-        "@language": "de"
-      }
-    ],
-    "type": [
-      "LearningResource",
-      "WebContent",
-      "Article"
-    ],
-    "isAccessibleForFree": true,
-    "learningResourceType": [
-      {
-        "id": "https://w3id.org/kim/hcrt/web_page",
-        "prefLabel": {
-          "de": "Webseite",
-          "en": "Web page"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "type": "Organization",
-        "name": "Open Music Academy"
-      }
-    ],
     "id": "https://openmusic.academy/docs/vQs7hYpFwe5gb965Rjn8rA",
     "name": "Freitonales Diktat: Béla Bartók, Mikrokosmos Nr. 92",
     "creator": [
@@ -61731,7 +61653,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/YxD7ugurmqVzPs3ZNhsGpK",
-    "name": "Einsinghilfe für Chorleiter*innen",
+    "name": "Einsingübungen für Chorleiter*innen",
     "creator": [
       {
         "type": "Person",
@@ -61750,6 +61672,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Das vorliegende Skript soll Chorleitenden als Anregung für den Einstieg in die Chorprobe dienen, sowohl zum Aufwärmen der Stimme als auch für die stimmliche Vorbereitung auf ausgewählte Literatur der Chorprobe.",
@@ -61764,7 +61690,9 @@
       "Übungen",
       "für",
       "Chorleiter*innen",
-      "Chorleiter:innen"
+      "Chorleiter:innen",
+      "warmup",
+      "warm-up"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -62562,7 +62490,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/jtkRmMkr3vPY7LY3djapkb",
-    "name": "Improvisieren lernen Schritt für Schritt",
+    "name": "Improvisieren lernen - Schritt für Schritt",
     "creator": [
       {
         "type": "Person",
@@ -62581,6 +62509,10 @@
       {
         "type": "Person",
         "name": "Ilka Mestemacher"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Tutorial zum Herantasten an das (tonal gebundene) Improvisieren zu einer vorgegebenen Harmoniefolge (1645). Für Kinder und Erwachsene geeignet.",
@@ -72142,6 +72074,10 @@
       {
         "type": "Person",
         "name": "Renate von Jonquieres"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Das OMA-Portal zum Musikunterricht an allgemeinbildenden Schulen mit Unterrichtseinheiten, Lehr- und Lernmaterialien zur Online-Nutzung und zum Ausdrucken, didaktischen Methoden usw.",
@@ -77518,6 +77454,10 @@
       {
         "type": "Person",
         "name": "Levin Althaus "
+      },
+      {
+        "type": "Person",
+        "name": "Tobias Hauser"
       }
     ],
     "description": "Dieses Tutorial richtet sich an alle, die harmonisches Wissen über verschiedene Theorien auffrischen und/oder erlangen möchten.",
@@ -87445,6 +87385,10 @@
       {
         "type": "Person",
         "name": "Shinta Walker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Du möchtest aktiv mit der OMA arbeiten? Öffentliche Inhalte erstellen oder bearbeiten, Teil der Community sein, oder private Räume für deinen Unterricht anlegen? Wie das alles geht, erfährst du hier.",
@@ -91369,6 +91313,10 @@
       {
         "type": "Person",
         "name": "Elisabeth Wagner"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Materialien zur Arbeit mit Boomwhackers im Musikunterricht: Vorlagen, die du schnell kopieren und für eigene Spielideen anpassen kannst; Sound-Dateien zu den einzelnen Tönen unter CC0-Lizenz zum Herunterladen und Zusammenschneiden für eigene Audiobeispiele; Beispiel-Arrangements und einfache Begleitpatterns vom Kinderlied bis zum Popsong; didaktische Tipps und Hilfen für den Einsatz im Musikunterricht.",
@@ -97918,6 +97866,10 @@
       {
         "type": "Person",
         "name": "Ilka Siedenburg"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "„Impro in Space“ verbindet digitales und analoges Musizieren zu einer kreativen Weltraumreise.\nSchüler:innen entwickeln in Kleingruppen improvisierte Klanglandschaften (Soundscapes & Grooves) zum Thema Reise durch den Weltraum.\nDabei kombinieren sie eigene Aufnahmen, bereitgestellte Soundpakete und improvisierte musikalische Aktionen zu einer Gesamtperformance.",
@@ -97942,7 +97894,8 @@
       "Gruppenarbeit",
       "Unterrichtssequenz",
       "Loopstation",
-      "loops"
+      "loops",
+      "soundscapes"
     ],
     "license": {
       "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
@@ -105307,7 +105260,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/ydN6QpgUtsj5RzmFX83JPL",
-    "name": "Didi produziert",
+    "name": "Tutorials zur digitalen Musikproduktion (Didi produziert)",
     "creator": [
       {
         "type": "Person",
@@ -105318,6 +105271,10 @@
       {
         "type": "Person",
         "name": "Arne Wachtmann"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "In unserer Fortbildungsreihe finden sich Kurse zu verschiedenen Themen der Musikproduktion im Schulunterricht. Ein zentraler Bestandteil sind Tutorial-Videos, die direkt im Unterricht eingesetzt werden können und einen niederschwelligen Zugang zu Themen wie Beatmaking, Mixing, Sound oder Bandrecording mit dem iPad bieten. Durch die Tutorials führt unser digitaler Avatar Didi.",
@@ -105614,6 +105571,10 @@
       {
         "type": "Person",
         "name": "Sophia Tobis"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Eine Übersicht über zentrale Begriffe der Musikproduktion.",
@@ -109189,6 +109150,10 @@
       {
         "type": "Person",
         "name": "Sophia Tobis"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Die Sample-Reise ist ein Konzept, mit dem du geschichtliche Hintergründe popmusikalischer Entwicklungen anhand eines spezifischen Samples nachvollziehen kannst.  ",
@@ -111916,6 +111881,10 @@
       {
         "type": "Person",
         "name": "Ulf Voss"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Dieses Dokument festigt die Grundlagen für dein erstes Musikdiktat. Die kannst deine Kenntnisse zum Violin-, Bass- und c-Schlüssel auffrischen und wiederholst, wo die Noten  in den Systemen liegen.",
@@ -111992,6 +111961,10 @@
       {
         "type": "Person",
         "name": "Ma.Fei"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Mit fünf Tönen in Dur kannst du hier dein erstes Notendiktat schreiben. Außerdem schulst du die Fähigkeit, dass du dir Töne innerlich vorstellen und dich an diese Töne auch erinnern kannst.",
@@ -112924,7 +112897,7 @@
       }
     ],
     "id": "https://openmusic.academy/docs/akncrfN5iREMToQCRqMRsL",
-    "name": "Politainment auf TikTok",
+    "name": "Politainment auf TikTok - Social Media",
     "creator": [
       {
         "type": "Person",
@@ -112935,6 +112908,10 @@
       {
         "type": "Person",
         "name": "Steffi Rocker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Diese Einheit analysiert politische Kommunikation auf TikTok als Mischung aus Unterhaltung und Information und zeigt, wie Musik, Trends und Parodien politische Botschaften prägen und verändern.",
@@ -113001,6 +112978,10 @@
       {
         "type": "Person",
         "name": "Steffi Rocker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Diese Einheit setzt sich kritisch mit der Darstellung von Geschlechterrollen in Musikvideos auseinander und fördert die Reflexion von Stereotypen sowie die Entwicklung eigener künstlerischer Gegenentwürfe.",
@@ -115455,6 +115436,10 @@
       {
         "type": "Person",
         "name": "Steffi Rocker"
+      },
+      {
+        "type": "Person",
+        "name": "Philip Stade"
       }
     ],
     "description": "Unterrichtsmaterialien zu Kurzvideos: Musikvideos auf Social Media. ",
@@ -124280,6 +124265,202 @@
     },
     "dateCreated": "2026-11-10T14:34:00.407Z",
     "datePublished": "2026-11-10T14:34:00.407Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/p7iRFwUKGAj8veA4aH3bRj",
+    "name": "Rhythmen erkennen",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Moritz Herzog"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Moritz Herzog"
+      },
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "Vorübungen für das Rhythmusdiktat in der fachpraktischen Abiturprüfung in Baden-Württemberg",
+    "keywords": [
+      "Gehörbildung",
+      "Rhythmusdiktat"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-17T09:15:33.741Z",
+    "datePublished": "2026-11-17T09:15:33.741Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/CuDtjhfLeKeUY5XFabqhtE",
+    "name": "Social Media und Musikpädagogik",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Philip Stade"
+      },
+      {
+        "type": "Person",
+        "name": "Matthias Droll"
+      }
+    ],
+    "description": "Welche Rolle spielt Social-Media (Instagram, TikTok, Youtube etc.) in der Musikpädagogik und im Musikunterricht?",
+    "keywords": [
+      "SocialMedia"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-17T10:37:46.580Z",
+    "datePublished": "2026-11-17T10:37:46.580Z",
+    "inLanguage": [
+      "de"
+    ],
+    "image": "https://openmusic.academy/images/oma-amb-hero-logo.png",
+    "about": [
+      {
+        "id": "https://w3id.org/kim/hochschulfaechersystematik/n78"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/kim/amb/context.jsonld",
+      {
+        "@language": "de"
+      }
+    ],
+    "type": [
+      "LearningResource",
+      "WebContent",
+      "Article"
+    ],
+    "isAccessibleForFree": true,
+    "learningResourceType": [
+      {
+        "id": "https://w3id.org/kim/hcrt/web_page",
+        "prefLabel": {
+          "de": "Webseite",
+          "en": "Web page"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "type": "Organization",
+        "name": "Open Music Academy"
+      }
+    ],
+    "id": "https://openmusic.academy/docs/ugtcuFVdV8jhwJhe8LCTza",
+    "name": "Kontrapunktisches Denken und Hören üben",
+    "creator": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "contributor": [
+      {
+        "type": "Person",
+        "name": "Ulrich Kaiser"
+      }
+    ],
+    "description": "In diesem Dokument kannst du das kontrapunktisches Denken und Hören anhand eines Satzmodells üben. In harmonischer Lesart lässt sich das Satzmodell als Quintfallsequenz interpretieren.",
+    "keywords": [
+      "Kontrapunktisches",
+      "Denken",
+      "und",
+      "Hören",
+      "üben"
+    ],
+    "license": {
+      "id": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "dateCreated": "2026-11-18T22:22:27.234Z",
+    "datePublished": "2026-11-18T22:22:27.234Z",
     "inLanguage": [
       "de"
     ],

@@ -5,7 +5,49 @@
     <link>https://openmusic.academy</link>
     <description>RSS Feed generiert aus AMB Metadaten</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:46:57 GMT</lastBuildDate>
+    <item>
+      <title>Kontrapunktisches Denken und Hören üben</title>
+      <link>https://openmusic.academy/docs/ugtcuFVdV8jhwJhe8LCTza</link>
+      <guid>ugtcuFVdV8jhwJhe8LCTza</guid>
+      <description>In diesem Dokument kannst du das kontrapunktisches Denken und Hören anhand eines Satzmodells üben. In harmonischer Lesart lässt sich das Satzmodell als Quintfallsequenz interpretieren.</description>
+      <pubDate>Wed, 18 Nov 2026 22:22:27 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Kontrapunktisches, Denken, und, Hören, üben</itunes:keywords>
+      <itunes:author>Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Social Media und Musikpädagogik</title>
+      <link>https://openmusic.academy/docs/CuDtjhfLeKeUY5XFabqhtE</link>
+      <guid>CuDtjhfLeKeUY5XFabqhtE</guid>
+      <description>Welche Rolle spielt Social-Media (Instagram, TikTok, Youtube etc.) in der Musikpädagogik und im Musikunterricht?</description>
+      <pubDate>Tue, 17 Nov 2026 10:37:46 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>SocialMedia</itunes:keywords>
+      <itunes:author>Philip Stade, Matthias Droll</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
+    <item>
+      <title>Rhythmen erkennen</title>
+      <link>https://openmusic.academy/docs/p7iRFwUKGAj8veA4aH3bRj</link>
+      <guid>p7iRFwUKGAj8veA4aH3bRj</guid>
+      <description>Vorübungen für das Rhythmusdiktat in der fachpraktischen Abiturprüfung in Baden-Württemberg</description>
+      <pubDate>Tue, 17 Nov 2026 09:15:33 GMT</pubDate>
+      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
+      <itunes:keywords>Gehörbildung, Rhythmusdiktat</itunes:keywords>
+      <itunes:author>Moritz Herzog, Ulrich Kaiser</itunes:author>
+      <sdx:subject>420</sdx:subject>
+      <sdx:licenseName>CC BY-SA</sdx:licenseName>
+      <sdx:licenseVersion>4.0</sdx:licenseVersion>
+      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
+    </item>
     <item>
       <title>Jazzharmonik - Einführung am Klavier</title>
       <link>https://openmusic.academy/docs/DDMxjVbYAgtfkwGdp6scHf</link>
@@ -1768,7 +1810,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Mon, 22 Jun 2026 16:16:53 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>SocialMedia, Kurzvideos, Musikvideos, TikTok</itunes:keywords>
-      <itunes:author>Steffi Rocker</itunes:author>
+      <itunes:author>Steffi Rocker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -2244,21 +2286,21 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Mon, 20 Apr 2026 21:09:43 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikvideos, Genderstereotype, Gender, Geschlechterdarstellungen, Inszenierung, Selbstinszenierung, Popmusik, HipHop, Kameraperspektiven, Kamera, Kameraeinstellungen, Posen</itunes:keywords>
-      <itunes:author>Steffi Rocker</itunes:author>
+      <itunes:author>Steffi Rocker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Politainment auf TikTok</title>
+      <title>Politainment auf TikTok - Social Media</title>
       <link>https://openmusic.academy/docs/akncrfN5iREMToQCRqMRsL</link>
       <guid>akncrfN5iREMToQCRqMRsL</guid>
       <description>Diese Einheit analysiert politische Kommunikation auf TikTok als Mischung aus Unterhaltung und Information und zeigt, wie Musik, Trends und Parodien politische Botschaften prägen und verändern.</description>
       <pubDate>Mon, 20 Apr 2026 17:30:56 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Politainment, Politik, TikTok, SocialMedia, Algorithmus, Musikvideos</itunes:keywords>
-      <itunes:author>Steffi Rocker</itunes:author>
+      <itunes:author>Steffi Rocker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -2426,7 +2468,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Fri, 27 Mar 2026 20:16:46 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>fünf, Tönen, in, Dur, Notendiktat, Töne, innerlich, vorstellen, Tonvorstellung, Tonerinnerung, Zahlensingen, relative, Methode, Gehörbildung, Tongedächtnis, Volklieder, notieren, Melodien</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ma.Fei</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ma.Fei, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -2440,7 +2482,7 @@ Dieser Kurs bringt dir eine Methode bei, deine Schupra-Skills mit gezielten Übu
       <pubDate>Fri, 27 Mar 2026 20:12:16 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Noten, im, und, Violinschlüssel, Bassschlüssel, c-Schüssel, Alt-Schlüssel, Altschlüssel, Bratschenschlüssel, Tenorschlüssel, Tenor-Schlüssel, Bass-Schlüssel</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ulf Voss</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ulf Voss, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -2933,7 +2975,7 @@ Text &amp; Musik: Martin Luther nach einer volkstümlichen Melodie</description>
       <pubDate>Tue, 24 Feb 2026 13:09:29 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Sampling, Breakbeats, Musikgeschichte</itunes:keywords>
-      <itunes:author>Sophia Tobis</itunes:author>
+      <itunes:author>Sophia Tobis, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -3600,7 +3642,7 @@ Ein Projekt des Landesvereins für Heimatpflege in Kooperation mit der OMA.</des
       <pubDate>Wed, 11 Feb 2026 13:59:33 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikproduktion, Producing</itunes:keywords>
-      <itunes:author>Arne Wachtmann, david scheiermann, Sophia Tobis</itunes:author>
+      <itunes:author>Arne Wachtmann, david scheiermann, Sophia Tobis, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -3650,14 +3692,14 @@ This resource presents the results of "The Digital Student," a practice-based re
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Didi produziert</title>
+      <title>Tutorials zur digitalen Musikproduktion (Didi produziert)</title>
       <link>https://openmusic.academy/docs/ydN6QpgUtsj5RzmFX83JPL</link>
       <guid>ydN6QpgUtsj5RzmFX83JPL</guid>
       <description>In unserer Fortbildungsreihe finden sich Kurse zu verschiedenen Themen der Musikproduktion im Schulunterricht. Ein zentraler Bestandteil sind Tutorial-Videos, die direkt im Unterricht eingesetzt werden können und einen niederschwelligen Zugang zu Themen wie Beatmaking, Mixing, Sound oder Bandrecording mit dem iPad bieten. Durch die Tutorials führt unser digitaler Avatar Didi.</description>
       <pubDate>Mon, 09 Feb 2026 09:24:54 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikproduktion, digitalmusikproduzieren, Digitalisierung, Beatmaking, EDM, Hip-Hop, Producing, Didi, produziert</itunes:keywords>
-      <itunes:author>Arne Wachtmann</itunes:author>
+      <itunes:author>Arne Wachtmann, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -5020,8 +5062,8 @@ Schüler:innen entwickeln in Kleingruppen improvisierte Klanglandschaften (Sound
 Dabei kombinieren sie eigene Aufnahmen, bereitgestellte Soundpakete und improvisierte musikalische Aktionen zu einer Gesamtperformance.</description>
       <pubDate>Sun, 05 Oct 2025 11:16:06 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Impro, in, Space, Eine, Reise, durch, den, Weltraum, Improvisation, Improvisieren, Musikunterricht, #digitalemedien, Garageband, Koala, Sampler, Klassenmusizieren, Klassenmusik, Gruppenarbeit, Unterrichtssequenz, Loopstation, loops</itunes:keywords>
-      <itunes:author>Julian Vorst, Ilka Mestemacher, neckman1, Ilka Siedenburg</itunes:author>
+      <itunes:keywords>Impro, in, Space, Eine, Reise, durch, den, Weltraum, Improvisation, Improvisieren, Musikunterricht, #digitalemedien, Garageband, Koala, Sampler, Klassenmusizieren, Klassenmusik, Gruppenarbeit, Unterrichtssequenz, Loopstation, loops, soundscapes</itunes:keywords>
+      <itunes:author>Julian Vorst, Ilka Mestemacher, neckman1, Ilka Siedenburg, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -6212,7 +6254,7 @@ This collection offers basic knowledge, targeted exercises for warm up, techniqu
       <pubDate>Thu, 05 Jun 2025 11:49:42 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Boomwhackers, Kollektion, Musikunterricht, Schule, Musikschule, Früherziehung, Elementare, Musikalische, Übungen, Aufgaben, Klassenmusizieren, Klassenmusik, Rhythmus, Rhythmik, Inklusion, inklusiver, Grundschule, Boomwackers, Patterns, mit, Boomwhackern, Unterrichtseinheit, Schulklasse</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Elisabeth Wagner</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Elisabeth Wagner, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -6970,7 +7012,7 @@ Die Open Music Academy veranstaltete im November 2024 ein Symposium zu Tonaufnah
       <pubDate>Thu, 06 Mar 2025 14:57:54 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Mitmachen, mitarbeiten, Community, Unterrichten, Räume, Lernmanagementsystem, LMS, Redaktion, OMA, Rollen</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Oliver Kellermeier, Shinta Walker</itunes:author>
+      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Oliver Kellermeier, Shinta Walker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -8905,7 +8947,7 @@ Diese Zusammenstellung von Aufgaben ist aus einer Unterrichsstunde für die gymn
       <pubDate>Tue, 23 Apr 2024 06:34:58 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Analyse, Mozart, Stufentheorie, Funktionstheorie, Generalbass, Regola</itunes:keywords>
-      <itunes:author>Florian Grzeschik, Ulrich Kaiser, Levin Althaus </itunes:author>
+      <itunes:author>Florian Grzeschik, Ulrich Kaiser, Levin Althaus , Tobias Hauser</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -9890,7 +9932,7 @@ Diese sich daraus ergebende Unterrichtssequenz eignet sich für den Musikunterri
       <pubDate>Tue, 26 Dec 2023 11:47:02 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Portal, Musikunterricht, Schule, Unterrichtseinheiten, Unterrichtsgestaltung, allgemeinbildende, Gymnasium, Klassenmusik, Klassenmusizieren, Unterrichtssequenzen, Musikapps, allgemeine, Musiklehre, Epochen, Didaktik, Lehramt, Mittelschule, Realschule, Abitur, Grundschule, Musiklehrer, Schulmusik, Oper, Sekundarstufe, I, II, 1, 2, Oberstufe, Mittelstufe, Leistungskurs, Unterstufe, Portale, in, der</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Verena Wied, Ilka Mestemacher, Shinta Walker, Lukas-Eichenauer, Raphael Mayrhofer, Elisabeth Wagner, Renate von Jonquieres</itunes:author>
+      <itunes:author>Ulrich Kaiser, Verena Wied, Ilka Mestemacher, Shinta Walker, Lukas-Eichenauer, Raphael Mayrhofer, Elisabeth Wagner, Renate von Jonquieres, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12574,14 +12616,14 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Improvisieren lernen Schritt für Schritt</title>
+      <title>Improvisieren lernen - Schritt für Schritt</title>
       <link>https://openmusic.academy/docs/jtkRmMkr3vPY7LY3djapkb</link>
       <guid>jtkRmMkr3vPY7LY3djapkb</guid>
       <description>Tutorial zum Herantasten an das (tonal gebundene) Improvisieren zu einer vorgegebenen Harmoniefolge (1645). Für Kinder und Erwachsene geeignet.</description>
       <pubDate>Fri, 21 Apr 2023 08:13:03 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Improvisation, Improvisieren, Musikschule, Instrumental, Rhythmusbausteine, Schule, Tonal, Gebundene, Anfänger</itunes:keywords>
-      <itunes:author>Julia Bauer, Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:author>Julia Bauer, Ulrich Kaiser, Ilka Mestemacher, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -12630,14 +12672,14 @@ Neben kurzen Erklärungen und Notenbeispielen findest du zu jedem Stück zwei Vi
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Einsinghilfe für Chorleiter*innen</title>
+      <title>Einsingübungen für Chorleiter*innen</title>
       <link>https://openmusic.academy/docs/YxD7ugurmqVzPs3ZNhsGpK</link>
       <guid>YxD7ugurmqVzPs3ZNhsGpK</guid>
       <description>Das vorliegende Skript soll Chorleitenden als Anregung für den Einstieg in die Chorprobe dienen, sowohl zum Aufwärmen der Stimme als auch für die stimmliche Vorbereitung auf ausgewählte Literatur der Chorprobe.</description>
       <pubDate>Wed, 19 Apr 2023 13:40:20 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Einsingen, Chor, Chorleitung, Warm, Up, Gesang, aufwärmen, Übungen, für, Chorleiter*innen, Chorleiter:innen</itunes:keywords>
-      <itunes:author>Maria Loichinger, Ulrich Kaiser, Ilka Mestemacher</itunes:author>
+      <itunes:keywords>Einsingen, Chor, Chorleitung, Warm, Up, Gesang, aufwärmen, Übungen, für, Chorleiter*innen, Chorleiter:innen, warmup, warm-up</itunes:keywords>
+      <itunes:author>Maria Loichinger, Ulrich Kaiser, Ilka Mestemacher, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -14396,14 +14438,14 @@ Dieses Tutorial ist besonders geeignet für den Gebrauch im Musikunterricht an S
       <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
     </item>
     <item>
-      <title>Portal: Stil-Navigator</title>
+      <title>Portal: Genres und Stil-Navigator Populäre Musik</title>
       <link>https://openmusic.academy/docs/isDyG7iPLGQKRHed962726</link>
       <guid>isDyG7iPLGQKRHed962726</guid>
-      <description>In diesem Portal findest Du eine Beschreibung musikalischer Stile vom 17./18. Jahrundert bis in die Gegenwart. Viele dieser Stile kannst Du mithilfe des Mehrspur-Medien-Plugins hörend kennenlernen und erforschen.   </description>
+      <description>In diesem Portal findest Du eine Beschreibung verschiedener Genres und musikalischer Stile populärer Musik. Viele dieser Stile kannst Du mithilfe des Mehrspur-Medien-Plugins hörend kennenlernen und erforschen.   </description>
       <pubDate>Fri, 07 Oct 2022 11:38:33 GMT</pubDate>
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Portal, Stil-Navigator, Stile, Genres, Rhythmus, Groovebox, Stilnavigator, Styles, Portale</itunes:keywords>
-      <itunes:author>Mani Vieregg, Ulrich Kaiser, Ilka Mestemacher, Shinta Walker</itunes:author>
+      <itunes:author>Mani Vieregg, Ulrich Kaiser, Ilka Mestemacher, Shinta Walker, Philip Stade</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
@@ -18288,20 +18330,6 @@ Dieses praktische Musizieren lässt sich vor allem als Unterrichtseinheit in der
       <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
       <itunes:keywords>Musikhochschule, Gehörbildung, Übungen, mit, Lösungen, Hördiktate, Melodiediktate, Punktdiktate, Selbststudium</itunes:keywords>
       <itunes:author>Fuchs-Stefan, Ilka Mestemacher, Theresa U, Ulrich Kaiser</itunes:author>
-      <sdx:subject>420</sdx:subject>
-      <sdx:licenseName>CC BY-SA</sdx:licenseName>
-      <sdx:licenseVersion>4.0</sdx:licenseVersion>
-      <sdx:learnResourceType>Anleitung</sdx:learnResourceType>
-    </item>
-    <item>
-      <title>Kadenzdispositionen in den Suitensätzen von J. S. Bach</title>
-      <link>https://openmusic.academy/docs/qXkhMVdEjoGMh9VoN7uL2p</link>
-      <guid>qXkhMVdEjoGMh9VoN7uL2p</guid>
-      <description>Anhand dieser Aufgaben können Sie das Erkennen von Kadenzen in den Suitensätzen der Französischen und Englischen Suiten von J. S. Bach üben.</description>
-      <pubDate>Wed, 16 Dec 2020 12:51:50 GMT</pubDate>
-      <media:content url="https://openmusic.academy/images/oma-amb-hero-logo.png" medium="image" />
-      <itunes:keywords>Musikhochschule, Analyse, Kadenzdispositionen, Suitensätzen, englische, französische, Suiten, Johann, Sebastian, Bach, Kadenzen, Übungen, Aufgaben, Musiktheorie</itunes:keywords>
-      <itunes:author>Ulrich Kaiser, Ilka Mestemacher, Theresa U</itunes:author>
       <sdx:subject>420</sdx:subject>
       <sdx:licenseName>CC BY-SA</sdx:licenseName>
       <sdx:licenseVersion>4.0</sdx:licenseVersion>
